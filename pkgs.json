@@ -163,7 +163,7 @@
   },
   {
     "Package": "alembic",
-    "Version": "1.8.9-1",
+    "Version": "1.8.10",
     "Description": "A framework for sharing scene data that includes a C++ lib, a file format and client plugin",
     "Homepage": "https://alembic.io"
   },
@@ -277,7 +277,7 @@
   },
   {
     "Package": "aom-tools",
-    "Version": "3.13.1",
+    "Version": "3.13.1-1",
     "Description": "Command-line tools using AOMedia library",
     "Homepage": "https://aomedia.org/"
   },
@@ -432,6 +432,12 @@
     "Homepage": "https://arturo-lang.io"
   },
   {
+    "Package": "ascii",
+    "Version": "3.30",
+    "Description": "List ASCII idiomatic names and octal/decimal code-point forms",
+    "Homepage": "http://www.catb.org/~esr/ascii/"
+  },
+  {
     "Package": "asciidoc",
     "Version": "10.2.1-1",
     "Description": "Text document format for short documents, articles, books and UNIX man pages.",
@@ -493,37 +499,37 @@
   },
   {
     "Package": "aspnetcore-runtime-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": "ASP.NET Core 8.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "aspnetcore-runtime-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": "ASP.NET Core 9.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "aspnetcore-runtime-dbg-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": "ASP.NET Core 8.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "aspnetcore-runtime-dbg-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": "ASP.NET Core 9.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "aspnetcore-targeting-pack-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": "ASP.NET Core 8.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "aspnetcore-targeting-pack-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": "ASP.NET Core 9.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -649,7 +655,7 @@
   },
   {
     "Package": "await",
-    "Version": "2.3.0",
+    "Version": "2.4.0",
     "Description": "Runs list of commands in parallel and waits for their termination",
     "Homepage": "https://github.com/slavaGanzin/await"
   },
@@ -787,7 +793,7 @@
   },
   {
     "Package": "binaryen",
-    "Version": "124",
+    "Version": "125",
     "Description": "Binaryen is a compiler and toolchain infrastructure library for WebAssembly",
     "Homepage": "https://github.com/WebAssembly/binaryen"
   },
@@ -871,7 +877,7 @@
   },
   {
     "Package": "blas-openblas",
-    "Version": "0.3.30-1",
+    "Version": "0.3.30-2",
     "Description": "OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE",
     "Homepage": "https://www.openblas.net"
   },
@@ -1021,7 +1027,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.8.2",
+    "Version": "3.8.3",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -1081,7 +1087,7 @@
   },
   {
     "Package": "c-ares",
-    "Version": "1.34.5-1",
+    "Version": "1.34.5-2",
     "Description": "Library for asynchronous DNS requests (including name resolves)",
     "Homepage": "https://c-ares.org/"
   },
@@ -1093,13 +1099,13 @@
   },
   {
     "Package": "c-toxcore",
-    "Version": "0.2.20-p20250105-1",
+    "Version": "0.2.20-p20250105-2",
     "Description": "Backend library for the Tox protocol",
     "Homepage": "https://tox.chat"
   },
   {
     "Package": "c-toxcore-static",
-    "Version": "0.2.20-p20250105-1",
+    "Version": "0.2.20-p20250105-2",
     "Description": "Static libraries for c-toxcore",
     "Homepage": "https://tox.chat"
   },
@@ -1171,7 +1177,7 @@
   },
   {
     "Package": "carapace",
-    "Version": "1.5.4",
+    "Version": "1.5.5",
     "Description": "Multi-shell multi-command argument completer",
     "Homepage": "https://carapace.sh/"
   },
@@ -1183,7 +1189,7 @@
   },
   {
     "Package": "cargo-leptos",
-    "Version": "0.2.47",
+    "Version": "0.3.0",
     "Description": "Build tool for the Rust framework Leptos",
     "Homepage": "https://github.com/leptos-rs/cargo-leptos"
   },
@@ -1321,13 +1327,13 @@
   },
   {
     "Package": "chafa",
-    "Version": "1.18.0",
+    "Version": "1.18.0-1",
     "Description": "Image-to-text converter supporting a wide range of symbols, etc.",
     "Homepage": "https://hpjansson.org/chafa/"
   },
   {
     "Package": "chafa-static",
-    "Version": "1.18.0",
+    "Version": "1.18.0-1",
     "Description": "Static libraries for chafa",
     "Homepage": "https://hpjansson.org/chafa/"
   },
@@ -1375,7 +1381,7 @@
   },
   {
     "Package": "chromaprint",
-    "Version": "1.6.0",
+    "Version": "1.6.0-1",
     "Description": "C library for generating audio fingerprints used by AcoustID (fpcalc tool)",
     "Homepage": "https://acoustid.org/chromaprint"
   },
@@ -1411,7 +1417,7 @@
   },
   {
     "Package": "clang",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "C language frontend for LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -1477,13 +1483,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "4.1.2",
+    "Version": "4.2.0",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "4.1.2",
+    "Version": "4.2.0",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -1585,7 +1591,7 @@
   },
   {
     "Package": "composer",
-    "Version": "2.9.1",
+    "Version": "2.9.2",
     "Description": "Dependency Manager for PHP",
     "Homepage": "https://getcomposer.org/"
   },
@@ -1609,7 +1615,7 @@
   },
   {
     "Package": "coreutils",
-    "Version": "9.8-1",
+    "Version": "9.9",
     "Description": "Basic file, shell and text manipulation utilities from the GNU project",
     "Homepage": "https://www.gnu.org/software/coreutils/"
   },
@@ -1669,7 +1675,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.2.7",
+    "Version": "1:10.3.1",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -1891,7 +1897,7 @@
   },
   {
     "Package": "debootstrap",
-    "Version": "1.0.141",
+    "Version": "1.0.142",
     "Description": "Bootstrap a basic Debian system",
     "Homepage": "https://wiki.debian.org/Debootstrap"
   },
@@ -1945,7 +1951,7 @@
   },
   {
     "Package": "difftastic",
-    "Version": "0.65.0",
+    "Version": "0.67.0",
     "Description": "difft: A structural diff that understands syntax",
     "Homepage": "https://github.com/Wilfred/difftastic"
   },
@@ -2065,7 +2071,7 @@
   },
   {
     "Package": "dnsutils",
-    "Version": "9.20.15",
+    "Version": "9.20.16",
     "Description": "Clients provided with BIND",
     "Homepage": "https://www.isc.org/bind/"
   },
@@ -2137,13 +2143,13 @@
   },
   {
     "Package": "dotnet-apphost-pack-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": ".NET 8.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-apphost-pack-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": ".NET 9.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2155,109 +2161,109 @@
   },
   {
     "Package": "dotnet-host-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": ".NET 8.0 Host",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-host-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": ".NET 9.0 Host",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-hostfxr-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": ".NET 8.0 Host Resolver",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-hostfxr-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": ".NET 9.0 Host Resolver",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-runtime-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": ".NET 8.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-runtime-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": ".NET 9.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-runtime-dbg-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": ".NET 8.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-runtime-dbg-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": ".NET 9.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-sdk-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": ".NET 8.0 SDK",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-sdk-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": ".NET 9.0 SDK",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-sdk-dbg-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": ".NET 8.0 SDK Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-sdk-dbg-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": ".NET 9.0 SDK Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-targeting-pack-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": ".NET 8.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-targeting-pack-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": ".NET 9.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-templates-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": ".NET 8.0 Templates",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet-templates-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": ".NET 9.0 Templates",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": ".NET 8.0",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "dotnet9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": ".NET 9.0",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2521,25 +2527,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "4.0.19",
+    "Version": "4.0.20",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "4.0.19",
+    "Version": "4.0.20",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "4.0.19",
+    "Version": "4.0.20",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "4.0.19",
+    "Version": "4.0.20",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -2551,13 +2557,13 @@
   },
   {
     "Package": "enchant",
-    "Version": "2.8.12-1",
+    "Version": "2.8.14",
     "Description": "Wraps a number of different spelling libraries and programs with a consistent interface",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
   {
     "Package": "enchant-static",
-    "Version": "2.8.12-1",
+    "Version": "2.8.14",
     "Description": "Static libraries for enchant",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
@@ -2635,7 +2641,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.41",
+    "Version": "13.42",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -2947,7 +2953,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "13.0.2",
+    "Version": "13.0.3",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -3067,7 +3073,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.66.1",
+    "Version": "0.67.0",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -3157,7 +3163,7 @@
   },
   {
     "Package": "gdal",
-    "Version": "3.12.0",
+    "Version": "3.12.0-1",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
@@ -3199,7 +3205,7 @@
   },
   {
     "Package": "gdu",
-    "Version": "5.31.0-1",
+    "Version": "5.32.0",
     "Description": "Fast disk usage analyzer with console interface written in Go",
     "Homepage": "https://github.com/dundee/gdu"
   },
@@ -3355,7 +3361,7 @@
   },
   {
     "Package": "git",
-    "Version": "2.51.2",
+    "Version": "2.52.0",
     "Description": "Fast, scalable, distributed revision control system",
     "Homepage": "https://git-scm.com/"
   },
@@ -3385,13 +3391,13 @@
   },
   {
     "Package": "git-gitk",
-    "Version": "2.51.2",
+    "Version": "2.52.0",
     "Description": "Git repository browser",
     "Homepage": "https://git-scm.com/"
   },
   {
     "Package": "git-gui",
-    "Version": "2.51.2",
+    "Version": "2.52.0",
     "Description": "A graphical interface to Git",
     "Homepage": "https://git-scm.com/"
   },
@@ -3409,7 +3415,7 @@
   },
   {
     "Package": "git-svn",
-    "Version": "2.51.2",
+    "Version": "2.52.0",
     "Description": "Convert between Git and Subversion repositories",
     "Homepage": "https://git-scm.com/"
   },
@@ -3451,7 +3457,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.77.0",
+    "Version": "1.78.2",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -3463,13 +3469,13 @@
   },
   {
     "Package": "glib",
-    "Version": "2.86.1",
+    "Version": "2.86.2",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.86.1",
+    "Version": "2.86.2",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -3589,7 +3595,7 @@
   },
   {
     "Package": "gnunet",
-    "Version": "0.26.0",
+    "Version": "0.26.1",
     "Description": "A framework for secure peer-to-peer networking",
     "Homepage": "https://gnunet.org"
   },
@@ -3631,7 +3637,7 @@
   },
   {
     "Package": "gnustep-make",
-    "Version": "2.9.3",
+    "Version": "2.9.3-1",
     "Description": "The GNUstep makefile package",
     "Homepage": "https://www.gnustep.org"
   },
@@ -4039,7 +4045,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.2.8",
+    "Version": "3.2.9",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -4351,7 +4357,7 @@
   },
   {
     "Package": "hyperfine",
-    "Version": "1.19.0-1",
+    "Version": "1.20.0",
     "Description": "A command-line benchmarking tool",
     "Homepage": "https://github.com/sharkdp/hyperfine"
   },
@@ -4405,7 +4411,7 @@
   },
   {
     "Package": "icu-devtools",
-    "Version": "77.1-2",
+    "Version": "78.1",
     "Description": "Development utilities for International Components for Unicode",
     "Homepage": "http://site.icu-project.org/home"
   },
@@ -4615,7 +4621,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.314",
+    "Version": "0.24.339",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -4633,7 +4639,7 @@
   },
   {
     "Package": "janet",
-    "Version": "1.40.0",
+    "Version": "1.40.1",
     "Description": "Janet is a dialect of Lisp intended for embedding into programs and such",
     "Homepage": "https://janet-lang.org"
   },
@@ -4675,7 +4681,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.82.0",
+    "Version": "2.84.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -4747,7 +4753,7 @@
   },
   {
     "Package": "jq-lsp",
-    "Version": "0.1.13",
+    "Version": "0.1.14",
     "Description": "jq language server",
     "Homepage": "https://github.com/wader/jq-lsp"
   },
@@ -4855,7 +4861,7 @@
   },
   {
     "Package": "kcptun",
-    "Version": "20251113",
+    "Version": "20251118",
     "Description": "A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC",
     "Homepage": "https://github.com/xtaci/kcptun"
   },
@@ -5251,13 +5257,13 @@
   },
   {
     "Package": "libaom",
-    "Version": "3.13.1",
+    "Version": "3.13.1-1",
     "Description": "AV1 Video Codec Library",
     "Homepage": "https://aomedia.org/"
   },
   {
     "Package": "libaom-static",
-    "Version": "3.13.1",
+    "Version": "3.13.1-1",
     "Description": "Static libraries for libaom",
     "Homepage": "https://aomedia.org/"
   },
@@ -5269,13 +5275,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.8.2",
+    "Version": "3.8.3",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.8.2",
+    "Version": "3.8.3",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -5353,19 +5359,19 @@
   },
   {
     "Package": "libblocksruntime",
-    "Version": "1:6.1-1",
+    "Version": "1:6.2.1",
     "Description": "LLVM Blocks runtime library",
     "Homepage": "https://github.com/swiftlang/swift-corelibs-libdispatch"
   },
   {
     "Package": "libblosc",
-    "Version": "1.21.6-1",
+    "Version": "1.21.6-2",
     "Description": "A blocking, shuffling and loss-less compression library",
     "Homepage": "https://www.blosc.org"
   },
   {
     "Package": "libblosc-static",
-    "Version": "1.21.6-1",
+    "Version": "1.21.6-2",
     "Description": "Static libraries for libblosc",
     "Homepage": "https://www.blosc.org"
   },
@@ -5563,7 +5569,7 @@
   },
   {
     "Package": "libchromaprint",
-    "Version": "1.6.0",
+    "Version": "1.6.0-1",
     "Description": "C library for generating audio fingerprints used by AcoustID",
     "Homepage": "https://acoustid.org/chromaprint"
   },
@@ -5647,13 +5653,13 @@
   },
   {
     "Package": "libcommons-lang3-java",
-    "Version": "3.19.0",
+    "Version": "3.20.0",
     "Description": "A host of helper utilities for the java.lang API",
     "Homepage": "https://commons.apache.org/proper/commons-lang/"
   },
   {
     "Package": "libcompiler-rt",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "Compiler runtime libraries for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -5815,7 +5821,7 @@
   },
   {
     "Package": "libdispatch",
-    "Version": "1:6.1-1",
+    "Version": "1:6.2.1",
     "Description": "The libdispatch project, for concurrency on multicore hardware",
     "Homepage": "https://github.com/swiftlang/swift-corelibs-libdispatch"
   },
@@ -5839,7 +5845,7 @@
   },
   {
     "Package": "libdrm",
-    "Version": "2.4.128",
+    "Version": "2.4.129",
     "Description": "Userspace interface to kernel DRM services",
     "Homepage": "https://dri.freedesktop.org/wiki/"
   },
@@ -6163,7 +6169,7 @@
   },
   {
     "Package": "libgedit-gfls",
-    "Version": "0.3.0-1",
+    "Version": "0.3.1",
     "Description": "A module dedicated to file loading and saving",
     "Homepage": "https://gitlab.gnome.org/World/gedit/libgedit-gfls"
   },
@@ -6277,7 +6283,7 @@
   },
   {
     "Package": "libgnustep-base",
-    "Version": "1.31.1-2",
+    "Version": "1.31.1-3",
     "Description": "A library of general-purpose, non-graphical Objective C objects",
     "Homepage": "https://www.gnustep.org"
   },
@@ -6445,7 +6451,7 @@
   },
   {
     "Package": "libical",
-    "Version": "3.0.20-2",
+    "Version": "3.0.20-3",
     "Description": "Libical is an Open Source implementation of the iCalendar protocols and protocol data units",
     "Homepage": "https://libical.github.io/libical/"
   },
@@ -6469,19 +6475,19 @@
   },
   {
     "Package": "libicu",
-    "Version": "77.1-2",
+    "Version": "78.1",
     "Description": "International Components for Unicode library",
     "Homepage": "http://site.icu-project.org/home"
   },
   {
     "Package": "libicu-static",
-    "Version": "77.1-2",
+    "Version": "78.1",
     "Description": "Static libraries for libicu",
     "Homepage": "http://site.icu-project.org/home"
   },
   {
     "Package": "libid3tag",
-    "Version": "0.16.3-2",
+    "Version": "0.16.3-3",
     "Description": "MAD ID3 tag manipulation library",
     "Homepage": "http://www.underbit.com/products/mad/"
   },
@@ -6619,13 +6625,13 @@
   },
   {
     "Package": "libjanet",
-    "Version": "1.40.0",
+    "Version": "1.40.1",
     "Description": "Development library for Janet",
     "Homepage": "https://janet-lang.org"
   },
   {
     "Package": "libjanet-static",
-    "Version": "1.40.0",
+    "Version": "1.40.1",
     "Description": "Static libraries for libjanet",
     "Homepage": "https://janet-lang.org"
   },
@@ -6691,7 +6697,7 @@
   },
   {
     "Package": "libkiwix",
-    "Version": "14.1.0",
+    "Version": "14.1.0-1",
     "Description": "A library that contains a lot of things used by other kiwix programs",
     "Homepage": "https://github.com/kiwix/libkiwix"
   },
@@ -6745,13 +6751,13 @@
   },
   {
     "Package": "libllvm",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "Modular compiler and toolchain technologies library",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "libllvm-static",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "Static libraries for libllvm",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -6877,13 +6883,13 @@
   },
   {
     "Package": "libluajit",
-    "Version": "1:2.1.1762795099",
+    "Version": "1:2.1.1763148144",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
   {
     "Package": "libluajit-static",
-    "Version": "1:2.1.1762795099",
+    "Version": "1:2.1.1763148144",
     "Description": "Static libraries for libluajit",
     "Homepage": "https://luajit.org/"
   },
@@ -7195,7 +7201,7 @@
   },
   {
     "Package": "libmuparser",
-    "Version": "2.3.5-1",
+    "Version": "2.3.5-2",
     "Description": "An extensible high performance math expression parser library written in C++",
     "Homepage": "https://beltoforion.de/en/muparser"
   },
@@ -7399,7 +7405,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.117",
+    "Version": "3.118.1",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -7417,7 +7423,7 @@
   },
   {
     "Package": "libobjc2",
-    "Version": "2.1-3",
+    "Version": "2.3-1",
     "Description": "The GNUstep Objective-C runtime",
     "Homepage": "https://www.gnustep.org/"
   },
@@ -7453,13 +7459,13 @@
   },
   {
     "Package": "libopenblas",
-    "Version": "0.3.30-1",
+    "Version": "0.3.30-2",
     "Description": "An optimized BLAS library based on GotoBLAS2 1.13 BSD",
     "Homepage": "https://www.openblas.net"
   },
   {
     "Package": "libopenblas-static",
-    "Version": "0.3.30-1",
+    "Version": "0.3.30-2",
     "Description": "Static libraries for libopenblas",
     "Homepage": "https://www.openblas.net"
   },
@@ -7609,13 +7615,13 @@
   },
   {
     "Package": "libpano13",
-    "Version": "2.9.23",
+    "Version": "2.9.23-1",
     "Description": "Part of the Panorama Tools by Helmut Dersch",
     "Homepage": "https://panotools.sourceforge.net/"
   },
   {
     "Package": "libpano13-static",
-    "Version": "2.9.23",
+    "Version": "2.9.23-1",
     "Description": "Static libraries for libpano13",
     "Homepage": "https://panotools.sourceforge.net/"
   },
@@ -7717,13 +7723,13 @@
   },
   {
     "Package": "libpng",
-    "Version": "1.6.50-1",
+    "Version": "1.6.51",
     "Description": "Official PNG reference library",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
   {
     "Package": "libpng-static",
-    "Version": "1.6.50-1",
+    "Version": "1.6.51",
     "Description": "Static libraries for libpng",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
@@ -7747,7 +7753,7 @@
   },
   {
     "Package": "libpolly",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "High-level loop and data-locality optimizer for clang",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -7813,13 +7819,13 @@
   },
   {
     "Package": "libraptor2",
-    "Version": "2.0.16-9",
+    "Version": "2.0.16-10",
     "Description": "RDF Syntax Library",
     "Homepage": "https://librdf.org/raptor/"
   },
   {
     "Package": "libraptor2-static",
-    "Version": "2.0.16-9",
+    "Version": "2.0.16-10",
     "Description": "Static libraries for libraptor2",
     "Homepage": "https://librdf.org/raptor/"
   },
@@ -8281,7 +8287,7 @@
   },
   {
     "Package": "libsrt",
-    "Version": "1.5.4-1",
+    "Version": "1.5.4-2",
     "Description": "Secure Reliable Transport (SRT) Protocol",
     "Homepage": "https://github.com/Haivision/srt"
   },
@@ -8527,19 +8533,19 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.2",
+    "Version": "0.16.3",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
   {
     "Package": "libtorrent-rasterbar",
-    "Version": "2.0.11-3",
+    "Version": "2.0.11-4",
     "Description": "A feature complete C++ bittorrent implementation focusing on efficiency and scalability",
     "Homepage": "https://libtorrent.org/"
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.2",
+    "Version": "0.16.3",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8899,7 +8905,7 @@
   },
   {
     "Package": "libwolfssl",
-    "Version": "5.8.2-1",
+    "Version": "5.8.4",
     "Description": "A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud",
     "Homepage": "https://www.wolfssl.com/"
   },
@@ -8965,13 +8971,13 @@
   },
   {
     "Package": "libxapian",
-    "Version": "1.4.29-1",
+    "Version": "1.4.30",
     "Description": "Xapian search engine library",
     "Homepage": "https://xapian.org"
   },
   {
     "Package": "libxapian-static",
-    "Version": "1.4.29-1",
+    "Version": "1.4.30",
     "Description": "Static libraries for libxapian",
     "Homepage": "https://xapian.org"
   },
@@ -9115,19 +9121,19 @@
   },
   {
     "Package": "libxml2",
-    "Version": "2.15.1",
+    "Version": "2.15.1-1",
     "Description": "Library for parsing XML documents",
     "Homepage": "https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home"
   },
   {
     "Package": "libxml2-python",
-    "Version": "2.15.1",
+    "Version": "2.15.1-1",
     "Description": "Python bindings for libxml2",
     "Homepage": "https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home"
   },
   {
     "Package": "libxml2-utils",
-    "Version": "2.15.1",
+    "Version": "2.15.1-1",
     "Description": "XML utilities",
     "Homepage": "https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home"
   },
@@ -9175,7 +9181,7 @@
   },
   {
     "Package": "libxslt",
-    "Version": "1.1.43-2",
+    "Version": "1.1.43-3",
     "Description": "XSLT processing library",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },
@@ -9259,7 +9265,7 @@
   },
   {
     "Package": "libzim",
-    "Version": "9.4.0",
+    "Version": "9.4.0-1",
     "Description": "The ZIM library is the reference implementation for the ZIM file format.",
     "Homepage": "https://openzim.org"
   },
@@ -9379,25 +9385,25 @@
   },
   {
     "Package": "llbuild",
-    "Version": "6.1-1",
+    "Version": "6.2.1",
     "Description": "A low-level build system, used by the Swift Package Manager",
     "Homepage": "https://github.com/swiftlang/swift-llbuild"
   },
   {
     "Package": "lld",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "LLVM-based linker",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "lldb",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "LLVM-based debugger",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvm",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "LLVM modular compiler and toolchain executables",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9427,13 +9433,13 @@
   },
   {
     "Package": "llvm-tools",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "LLVM Development Tools",
     "Homepage": "https://clang.llvm.org/"
   },
   {
     "Package": "llvmgold",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "LLVM gold plugin",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -9469,13 +9475,13 @@
   },
   {
     "Package": "lowdown",
-    "Version": "2.0.2-1",
+    "Version": "2.0.4",
     "Description": "Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
   {
     "Package": "lowdown-static",
-    "Version": "2.0.2-1",
+    "Version": "2.0.4",
     "Description": "Static libraries for lowdown",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
@@ -9529,7 +9535,7 @@
   },
   {
     "Package": "lua-language-server",
-    "Version": "3.15.0-1",
+    "Version": "3.15.0-2",
     "Description": "Sumneko Lua Language Server coded in Lua",
     "Homepage": "https://github.com/sumneko/lua-language-server"
   },
@@ -9589,7 +9595,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1762795099",
+    "Version": "1:2.1.1763148144",
     "Description": "Just-In-Time compiler for Lua - command line tool",
     "Homepage": "https://luajit.org/"
   },
@@ -9745,13 +9751,13 @@
   },
   {
     "Package": "mariadb",
-    "Version": "2:12.0.2",
+    "Version": "2:12.1.2",
     "Description": "A drop-in replacement for mysql server",
     "Homepage": "https://mariadb.org"
   },
   {
     "Package": "mariadb-static",
-    "Version": "2:12.0.2",
+    "Version": "2:12.1.2",
     "Description": "Static libraries for mariadb",
     "Homepage": "https://mariadb.org"
   },
@@ -9799,7 +9805,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "0.2510.0",
+    "Version": "0.2511.0",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -9847,7 +9853,7 @@
   },
   {
     "Package": "mdbook",
-    "Version": "0.4.52-1",
+    "Version": "0.5.1",
     "Description": "Creates book from markdown files",
     "Homepage": "https://rust-lang.github.io/mdBook/"
   },
@@ -9889,19 +9895,19 @@
   },
   {
     "Package": "mdbook-mermaid",
-    "Version": "0.16.2",
+    "Version": "0.17.0",
     "Description": "A preprocessor for mdbook to add mermaid support",
     "Homepage": "https://github.com/badboy/mdbook-mermaid"
   },
   {
     "Package": "mdbook-open-on-gh",
-    "Version": "2.4.3-1",
+    "Version": "3.0.0",
     "Description": "A preprocessor for mdbook to add a open-on-github link on every page",
     "Homepage": "https://github.com/badboy/mdbook-open-on-gh"
   },
   {
     "Package": "mdbook-pikchr",
-    "Version": "0.1.9-1",
+    "Version": "0.2.0",
     "Description": "A mdbook preprocessor to render pikchr code blocks as images in your book",
     "Homepage": "https://github.com/podsvirov/mdbook-pikchr"
   },
@@ -9937,7 +9943,7 @@
   },
   {
     "Package": "mdbook-toc",
-    "Version": "0.14.2-1",
+    "Version": "0.15.1",
     "Description": "A preprocessor for mdbook to add inline Table of Contents support",
     "Homepage": "https://github.com/badboy/mdbook-toc"
   },
@@ -9979,7 +9985,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.15.3",
+    "Version": "1.15.4",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },
@@ -10015,25 +10021,25 @@
   },
   {
     "Package": "mesa",
-    "Version": "25.2.5",
+    "Version": "25.3.0",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "25.2.5",
+    "Version": "25.3.0",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "25.2.5",
+    "Version": "25.3.0",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "25.2.5",
+    "Version": "25.3.0",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -10177,7 +10183,7 @@
   },
   {
     "Package": "mlir",
-    "Version": "21.1.5",
+    "Version": "21.1.5-1",
     "Description": "A Multi-Level Intermediate Representation for compilers from LLVM",
     "Homepage": "https://clang.llvm.org/"
   },
@@ -10327,7 +10333,7 @@
   },
   {
     "Package": "mpd",
-    "Version": "0.24.6-1",
+    "Version": "0.24.6-3",
     "Description": "Music player daemon",
     "Homepage": "https://www.musicpd.org"
   },
@@ -10363,7 +10369,7 @@
   },
   {
     "Package": "msedit",
-    "Version": "1.2.1",
+    "Version": "1.2.1-1",
     "Description": "A simple editor for simple needs (Microsoft Edit)",
     "Homepage": "https://github.com/microsoft/edit"
   },
@@ -10441,13 +10447,13 @@
   },
   {
     "Package": "music-file-organizer",
-    "Version": "1.0.4-9",
+    "Version": "1.0.4-10",
     "Description": "Organizer of audio files into directories based on metadata tags",
     "Homepage": "https://git.zx2c4.com/music-file-organizer/about/"
   },
   {
     "Package": "mutt",
-    "Version": "2.2.15",
+    "Version": "2.2.16",
     "Description": "Mail client with patches from neomutt",
     "Homepage": "http://www.mutt.org/"
   },
@@ -10561,7 +10567,7 @@
   },
   {
     "Package": "ncmpcpp",
-    "Version": "0.10.1-6",
+    "Version": "0.10.1-7",
     "Description": "NCurses Music Player Client (Plus Plus)",
     "Homepage": "https://rybczak.net/ncmpcpp/"
   },
@@ -10651,7 +10657,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.8.26",
+    "Version": "0.9.0",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://neocmakelsp.github.io/"
   },
@@ -10741,13 +10747,13 @@
   },
   {
     "Package": "netstandard-targeting-pack-2.1-8.0",
-    "Version": "8.0.22",
+    "Version": "8.0.22-2",
     "Description": "NETStandard.Library 2.1 Targeting Pack (.NET 8.0)",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
   {
     "Package": "netstandard-targeting-pack-2.1-9.0",
-    "Version": "9.0.9",
+    "Version": "9.0.11-1",
     "Description": "NETStandard.Library 2.1 Targeting Pack (.NET 9.0)",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -10795,7 +10801,7 @@
   },
   {
     "Package": "ninja",
-    "Version": "1.13.1-1",
+    "Version": "1.13.2",
     "Description": "A small build system with a focus on speed",
     "Homepage": "https://ninja-build.org"
   },
@@ -10849,13 +10855,13 @@
   },
   {
     "Package": "nodejs",
-    "Version": "24.9.0",
+    "Version": "24.9.0-1",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
   {
     "Package": "nodejs-lts",
-    "Version": "22.20.0",
+    "Version": "22.20.0-1",
     "Description": "Open Source, cross-platform JavaScript runtime environment",
     "Homepage": "https://nodejs.org/"
   },
@@ -10909,7 +10915,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.117",
+    "Version": "3.118.1",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -11287,7 +11293,7 @@
   },
   {
     "Package": "openxr",
-    "Version": "1.1.53",
+    "Version": "1.1.53-1",
     "Description": "Open standard that provides a common set of APIs for developing XR applications",
     "Homepage": "https://www.khronos.org/openxr/"
   },
@@ -11359,19 +11365,19 @@
   },
   {
     "Package": "oxc-language-server",
-    "Version": "1.16.0",
+    "Version": "1.27.0",
     "Description": "Oxc JavaScript linter language server",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxfmt",
-    "Version": "1.16.0",
+    "Version": "1.27.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.16.0",
+    "Version": "1.27.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -11617,7 +11623,7 @@
   },
   {
     "Package": "peaclock",
-    "Version": "0.4.3-8",
+    "Version": "0.4.3-9",
     "Description": "A responsive and customizable clock, timer, and stopwatch for the terminal.",
     "Homepage": "https://github.com/octobanana/peaclock"
   },
@@ -11665,37 +11671,37 @@
   },
   {
     "Package": "php",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "Server-side, HTML-embedded scripting language",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "Apache 2.0 Handler module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-ldap",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "LDAP module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-opcache",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "OPcache module for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-pgsql",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "PostgreSQL modules for PHP/Apache",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-apache-sodium",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "Sodium module for PHP/Apache",
     "Homepage": "https://php.net"
   },
@@ -11707,13 +11713,13 @@
   },
   {
     "Package": "php-fpm",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "FastCGI Process Manager for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-gd",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "gd module for PHP",
     "Homepage": "https://php.net"
   },
@@ -11725,13 +11731,13 @@
   },
   {
     "Package": "php-ldap",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "LDAP module for PHP",
     "Homepage": "https://php.net"
   },
   {
     "Package": "php-pgsql",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "PostgreSQL modules for PHP",
     "Homepage": "https://php.net"
   },
@@ -11749,7 +11755,7 @@
   },
   {
     "Package": "php-sodium",
-    "Version": "8.4.2-3",
+    "Version": "8.4.2-4",
     "Description": "Sodium module for PHP",
     "Homepage": "https://php.net"
   },
@@ -11797,7 +11803,7 @@
   },
   {
     "Package": "pingme",
-    "Version": "0.2.6-4",
+    "Version": "0.2.7",
     "Description": "A small utility which can be called from anywhere to send a message with particular information",
     "Homepage": "https://github.com/kha7iq/pingme"
   },
@@ -11815,7 +11821,7 @@
   },
   {
     "Package": "pipewire",
-    "Version": "1.2.7-2",
+    "Version": "1.4.9",
     "Description": "A server and user space API to deal with multimedia pipelines",
     "Homepage": "https://pipewire.org/"
   },
@@ -11875,7 +11881,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.33.0",
+    "Version": "0.34.0",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -11959,13 +11965,13 @@
   },
   {
     "Package": "postgresql",
-    "Version": "17.0-4",
+    "Version": "17.0-5",
     "Description": "Object-relational SQL database",
     "Homepage": "https://www.postgresql.org"
   },
   {
     "Package": "postgresql-static",
-    "Version": "17.0-4",
+    "Version": "17.0-5",
     "Description": "Static libraries for postgresql",
     "Homepage": "https://www.postgresql.org"
   },
@@ -12061,7 +12067,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "4.31.0",
+    "Version": "4.32.0",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
@@ -12253,7 +12259,7 @@
   },
   {
     "Package": "python-cmake",
-    "Version": "4.1.0-1",
+    "Version": "4.2.0",
     "Description": "Python wrapper for CMake",
     "Homepage": "https://cmake-python-distributions.readthedocs.io/"
   },
@@ -12301,7 +12307,7 @@
   },
   {
     "Package": "python-llvmlite",
-    "Version": "0.44.0",
+    "Version": "0.44.0-1",
     "Description": "A lightweight LLVM python binding for writing JIT compilers",
     "Homepage": "https://llvmlite.pydata.org/"
   },
@@ -12319,13 +12325,13 @@
   },
   {
     "Package": "python-numpy",
-    "Version": "2.2.5-1",
+    "Version": "2.2.5-2",
     "Description": "The fundamental package for scientific computing with Python",
     "Homepage": "https://numpy.org/"
   },
   {
     "Package": "python-numpy-static",
-    "Version": "2.2.5-1",
+    "Version": "2.2.5-2",
     "Description": "Static libraries for python-numpy",
     "Homepage": "https://numpy.org/"
   },
@@ -12337,7 +12343,7 @@
   },
   {
     "Package": "python-pillow",
-    "Version": "11.1.0-2",
+    "Version": "12.0.0",
     "Description": "Python Imaging Library",
     "Homepage": "https://python-pillow.org/"
   },
@@ -12367,7 +12373,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.14.5",
+    "Version": "0.14.6",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -12451,7 +12457,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2025.11.12",
+    "Version": "2025.11.12-1",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
@@ -12487,13 +12493,13 @@
   },
   {
     "Package": "qalc",
-    "Version": "5.8.1",
+    "Version": "5.8.2",
     "Description": "Powerful and easy to use command line calculator",
     "Homepage": "https://qalculate.github.io/"
   },
   {
     "Package": "qalc-static",
-    "Version": "5.8.1",
+    "Version": "5.8.2",
     "Description": "Static libraries for qalc",
     "Homepage": "https://qalculate.github.io/"
   },
@@ -12667,7 +12673,7 @@
   },
   {
     "Package": "rabbitmq-server",
-    "Version": "4.2.0",
+    "Version": "4.2.1",
     "Description": "Feature rich, multi-protocol messaging and streaming broker",
     "Homepage": "https://github.com/rabbitmq/rabbitmq-server"
   },
@@ -12769,7 +12775,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.71.2",
+    "Version": "1.72.0",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },
@@ -12877,7 +12883,7 @@
   },
   {
     "Package": "redis",
-    "Version": "1:8.2.3",
+    "Version": "1:8.4.0",
     "Description": "In-memory data structure store used as a database, cache and message broker",
     "Homepage": "https://redis.io/"
   },
@@ -13075,7 +13081,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.16.2",
+    "Version": "0.16.3",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
@@ -13129,7 +13135,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.14.5",
+    "Version": "0.14.6",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13159,7 +13165,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20251110",
+    "Version": "20251117",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -13267,7 +13273,7 @@
   },
   {
     "Package": "samba",
-    "Version": "4.16.11-5",
+    "Version": "4.16.11-6",
     "Description": "SMB/CIFS fileserver",
     "Homepage": "https://www.samba.org/"
   },
@@ -13375,7 +13381,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "3.0.4",
+    "Version": "3.0.6",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
@@ -13453,7 +13459,7 @@
   },
   {
     "Package": "shaderc",
-    "Version": "2025.4-1",
+    "Version": "2025.4-2",
     "Description": "Collection of tools, libraries, and tests for Vulkan shader compilation",
     "Homepage": "https://github.com/google/shaderc"
   },
@@ -13681,13 +13687,13 @@
   },
   {
     "Package": "softether-vpn",
-    "Version": "5.02.5180-5",
+    "Version": "5.2.5188",
     "Description": "An open-source cross-platform multi-protocol VPN program",
     "Homepage": "https://www.softether.org/"
   },
   {
     "Package": "softether-vpn-static",
-    "Version": "5.02.5180-5",
+    "Version": "5.2.5188",
     "Description": "Static libraries for softether-vpn",
     "Homepage": "https://www.softether.org/"
   },
@@ -13735,13 +13741,13 @@
   },
   {
     "Package": "speechd",
-    "Version": "0.11.5-2",
+    "Version": "0.12.1",
     "Description": "Common interface to speech synthesis",
     "Homepage": "https://github.com/brailcom/speechd"
   },
   {
     "Package": "speechd-data",
-    "Version": "0.11.5-2",
+    "Version": "0.12.1",
     "Description": "Platform-independent data for speechd",
     "Homepage": "https://github.com/brailcom/speechd"
   },
@@ -13777,7 +13783,7 @@
   },
   {
     "Package": "spidermonkey",
-    "Version": "128.10.0-1",
+    "Version": "128.10.0-2",
     "Description": "Mozillas JavaScript engine",
     "Homepage": "https://spidermonkey.dev"
   },
@@ -13801,7 +13807,7 @@
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.4.328.1",
+    "Version": "1.4.328.1-1",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },
@@ -13861,7 +13867,7 @@
   },
   {
     "Package": "srt-tools",
-    "Version": "1.5.4-1",
+    "Version": "1.5.4-2",
     "Description": "Command-line tools for libsrt",
     "Homepage": "https://github.com/Haivision/srt"
   },
@@ -13933,7 +13939,7 @@
   },
   {
     "Package": "starship",
-    "Version": "1.24.0",
+    "Version": "1.24.1",
     "Description": "A minimal, blazing fast, and extremely customizable prompt for any shell",
     "Homepage": "https://starship.rs"
   },
@@ -13999,7 +14005,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.141.4",
+    "Version": "1.142.4",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -14125,43 +14131,43 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "9.3.34",
+    "Version": "9.3.35",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
   {
     "Package": "swift-runtime-aarch64",
-    "Version": "6.1.3",
+    "Version": "6.2.1",
     "Description": "Swift runtime libraries for Android AArch64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-runtime-arm",
-    "Version": "6.1.3",
+    "Version": "6.2.1",
     "Description": "Swift runtime libraries for Android armv7",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-runtime-x86-64",
-    "Version": "6.1.3",
+    "Version": "6.2.1",
     "Description": "Swift runtime libraries for Android x86_64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-aarch64",
-    "Version": "6.1.3",
+    "Version": "6.2.1",
     "Description": "Swift SDK for Android AArch64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-arm",
-    "Version": "6.1.3",
+    "Version": "6.2.1",
     "Description": "Swift SDK for Android armv7",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-x86-64",
-    "Version": "6.1.3",
+    "Version": "6.2.1",
     "Description": "Swift SDK for Android x86_64",
     "Homepage": "https://swift.org/"
   },
@@ -14215,7 +14221,7 @@
   },
   {
     "Package": "taglib",
-    "Version": "2.1.1-1",
+    "Version": "2.1.1-3",
     "Description": "A Library for reading and editing the meta-data of several popular audio formats.",
     "Homepage": "http://taglib.github.io/"
   },
@@ -14311,7 +14317,7 @@
   },
   {
     "Package": "tectonic",
-    "Version": "0.15.0-4",
+    "Version": "0.15.0-5",
     "Description": "A modernized, complete, self-contained TeX/LaTeX engine",
     "Homepage": "https://tectonic-typesetting.github.io/"
   },
@@ -14329,7 +14335,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.4.0",
+    "Version": "18.4.1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -14491,7 +14497,7 @@
   },
   {
     "Package": "tesseract",
-    "Version": "5.5.1-1",
+    "Version": "5.5.1-2",
     "Description": "Tesseract is probably the most accurate open source OCR engine available",
     "Homepage": "https://github.com/tesseract-ocr/tesseract"
   },
@@ -14521,13 +14527,13 @@
   },
   {
     "Package": "texlive-bin",
-    "Version": "1:2025.0-1",
+    "Version": "1:2025.0-2",
     "Description": "TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.",
     "Homepage": "https://www.tug.org/texlive/"
   },
   {
     "Package": "texlive-bin-static",
-    "Version": "1:2025.0-1",
+    "Version": "1:2025.0-2",
     "Description": "Static libraries for texlive-bin",
     "Homepage": "https://www.tug.org/texlive/"
   },
@@ -14641,7 +14647,7 @@
   },
   {
     "Package": "tinysparql",
-    "Version": "3.9.2-1",
+    "Version": "3.9.2-2",
     "Description": "Desktop-neutral metadata-based search framework",
     "Homepage": "https://gnome.pages.gitlab.gnome.org/tinysparql"
   },
@@ -14695,13 +14701,13 @@
   },
   {
     "Package": "topgrade",
-    "Version": "16.2.1",
+    "Version": "16.4.2",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
   {
     "Package": "tor",
-    "Version": "0.4.8.20",
+    "Version": "0.4.8.21",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
   },
@@ -14773,19 +14779,19 @@
   },
   {
     "Package": "tree-sitter-c",
-    "Version": "0.24.1-3",
+    "Version": "0.24.1-4",
     "Description": "C grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter-c"
   },
   {
     "Package": "tree-sitter-lua",
-    "Version": "0.4.0-3",
+    "Version": "0.4.0-4",
     "Description": "Lua grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-lua"
   },
   {
     "Package": "tree-sitter-markdown",
-    "Version": "0.5.1",
+    "Version": "0.5.1-1",
     "Description": "Markdown grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-markdown"
   },
@@ -14797,7 +14803,7 @@
   },
   {
     "Package": "tree-sitter-query",
-    "Version": "0.7.0",
+    "Version": "0.7.0-1",
     "Description": "TS query grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter-grammars/tree-sitter-query"
   },
@@ -15037,7 +15043,7 @@
   },
   {
     "Package": "unar",
-    "Version": "1.10.8-2",
+    "Version": "1.10.8-3",
     "Description": "Command line tools for archive and file unarchiving and extraction",
     "Homepage": "https://theunarchiver.com/command-line"
   },
@@ -15103,7 +15109,7 @@
   },
   {
     "Package": "unrar",
-    "Version": "7.2.1",
+    "Version": "7.2.2",
     "Description": "Tool for extracting files from .rar archives",
     "Homepage": "https://www.rarlab.com/"
   },
@@ -15217,7 +15223,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.9.9-1",
+    "Version": "0.9.11",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15469,13 +15475,13 @@
   },
   {
     "Package": "vulkan-extension-layer",
-    "Version": "1.4.328",
+    "Version": "1.4.333",
     "Description": "Vulkan Extension Layer",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ExtensionLayer"
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.333",
+    "Version": "1.4.334",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -15499,7 +15505,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.333",
+    "Version": "1.4.334",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -15511,13 +15517,13 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.333",
+    "Version": "1.4.334",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
   {
     "Package": "vulkan-validation-layers",
-    "Version": "1.4.333",
+    "Version": "1.4.334",
     "Description": "Vulkan Validation Layers",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ValidationLayers"
   },
@@ -15793,7 +15799,7 @@
   },
   {
     "Package": "xapian-tools",
-    "Version": "1.4.29-1",
+    "Version": "1.4.30",
     "Description": "Basic tools for the Xapian search engine",
     "Homepage": "https://xapian.org"
   },
@@ -15871,7 +15877,7 @@
   },
   {
     "Package": "xsltproc",
-    "Version": "1.1.43-2",
+    "Version": "1.1.43-3",
     "Description": "XSLT command line processor",
     "Homepage": "http://xmlsoft.org/libxslt/"
   },
@@ -15979,15 +15985,21 @@
   },
   {
     "Package": "youtubedr",
-    "Version": "2.10.4-1",
+    "Version": "2.10.5",
     "Description": "Download youtube video in Golang",
     "Homepage": "https://github.com/kkdai/youtube"
   },
   {
     "Package": "yq",
-    "Version": "4.48.2",
+    "Version": "4.49.1",
     "Description": "A lightweight and portable command-line YAML, JSON and XML processor",
     "Homepage": "https://mikefarah.gitbook.io/yq/"
+  },
+  {
+    "Package": "yt-dlp-ejs",
+    "Version": "0.3.1",
+    "Description": "External JavaScript for yt-dlp supporting many runtimes",
+    "Homepage": "https://github.com/yt-dlp/ejs"
   },
   {
     "Package": "ytfzf",
@@ -16093,7 +16105,7 @@
   },
   {
     "Package": "znc",
-    "Version": "1.10.1-1",
+    "Version": "1.10.1-2",
     "Description": "An advanced IRC bouncer",
     "Homepage": "https://znc.in/"
   },

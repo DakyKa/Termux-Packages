@@ -107,7 +107,7 @@
   Description: Automatic Language-Agnostic Subtitle Synchronization
   Homepage: https://github.com/kaegi/alass
 - Package: alembic
-  Version: 1.8.9-1
+  Version: 1.8.10
   Description: A framework for sharing scene data that includes a C++ lib, a file format and client plugin
   Homepage: https://alembic.io
 - Package: algernon
@@ -183,7 +183,7 @@
   Description: A free MS Word reader
   Homepage: https://en.m.wikipedia.org/wiki/Antiword
 - Package: aom-tools
-  Version: 3.13.1
+  Version: 3.13.1-1
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: aosp-libs
@@ -286,6 +286,10 @@
   Version: 0.9.83-1
   Description: Simple, expressive & portable programming language for efficient scripting
   Homepage: https://arturo-lang.io
+- Package: ascii
+  Version: "3.30"
+  Description: List ASCII idiomatic names and octal/decimal code-point forms
+  Homepage: http://www.catb.org/~esr/ascii/
 - Package: asciidoc
   Version: 10.2.1-1
   Description: Text document format for short documents, articles, books and UNIX man pages.
@@ -327,27 +331,27 @@
   Description: Static libraries for aspell
   Homepage: http://aspell.net
 - Package: aspnetcore-runtime-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: ASP.NET Core 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: ASP.NET Core 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: ASP.NET Core 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: ASP.NET Core 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: ASP.NET Core 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: ASP.NET Core 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: assimp
@@ -431,7 +435,7 @@
   Description: Assember for the Atmel AVR microcontroller family
   Homepage: https://github.com/Ro5bert/avra
 - Package: await
-  Version: 2.3.0
+  Version: 2.4.0
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awesomeshot
@@ -523,7 +527,7 @@
   Description: An XMPP gateway that connects to IRC servers and translates between the two protocols
   Homepage: https://biboumi.louiz.org/
 - Package: binaryen
-  Version: "124"
+  Version: "125"
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
@@ -579,7 +583,7 @@
   Description: A simple, fast, clean and dynamic language
   Homepage: https://bladelang.com/
 - Package: blas-openblas
-  Version: 0.3.30-1
+  Version: 0.3.30-2
   Description: OpenBLAS symlinks for BLAS/CBLAS/LAPACK/LAPACKE
   Homepage: https://www.openblas.net
 - Package: blink
@@ -679,7 +683,7 @@
   Description: Classic text mode games from UNIX folklore
   Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 - Package: bsdtar
-  Version: 3.8.2
+  Version: 3.8.3
   Description: The tar(1) and cpio(1) programs from FreeBSD, using libarchive
   Homepage: https://www.libarchive.org/
 - Package: btfs2
@@ -719,7 +723,7 @@
   Description: Tools for working with bzip2 compression
   Homepage: http://www.bzip.org/
 - Package: c-ares
-  Version: 1.34.5-1
+  Version: 1.34.5-2
   Description: Library for asynchronous DNS requests (including name resolves)
   Homepage: https://c-ares.org/
 - Package: c-script
@@ -727,11 +731,11 @@
   Description: Compile and execute C scripts in one go!
   Homepage: https://github.com/ryanmjacobs/c
 - Package: c-toxcore
-  Version: 0.2.20-p20250105-1
+  Version: 0.2.20-p20250105-2
   Description: Backend library for the Tox protocol
   Homepage: https://tox.chat
 - Package: c-toxcore-static
-  Version: 0.2.20-p20250105-1
+  Version: 0.2.20-p20250105-2
   Description: Static libraries for c-toxcore
   Homepage: https://tox.chat
 - Package: ca-certificates
@@ -779,7 +783,7 @@
   Description: Static libraries for capstone
   Homepage: https://www.capstone-engine.org/
 - Package: carapace
-  Version: 1.5.4
+  Version: 1.5.5
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-c
@@ -787,7 +791,7 @@
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
 - Package: cargo-leptos
-  Version: 0.2.47
+  Version: 0.3.0
   Description: Build tool for the Rust framework Leptos
   Homepage: https://github.com/leptos-rs/cargo-leptos
 - Package: catdoc
@@ -879,11 +883,11 @@
   Description: A fast and lightweight GIF encoding library
   Homepage: https://github.com/dloebl/cgif
 - Package: chafa
-  Version: 1.18.0
+  Version: 1.18.0-1
   Description: Image-to-text converter supporting a wide range of symbols, etc.
   Homepage: https://hpjansson.org/chafa/
 - Package: chafa-static
-  Version: 1.18.0
+  Version: 1.18.0-1
   Description: Static libraries for chafa
   Homepage: https://hpjansson.org/chafa/
 - Package: check
@@ -915,7 +919,7 @@
   Description: A human-friendly and fast alternative to cut and (sometimes) awk
   Homepage: https://github.com/theryangeary/choose
 - Package: chromaprint
-  Version: 1.6.0
+  Version: 1.6.0-1
   Description: C library for generating audio fingerprints used by AcoustID (fpcalc tool)
   Homepage: https://acoustid.org/chromaprint
 - Package: chrony
@@ -939,7 +943,7 @@
   Description: Static libraries for clamav
   Homepage: https://www.clamav.net/
 - Package: clang
-  Version: 21.1.5
+  Version: 21.1.5-1
   Description: C language frontend for LLVM
   Homepage: https://clang.llvm.org/
 - Package: clblast
@@ -983,11 +987,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 4.1.2
+  Version: 4.2.0
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 4.1.2
+  Version: 4.2.0
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -1055,7 +1059,7 @@
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
-  Version: 2.9.1
+  Version: 2.9.2
   Description: Dependency Manager for PHP
   Homepage: https://getcomposer.org/
 - Package: console-bridge
@@ -1071,7 +1075,7 @@
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
-  Version: 9.8-1
+  Version: "9.9"
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
@@ -1111,7 +1115,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:10.2.7
+  Version: 1:10.3.1
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -1259,7 +1263,7 @@
   Description: Small utilities which are used primarily by the installation scripts of Debian packages
   Homepage: https://packages.debian.org/debianutils
 - Package: debootstrap
-  Version: 1.0.141
+  Version: 1.0.142
   Description: Bootstrap a basic Debian system
   Homepage: https://wiki.debian.org/Debootstrap
 - Package: desed
@@ -1295,7 +1299,7 @@
   Description: Displays a histogram of changes to a file
   Homepage: https://invisible-island.net/diffstat/diffstat.html
 - Package: difftastic
-  Version: 0.65.0
+  Version: 0.67.0
   Description: 'difft: A structural diff that understands syntax'
   Homepage: https://github.com/Wilfred/difftastic
 - Package: diffutils
@@ -1375,7 +1379,7 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.15
+  Version: 9.20.16
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
 - Package: docbook-xml
@@ -1423,11 +1427,11 @@
   Description: Static libraries for dotconf
   Homepage: https://github.com/williamh/dotconf
 - Package: dotnet-apphost-pack-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host
@@ -1435,75 +1439,75 @@
   Description: A metapackage for .NET Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: .NET 8.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: .NET 9.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: .NET 8.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: .NET 9.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: .NET 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: .NET 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: .NET 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: .NET 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: .NET 8.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: .NET 9.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: .NET 8.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: .NET 9.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: .NET 8.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: .NET 9.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: .NET 8.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: .NET 9.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: double-conversion
@@ -1679,19 +1683,19 @@
   Description: Emmy Lua Language Server coded in Rust
   Homepage: https://github.com/EmmyLuaLs/emmylua-analyzer-rust
 - Package: emscripten
-  Version: 4.0.19
+  Version: 4.0.20
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 4.0.19
+  Version: 4.0.20
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 4.0.19
+  Version: 4.0.20
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 4.0.19
+  Version: 4.0.20
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -1699,11 +1703,11 @@
   Description: A tool for compositing images using a Burt&Adelson multiresolution spline
   Homepage: https://enblend.sourceforge.net/
 - Package: enchant
-  Version: 2.8.12-1
+  Version: 2.8.14
   Description: Wraps a number of different spelling libraries and programs with a consistent interface
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enchant-static
-  Version: 2.8.12-1
+  Version: 2.8.14
   Description: Static libraries for enchant
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enscript
@@ -1755,7 +1759,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.41"
+  Version: "13.42"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -1963,7 +1967,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 13.0.2
+  Version: 13.0.3
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -2043,7 +2047,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.66.1
+  Version: 0.67.0
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
@@ -2103,7 +2107,7 @@
   Description: Program for calculating and printing calendars
   Homepage: https://www.gnu.org/software/gcal/
 - Package: gdal
-  Version: 3.12.0
+  Version: 3.12.0-1
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdb
@@ -2131,7 +2135,7 @@
   Description: Download a gdrive folder or file easily, shell ftw
   Homepage: https://github.com/Akianonymus/gdrive-downloader
 - Package: gdu
-  Version: 5.31.0-1
+  Version: 5.32.0
   Description: Fast disk usage analyzer with console interface written in Go
   Homepage: https://github.com/dundee/gdu
 - Package: geckodriver
@@ -2235,7 +2239,7 @@
   Description: GIF encoder based on libimagequant
   Homepage: https://gif.ski/
 - Package: git
-  Version: 2.51.2
+  Version: 2.52.0
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-credential-manager
@@ -2255,11 +2259,11 @@
   Description: Little git extras.
   Homepage: https://github.com/tj/git-extras
 - Package: git-gitk
-  Version: 2.51.2
+  Version: 2.52.0
   Description: Git repository browser
   Homepage: https://git-scm.com/
 - Package: git-gui
-  Version: 2.51.2
+  Version: 2.52.0
   Description: A graphical interface to Git
   Homepage: https://git-scm.com/
 - Package: git-lfs
@@ -2271,7 +2275,7 @@
   Description: Compute various size metrics for a Git repository
   Homepage: https://github.com/github/git-sizer
 - Package: git-svn
-  Version: 2.51.2
+  Version: 2.52.0
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: git-town
@@ -2299,7 +2303,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.77.0
+  Version: 1.78.2
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2307,11 +2311,11 @@
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
-  Version: 2.86.1
+  Version: 2.86.2
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.86.1
+  Version: 2.86.2
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
@@ -2391,7 +2395,7 @@
   Description: gnuit - GNU Interactive Tools
   Homepage: https://www.gnu.org/software/gnuit/
 - Package: gnunet
-  Version: 0.26.0
+  Version: 0.26.1
   Description: A framework for secure peer-to-peer networking
   Homepage: https://gnunet.org
 - Package: gnupg
@@ -2419,7 +2423,7 @@
   Description: Open source clone of Skifree, the old Windows game
   Homepage: https://sourceforge.net/projects/gnuski/
 - Package: gnustep-make
-  Version: 2.9.3
+  Version: 2.9.3-1
   Description: The GNUstep makefile package
   Homepage: https://www.gnustep.org
 - Package: gnutls
@@ -2691,7 +2695,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.2.8
+  Version: 3.2.9
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
@@ -2899,7 +2903,7 @@
   Description: A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
   Homepage: https://github.com/emersion/hydroxide
 - Package: hyperfine
-  Version: 1.19.0-1
+  Version: 1.20.0
   Description: A command-line benchmarking tool
   Homepage: https://github.com/sharkdp/hyperfine
 - Package: hz
@@ -2935,7 +2939,7 @@
   Description: Extracts and converts images in MS Windows(R) icon and cursor files
   Homepage: https://www.nongnu.org/icoutils/
 - Package: icu-devtools
-  Version: 77.1-2
+  Version: "78.1"
   Description: Development utilities for International Components for Unicode
   Homepage: http://site.icu-project.org/home
 - Package: id3lib
@@ -3075,7 +3079,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.314
+  Version: 0.24.339
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3087,7 +3091,7 @@
   Description: Dex to Java decompiler GUI
   Homepage: https://github.com/skylot/jadx
 - Package: janet
-  Version: 1.40.0
+  Version: 1.40.1
   Description: Janet is a dialect of Lisp intended for embedding into programs and such
   Homepage: https://janet-lang.org
 - Package: jbig2dec
@@ -3115,7 +3119,7 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
-  Version: 2.82.0
+  Version: 2.84.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3163,7 +3167,7 @@
   Description: Command-line JSON processor
   Homepage: https://stedolan.github.io/jq/
 - Package: jq-lsp
-  Version: 0.1.13
+  Version: 0.1.14
   Description: jq language server
   Homepage: https://github.com/wader/jq-lsp
 - Package: jq-static
@@ -3235,7 +3239,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kcptun
-  Version: "20251113"
+  Version: "20251118"
   Description: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC
   Homepage: https://github.com/xtaci/kcptun
 - Package: keybase
@@ -3499,11 +3503,11 @@
   Description: Static libraries for libao
   Homepage: https://www.xiph.org/ao/
 - Package: libaom
-  Version: 3.13.1
+  Version: 3.13.1-1
   Description: AV1 Video Codec Library
   Homepage: https://aomedia.org/
 - Package: libaom-static
-  Version: 3.13.1
+  Version: 3.13.1-1
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
@@ -3511,11 +3515,11 @@
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
-  Version: 3.8.2
+  Version: 3.8.3
   Description: Multi-format archive and compression library
   Homepage: https://www.libarchive.org/
 - Package: libarchive-static
-  Version: 3.8.2
+  Version: 3.8.3
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
@@ -3567,15 +3571,15 @@
   Description: Block device identification library
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libblocksruntime
-  Version: 1:6.1-1
+  Version: 1:6.2.1
   Description: LLVM Blocks runtime library
   Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 - Package: libblosc
-  Version: 1.21.6-1
+  Version: 1.21.6-2
   Description: A blocking, shuffling and loss-less compression library
   Homepage: https://www.blosc.org
 - Package: libblosc-static
-  Version: 1.21.6-1
+  Version: 1.21.6-2
   Description: Static libraries for libblosc
   Homepage: https://www.blosc.org
 - Package: libbluray
@@ -3707,7 +3711,7 @@
   Description: A fast and lightweight 2D game physics library
   Homepage: http://chipmunk2d.net
 - Package: libchromaprint
-  Version: 1.6.0
+  Version: 1.6.0-1
   Description: C library for generating audio fingerprints used by AcoustID
   Homepage: https://acoustid.org/chromaprint
 - Package: libclc
@@ -3763,11 +3767,11 @@
   Description: Static libraries for libcoinor-utils
   Homepage: https://github.com/coin-or/CoinUtils
 - Package: libcommons-lang3-java
-  Version: 3.19.0
+  Version: 3.20.0
   Description: A host of helper utilities for the java.lang API
   Homepage: https://commons.apache.org/proper/commons-lang/
 - Package: libcompiler-rt
-  Version: 21.1.5
+  Version: 21.1.5-1
   Description: Compiler runtime libraries for clang
   Homepage: https://clang.llvm.org/
 - Package: libconfig
@@ -3875,7 +3879,7 @@
   Description: A cross-platform image library utilizing a simple syntax
   Homepage: https://openil.sourceforge.net/
 - Package: libdispatch
-  Version: 1:6.1-1
+  Version: 1:6.2.1
   Description: The libdispatch project, for concurrency on multicore hardware
   Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 - Package: libdisplay-info
@@ -3891,7 +3895,7 @@
   Description: Static libraries for libdmtx
   Homepage: https://github.com/dmtx/libdmtx
 - Package: libdrm
-  Version: 2.4.128
+  Version: 2.4.129
   Description: Userspace interface to kernel DRM services
   Homepage: https://dri.freedesktop.org/wiki/
 - Package: libduckdb
@@ -4107,7 +4111,7 @@
   Description: Static libraries for libgd
   Homepage: https://libgd.github.io/
 - Package: libgedit-gfls
-  Version: 0.3.0-1
+  Version: 0.3.1
   Description: A module dedicated to file loading and saving
   Homepage: https://gitlab.gnome.org/World/gedit/libgedit-gfls
 - Package: libgee
@@ -4183,7 +4187,7 @@
   Description: An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way
   Homepage: https://keep.imfreedom.org/libgnt/libgnt
 - Package: libgnustep-base
-  Version: 1.31.1-2
+  Version: 1.31.1-3
   Description: A library of general-purpose, non-graphical Objective C objects
   Homepage: https://www.gnustep.org
 - Package: libgnutls
@@ -4295,7 +4299,7 @@
   Description: Static libraries for libhyphen
   Homepage: https://github.com/hunspell/hyphen
 - Package: libical
-  Version: 3.0.20-2
+  Version: 3.0.20-3
   Description: Libical is an Open Source implementation of the iCalendar protocols and protocol data units
   Homepage: https://libical.github.io/libical/
 - Package: libice
@@ -4311,15 +4315,15 @@
   Description: Static libraries for libiconv
   Homepage: https://www.gnu.org/software/libiconv/
 - Package: libicu
-  Version: 77.1-2
+  Version: "78.1"
   Description: International Components for Unicode library
   Homepage: http://site.icu-project.org/home
 - Package: libicu-static
-  Version: 77.1-2
+  Version: "78.1"
   Description: Static libraries for libicu
   Homepage: http://site.icu-project.org/home
 - Package: libid3tag
-  Version: 0.16.3-2
+  Version: 0.16.3-3
   Description: MAD ID3 tag manipulation library
   Homepage: http://www.underbit.com/products/mad/
 - Package: libidn
@@ -4411,11 +4415,11 @@
   Description: Static libraries for libisofs
   Homepage: https://dev.lovelyhq.com/libburnia
 - Package: libjanet
-  Version: 1.40.0
+  Version: 1.40.1
   Description: Development library for Janet
   Homepage: https://janet-lang.org
 - Package: libjanet-static
-  Version: 1.40.0
+  Version: 1.40.1
   Description: Static libraries for libjanet
   Homepage: https://janet-lang.org
 - Package: libjansi
@@ -4459,7 +4463,7 @@
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
 - Package: libkiwix
-  Version: 14.1.0
+  Version: 14.1.0-1
   Description: A library that contains a lot of things used by other kiwix programs
   Homepage: https://github.com/kiwix/libkiwix
 - Package: libknot
@@ -4495,11 +4499,11 @@
   Description: Static libraries for libliquid-dsp
   Homepage: https://liquidsdr.org/
 - Package: libllvm
-  Version: 21.1.5
+  Version: 21.1.5-1
   Description: Modular compiler and toolchain technologies library
   Homepage: https://clang.llvm.org/
 - Package: libllvm-static
-  Version: 21.1.5
+  Version: 21.1.5-1
   Description: Static libraries for libllvm
   Homepage: https://clang.llvm.org/
 - Package: liblmdb
@@ -4583,11 +4587,11 @@
   Description: Static libraries for liblua54
   Homepage: https://www.lua.org/
 - Package: libluajit
-  Version: 1:2.1.1762795099
+  Version: 1:2.1.1763148144
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: libluajit-static
-  Version: 1:2.1.1762795099
+  Version: 1:2.1.1763148144
   Description: Static libraries for libluajit
   Homepage: https://luajit.org/
 - Package: liblz4
@@ -4795,7 +4799,7 @@
   Description: Static libraries for libmsgpack
   Homepage: https://github.com/msgpack/msgpack-c/
 - Package: libmuparser
-  Version: 2.3.5-1
+  Version: 2.3.5-2
   Description: An extensible high performance math expression parser library written in C++
   Homepage: https://beltoforion.de/en/muparser
 - Package: libmypaint
@@ -4931,7 +4935,7 @@
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
-  Version: "3.117"
+  Version: 3.118.1
   Description: Network Security Services (NSS)
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: libntl
@@ -4943,7 +4947,7 @@
   Description: Static libraries for libntl
   Homepage: https://libntl.org
 - Package: libobjc2
-  Version: 2.1-3
+  Version: 2.3-1
   Description: The GNUstep Objective-C runtime
   Homepage: https://www.gnustep.org/
 - Package: libode
@@ -4967,11 +4971,11 @@
   Description: An implementation of the Double Ratchet cryptographic ratchet
   Homepage: https://matrix.org/docs/projects/other/olm/
 - Package: libopenblas
-  Version: 0.3.30-1
+  Version: 0.3.30-2
   Description: An optimized BLAS library based on GotoBLAS2 1.13 BSD
   Homepage: https://www.openblas.net
 - Package: libopenblas-static
-  Version: 0.3.30-1
+  Version: 0.3.30-2
   Description: Static libraries for libopenblas
   Homepage: https://www.openblas.net
 - Package: libopencc
@@ -5071,11 +5075,11 @@
   Description: A C++ API for Pango
   Homepage: https://www.gtkmm.org/
 - Package: libpano13
-  Version: 2.9.23
+  Version: 2.9.23-1
   Description: Part of the Panorama Tools by Helmut Dersch
   Homepage: https://panotools.sourceforge.net/
 - Package: libpano13-static
-  Version: 2.9.23
+  Version: 2.9.23-1
   Description: Static libraries for libpano13
   Homepage: https://panotools.sourceforge.net/
 - Package: libpaper
@@ -5143,11 +5147,11 @@
   Description: Static libraries for libpluto
   Homepage: https://plutolang.github.io/
 - Package: libpng
-  Version: 1.6.50-1
+  Version: 1.6.51
   Description: Official PNG reference library
   Homepage: http://www.libpng.org/pub/png/libpng.html
 - Package: libpng-static
-  Version: 1.6.50-1
+  Version: 1.6.51
   Description: Static libraries for libpng
   Homepage: http://www.libpng.org/pub/png/libpng.html
 - Package: libpngwriter
@@ -5163,7 +5167,7 @@
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
-  Version: 21.1.5
+  Version: 21.1.5-1
   Description: High-level loop and data-locality optimizer for clang
   Homepage: https://clang.llvm.org/
 - Package: libpopt
@@ -5207,11 +5211,11 @@
   Description: Fast and compact library for encoding data in a QR Code symbol
   Homepage: https://fukuchi.org/works/qrencode/
 - Package: libraptor2
-  Version: 2.0.16-9
+  Version: 2.0.16-10
   Description: RDF Syntax Library
   Homepage: https://librdf.org/raptor/
 - Package: libraptor2-static
-  Version: 2.0.16-9
+  Version: 2.0.16-10
   Description: Static libraries for libraptor2
   Homepage: https://librdf.org/raptor/
 - Package: libraqm
@@ -5519,7 +5523,7 @@
   Description: tcl bindings for SQLite
   Homepage: https://www.sqlite.org
 - Package: libsrt
-  Version: 1.5.4-1
+  Version: 1.5.4-2
   Description: Secure Reliable Transport (SRT) Protocol
   Homepage: https://github.com/Haivision/srt
 - Package: libssh
@@ -5683,15 +5687,15 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.16.2
+  Version: 0.16.3
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
-  Version: 2.0.11-3
+  Version: 2.0.11-4
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.16.2
+  Version: 0.16.3
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
@@ -5931,7 +5935,7 @@
   Description: Lightweight C websockets library
   Homepage: https://libwebsockets.org
 - Package: libwolfssl
-  Version: 5.8.2-1
+  Version: 5.8.4
   Description: A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud
   Homepage: https://www.wolfssl.com/
 - Package: libwren
@@ -5975,11 +5979,11 @@
   Description: Static libraries for libx265
   Homepage: http://x265.org/
 - Package: libxapian
-  Version: 1.4.29-1
+  Version: 1.4.30
   Description: Xapian search engine library
   Homepage: https://xapian.org
 - Package: libxapian-static
-  Version: 1.4.29-1
+  Version: 1.4.30
   Description: Static libraries for libxapian
   Homepage: https://xapian.org
 - Package: libxau
@@ -6075,15 +6079,15 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.15.1
+  Version: 2.15.1-1
   Description: Library for parsing XML documents
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-python
-  Version: 2.15.1
+  Version: 2.15.1-1
   Description: Python bindings for libxml2
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-utils
-  Version: 2.15.1
+  Version: 2.15.1-1
   Description: XML utilities
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxmlb
@@ -6115,7 +6119,7 @@
   Description: A library that exposes a event API on top of Linux futexes
   Homepage: https://xorg.freedesktop.org/
 - Package: libxslt
-  Version: 1.1.43-2
+  Version: 1.1.43-3
   Description: XSLT processing library
   Homepage: http://xmlsoft.org/libxslt/
 - Package: libxss
@@ -6171,7 +6175,7 @@
   Description: Static libraries for libzen
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libzim
-  Version: 9.4.0
+  Version: 9.4.0-1
   Description: The ZIM library is the reference implementation for the ZIM file format.
   Homepage: https://openzim.org
 - Package: libzimg
@@ -6251,19 +6255,19 @@
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llbuild
-  Version: 6.1-1
+  Version: 6.2.1
   Description: A low-level build system, used by the Swift Package Manager
   Homepage: https://github.com/swiftlang/swift-llbuild
 - Package: lld
-  Version: 21.1.5
+  Version: 21.1.5-1
   Description: LLVM-based linker
   Homepage: https://clang.llvm.org/
 - Package: lldb
-  Version: 21.1.5
+  Version: 21.1.5-1
   Description: LLVM-based debugger
   Homepage: https://clang.llvm.org/
 - Package: llvm
-  Version: 21.1.5
+  Version: 21.1.5-1
   Description: LLVM modular compiler and toolchain executables
   Homepage: https://clang.llvm.org/
 - Package: llvm-mingw-w64
@@ -6283,11 +6287,11 @@
   Description: MinGW-w64 runtime for LLVM-MinGW
   Homepage: https://github.com/mstorsjo/llvm-mingw
 - Package: llvm-tools
-  Version: 21.1.5
+  Version: 21.1.5-1
   Description: LLVM Development Tools
   Homepage: https://clang.llvm.org/
 - Package: llvmgold
-  Version: 21.1.5
+  Version: 21.1.5-1
   Description: LLVM gold plugin
   Homepage: https://clang.llvm.org/
 - Package: lnav
@@ -6311,11 +6315,11 @@
   Description: A Linux port of OpenBSDs ksh
   Homepage: https://github.com/dimkr/loksh
 - Package: lowdown
-  Version: 2.0.2-1
+  Version: 2.0.4
   Description: Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lowdown-static
-  Version: 2.0.2-1
+  Version: 2.0.4
   Description: Static libraries for lowdown
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lr
@@ -6351,7 +6355,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.15.0-1
+  Version: 3.15.0-2
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -6391,7 +6395,7 @@
   Description: Simple, extensible, embeddable programming language
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1762795099
+  Version: 1:2.1.1763148144
   Description: Just-In-Time compiler for Lua - command line tool
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -6495,11 +6499,11 @@
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
-  Version: 2:12.0.2
+  Version: 2:12.1.2
   Description: A drop-in replacement for mysql server
   Homepage: https://mariadb.org
 - Package: mariadb-static
-  Version: 2:12.0.2
+  Version: 2:12.1.2
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
@@ -6531,7 +6535,7 @@
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: mautrix-whatsapp
-  Version: 0.2510.0
+  Version: 0.2511.0
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
@@ -6563,7 +6567,7 @@
   Description: Replaces your default ctrl-r shell history search with an intelligent search engine
   Homepage: https://github.com/cantino/mcfly
 - Package: mdbook
-  Version: 0.4.52-1
+  Version: 0.5.1
   Description: Creates book from markdown files
   Homepage: https://rust-lang.github.io/mdBook/
 - Package: mdbook-auto-gen-summary
@@ -6591,15 +6595,15 @@
   Description: A backend for mdbook which will check your links for you
   Homepage: https://michael-f-bryan.github.io/mdbook-linkcheck/
 - Package: mdbook-mermaid
-  Version: 0.16.2
+  Version: 0.17.0
   Description: A preprocessor for mdbook to add mermaid support
   Homepage: https://github.com/badboy/mdbook-mermaid
 - Package: mdbook-open-on-gh
-  Version: 2.4.3-1
+  Version: 3.0.0
   Description: A preprocessor for mdbook to add a open-on-github link on every page
   Homepage: https://github.com/badboy/mdbook-open-on-gh
 - Package: mdbook-pikchr
-  Version: 0.1.9-1
+  Version: 0.2.0
   Description: A mdbook preprocessor to render pikchr code blocks as images in your book
   Homepage: https://github.com/podsvirov/mdbook-pikchr
 - Package: mdbook-plantuml
@@ -6623,7 +6627,7 @@
   Description: Tera preprocessor for mdBook
   Homepage: https://github.com/avitex/mdbook-tera
 - Package: mdbook-toc
-  Version: 0.14.2-1
+  Version: 0.15.1
   Description: A preprocessor for mdbook to add inline Table of Contents support
   Homepage: https://github.com/badboy/mdbook-toc
 - Package: mdbtools
@@ -6651,7 +6655,7 @@
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
-  Version: 1.15.3
+  Version: 1.15.4
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
@@ -6675,19 +6679,19 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 25.2.5
+  Version: 25.3.0
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 25.2.5
+  Version: 25.3.0
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-opencl-icd-rusticl
-  Version: 25.2.5
+  Version: 25.3.0
   Description: Mesas Rusticl OpenCL ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 25.2.5
+  Version: 25.3.0
   Description: Mesas Swrast Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk
@@ -6783,7 +6787,7 @@
   Description: command line utility to create BitTorrent metainfo files
   Homepage: https://github.com/Rudde/mktorrent
 - Package: mlir
-  Version: 21.1.5
+  Version: 21.1.5-1
   Description: A Multi-Level Intermediate Representation for compilers from LLVM
   Homepage: https://clang.llvm.org/
 - Package: mlocate
@@ -6883,7 +6887,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.24.6-1
+  Version: 0.24.6-3
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpdscribble
@@ -6907,7 +6911,7 @@
   Description: Static libraries for mruby
   Homepage: https://mruby.org/
 - Package: msedit
-  Version: 1.2.1
+  Version: 1.2.1-1
   Description: A simple editor for simple needs (Microsoft Edit)
   Homepage: https://github.com/microsoft/edit
 - Package: msitools
@@ -6959,11 +6963,11 @@
   Description: Lightweight PDF and XPS viewer (utilities)
   Homepage: https://mupdf.com/
 - Package: music-file-organizer
-  Version: 1.0.4-9
+  Version: 1.0.4-10
   Description: Organizer of audio files into directories based on metadata tags
   Homepage: https://git.zx2c4.com/music-file-organizer/about/
 - Package: mutt
-  Version: 2.2.15
+  Version: 2.2.16
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: myman
@@ -7039,7 +7043,7 @@
   Description: A free set of programs that use the File Transfer Protocol
   Homepage: https://www.ncftp.com/
 - Package: ncmpcpp
-  Version: 0.10.1-6
+  Version: 0.10.1-7
   Description: NCurses Music Player Client (Plus Plus)
   Homepage: https://rybczak.net/ncmpcpp/
 - Package: ncompress
@@ -7099,7 +7103,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.8.26
+  Version: 0.9.0
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://neocmakelsp.github.io/
 - Package: neofetch
@@ -7159,11 +7163,11 @@
   Description: A metapackage for NETStandard.Library 2.1 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-8.0
-  Version: 8.0.22
+  Version: 8.0.22-2
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 8.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-9.0
-  Version: 9.0.9
+  Version: 9.0.11-1
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 9.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: nettle
@@ -7195,7 +7199,7 @@
   Description: Nim programming language compiler
   Homepage: https://nim-lang.org/
 - Package: ninja
-  Version: 1.13.1-1
+  Version: 1.13.2
   Description: A small build system with a focus on speed
   Homepage: https://ninja-build.org
 - Package: ninvaders
@@ -7231,11 +7235,11 @@
   Description: This project provides a command line tool called nms that recreates the famous data decryption effect
   Homepage: https://github.com/bartobri/no-more-secrets
 - Package: nodejs
-  Version: 24.9.0
+  Version: 24.9.0-1
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: nodejs-lts
-  Version: 22.20.0
+  Version: 22.20.0-1
   Description: Open Source, cross-platform JavaScript runtime environment
   Homepage: https://nodejs.org/
 - Package: notcurses
@@ -7271,7 +7275,7 @@
   Description: The classic snake game with textual interface
   Homepage: https://github.com/alexdantas/nSnake
 - Package: nss-utils
-  Version: "3.117"
+  Version: 3.118.1
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
@@ -7523,7 +7527,7 @@
   Description: Open Source API and interchange format for editorial timeline information.
   Homepage: http://opentimeline.io/
 - Package: openxr
-  Version: 1.1.53
+  Version: 1.1.53-1
   Description: Open standard that provides a common set of APIs for developing XR applications
   Homepage: https://www.khronos.org/openxr/
 - Package: optipng
@@ -7571,15 +7575,15 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxc-language-server
-  Version: 1.16.0
+  Version: 1.27.0
   Description: Oxc JavaScript linter language server
   Homepage: https://oxc.rs/
 - Package: oxfmt
-  Version: 1.16.0
+  Version: 1.27.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.16.0
+  Version: 1.27.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -7743,7 +7747,7 @@
   Description: A simple tool for doing everyday things with PDF documents
   Homepage: https://gitlab.com/pdftk-java/pdftk
 - Package: peaclock
-  Version: 0.4.3-8
+  Version: 0.4.3-9
   Description: A responsive and customizable clock, timer, and stopwatch for the terminal.
   Homepage: https://github.com/octobanana/peaclock
 - Package: peco
@@ -7775,27 +7779,27 @@
   Description: An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy
   Homepage: https://git.sr.ht/~ghost08/photon
 - Package: php
-  Version: 8.4.2-3
+  Version: 8.4.2-4
   Description: Server-side, HTML-embedded scripting language
   Homepage: https://php.net
 - Package: php-apache
-  Version: 8.4.2-3
+  Version: 8.4.2-4
   Description: Apache 2.0 Handler module for PHP
   Homepage: https://php.net
 - Package: php-apache-ldap
-  Version: 8.4.2-3
+  Version: 8.4.2-4
   Description: LDAP module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apache-opcache
-  Version: 8.4.2-3
+  Version: 8.4.2-4
   Description: OPcache module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apache-pgsql
-  Version: 8.4.2-3
+  Version: 8.4.2-4
   Description: PostgreSQL modules for PHP/Apache
   Homepage: https://php.net
 - Package: php-apache-sodium
-  Version: 8.4.2-3
+  Version: 8.4.2-4
   Description: Sodium module for PHP/Apache
   Homepage: https://php.net
 - Package: php-apcu
@@ -7803,11 +7807,11 @@
   Description: APCu - APC User Cache
   Homepage: http://php.net/apcu
 - Package: php-fpm
-  Version: 8.4.2-3
+  Version: 8.4.2-4
   Description: FastCGI Process Manager for PHP
   Homepage: https://php.net
 - Package: php-gd
-  Version: 8.4.2-3
+  Version: 8.4.2-4
   Description: gd module for PHP
   Homepage: https://php.net
 - Package: php-imagick
@@ -7815,11 +7819,11 @@
   Description: The Imagick PHP extension
   Homepage: https://github.com/Imagick/imagick
 - Package: php-ldap
-  Version: 8.4.2-3
+  Version: 8.4.2-4
   Description: LDAP module for PHP
   Homepage: https://php.net
 - Package: php-pgsql
-  Version: 8.4.2-3
+  Version: 8.4.2-4
   Description: PostgreSQL modules for PHP
   Homepage: https://php.net
 - Package: php-psr
@@ -7831,7 +7835,7 @@
   Description: PHP extension for interfacing with Redis
   Homepage: https://github.com/phpredis/phpredis
 - Package: php-sodium
-  Version: 8.4.2-3
+  Version: 8.4.2-4
   Description: Sodium module for PHP
   Homepage: https://php.net
 - Package: php-zephir-parser
@@ -7863,7 +7867,7 @@
   Description: Dialog allowing secure password entry
   Homepage: https://www.gnupg.org/related_software/pinentry/index.html
 - Package: pingme
-  Version: 0.2.6-4
+  Version: 0.2.7
   Description: A small utility which can be called from anywhere to send a message with particular information
   Homepage: https://github.com/kha7iq/pingme
 - Package: pipebuffer
@@ -7875,7 +7879,7 @@
   Description: Animated pipes terminal screensaver
   Homepage: https://github.com/pipeseroni/pipes.sh
 - Package: pipewire
-  Version: 1.2.7-2
+  Version: 1.4.9
   Description: A server and user space API to deal with multimedia pipelines
   Homepage: https://pipewire.org/
 - Package: pkg-config
@@ -7915,7 +7919,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.33.0
+  Version: 0.34.0
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -7971,11 +7975,11 @@
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
-  Version: 17.0-4
+  Version: 17.0-5
   Description: Object-relational SQL database
   Homepage: https://www.postgresql.org
 - Package: postgresql-static
-  Version: 17.0-4
+  Version: 17.0-5
   Description: Static libraries for postgresql
   Homepage: https://www.postgresql.org
 - Package: potrace
@@ -8039,7 +8043,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 4.31.0
+  Version: 4.32.0
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -8167,7 +8171,7 @@
   Description: lossless compression algorithm and format (Python bindings)
   Homepage: https://github.com/google/brotli
 - Package: python-cmake
-  Version: 4.1.0-1
+  Version: 4.2.0
   Description: Python wrapper for CMake
   Homepage: https://cmake-python-distributions.readthedocs.io/
 - Package: python-contourpy
@@ -8199,7 +8203,7 @@
   Description: A straightforward binding of libsass for Python
   Homepage: https://github.com/sass/libsass-python
 - Package: python-llvmlite
-  Version: 0.44.0
+  Version: 0.44.0-1
   Description: A lightweight LLVM python binding for writing JIT compilers
   Homepage: https://llvmlite.pydata.org/
 - Package: python-lxml
@@ -8211,11 +8215,11 @@
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-numpy
-  Version: 2.2.5-1
+  Version: 2.2.5-2
   Description: The fundamental package for scientific computing with Python
   Homepage: https://numpy.org/
 - Package: python-numpy-static
-  Version: 2.2.5-1
+  Version: 2.2.5-2
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
@@ -8223,7 +8227,7 @@
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
-  Version: 11.1.0-2
+  Version: 12.0.0
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
@@ -8243,7 +8247,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.14.5
+  Version: 0.14.6
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8299,7 +8303,7 @@
   Description: The Python X Library
   Homepage: https://github.com/python-xlib/python-xlib
 - Package: python-yt-dlp
-  Version: 2025.11.12
+  Version: 2025.11.12-1
   Description: A youtube-dl fork with additional features and fixes
   Homepage: https://github.com/yt-dlp/yt-dlp
 - Package: python2
@@ -8323,11 +8327,11 @@
   Description: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
   Homepage: https://github.com/natesales/q
 - Package: qalc
-  Version: 5.8.1
+  Version: 5.8.2
   Description: Powerful and easy to use command line calculator
   Homepage: https://qalculate.github.io/
 - Package: qalc-static
-  Version: 5.8.1
+  Version: 5.8.2
   Description: Static libraries for qalc
   Homepage: https://qalculate.github.io/
 - Package: qemu-common
@@ -8443,7 +8447,7 @@
   Description: Allows you to easily manage large numbers of patches
   Homepage: https://savannah.nongnu.org/projects/quilt
 - Package: rabbitmq-server
-  Version: 4.2.0
+  Version: 4.2.1
   Description: Feature rich, multi-protocol messaging and streaming broker
   Homepage: https://github.com/rabbitmq/rabbitmq-server
 - Package: racket
@@ -8511,7 +8515,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.71.2
+  Version: 1.72.0
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
@@ -8583,7 +8587,7 @@
   Description: TCP port redirector for UNIX
   Homepage: https://github.com/troglobit/redir
 - Package: redis
-  Version: 1:8.2.3
+  Version: 1:8.4.0
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
@@ -8715,7 +8719,7 @@
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
-  Version: 0.16.2
+  Version: 0.16.3
   Description: Ncurses BitTorrent client based on libTorrent
   Homepage: https://rakshasa.github.io/rtorrent/
 - Package: rubberband
@@ -8751,7 +8755,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.14.5
+  Version: 0.14.6
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -8771,7 +8775,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20251110"
+  Version: "20251117"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -8843,7 +8847,7 @@
   Description: A secure, easy, self-hosted messaging
   Homepage: https://salty.im/
 - Package: samba
-  Version: 4.16.11-5
+  Version: 4.16.11-6
   Description: SMB/CIFS fileserver
   Homepage: https://www.samba.org/
 - Package: samefile
@@ -8915,7 +8919,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.0.4
+  Version: 3.0.6
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -8967,7 +8971,7 @@
   Description: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
   Homepage: https://sftpgo.com/
 - Package: shaderc
-  Version: 2025.4-1
+  Version: 2025.4-2
   Description: Collection of tools, libraries, and tests for Vulkan shader compilation
   Homepage: https://github.com/google/shaderc
 - Package: sharutils
@@ -9119,11 +9123,11 @@
   Description: Relay for bidirectional data transfer between two independent data channels
   Homepage: http://www.dest-unreach.org/socat/
 - Package: softether-vpn
-  Version: 5.02.5180-5
+  Version: 5.2.5188
   Description: An open-source cross-platform multi-protocol VPN program
   Homepage: https://www.softether.org/
 - Package: softether-vpn-static
-  Version: 5.02.5180-5
+  Version: 5.2.5188
   Description: Static libraries for softether-vpn
   Homepage: https://www.softether.org/
 - Package: soju
@@ -9155,11 +9159,11 @@
   Description: Collection of tools supporting SpatiaLite
   Homepage: https://www.gaia-gis.it/fossil/spatialite-tools
 - Package: speechd
-  Version: 0.11.5-2
+  Version: 0.12.1
   Description: Common interface to speech synthesis
   Homepage: https://github.com/brailcom/speechd
 - Package: speechd-data
-  Version: 0.11.5-2
+  Version: 0.12.1
   Description: Platform-independent data for speechd
   Homepage: https://github.com/brailcom/speechd
 - Package: speedtest-go
@@ -9183,7 +9187,7 @@
   Description: C library for finding and handling crystal symmetries
   Homepage: https://spglib.github.io/spglib/index.html
 - Package: spidermonkey
-  Version: 128.10.0-1
+  Version: 128.10.0-2
   Description: Mozillas JavaScript engine
   Homepage: https://spidermonkey.dev
 - Package: spiped
@@ -9199,7 +9203,7 @@
   Description: SPIR-V LLVM Translator
   Homepage: https://github.com/KhronosGroup/SPIRV-LLVM-Translator
 - Package: spirv-tools
-  Version: 1.4.328.1
+  Version: 1.4.328.1-1
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
 - Package: sqlcipher
@@ -9239,7 +9243,7 @@
   Description: A Free SOCKS proxy server
   Homepage: https://sourceforge.net/projects/socks-relay/
 - Package: srt-tools
-  Version: 1.5.4-1
+  Version: 1.5.4-2
   Description: Command-line tools for libsrt
   Homepage: https://github.com/Haivision/srt
 - Package: srt2vobsub
@@ -9287,7 +9291,7 @@
   Description: Streaming bar graphs. For stats and stuff.
   Homepage: https://github.com/seenaburns/stag
 - Package: starship
-  Version: 1.24.0
+  Version: 1.24.1
   Description: A minimal, blazing fast, and extremely customizable prompt for any shell
   Homepage: https://starship.rs
 - Package: stdman
@@ -9331,7 +9335,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.141.4
+  Version: 1.142.4
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -9415,31 +9419,31 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 9.3.34
+  Version: 9.3.35
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift-runtime-aarch64
-  Version: 6.1.3
+  Version: 6.2.1
   Description: Swift runtime libraries for Android AArch64
   Homepage: https://swift.org/
 - Package: swift-runtime-arm
-  Version: 6.1.3
+  Version: 6.2.1
   Description: Swift runtime libraries for Android armv7
   Homepage: https://swift.org/
 - Package: swift-runtime-x86-64
-  Version: 6.1.3
+  Version: 6.2.1
   Description: Swift runtime libraries for Android x86_64
   Homepage: https://swift.org/
 - Package: swift-sdk-aarch64
-  Version: 6.1.3
+  Version: 6.2.1
   Description: Swift SDK for Android AArch64
   Homepage: https://swift.org/
 - Package: swift-sdk-arm
-  Version: 6.1.3
+  Version: 6.2.1
   Description: Swift SDK for Android armv7
   Homepage: https://swift.org/
 - Package: swift-sdk-x86-64
-  Version: 6.1.3
+  Version: 6.2.1
   Description: Swift SDK for Android x86_64
   Homepage: https://swift.org/
 - Package: swiftshader
@@ -9475,7 +9479,7 @@
   Description: Static libraries for ta-lib
   Homepage: https://ta-lib.org/
 - Package: taglib
-  Version: 2.1.1-1
+  Version: 2.1.1-3
   Description: A Library for reading and editing the meta-data of several popular audio formats.
   Homepage: http://taglib.github.io/
 - Package: taplo
@@ -9539,7 +9543,7 @@
   Description: Static libraries for teckit
   Homepage: https://scripts.sil.org/teckitdownloads
 - Package: tectonic
-  Version: 0.15.0-4
+  Version: 0.15.0-5
   Description: A modernized, complete, self-contained TeX/LaTeX engine
   Homepage: https://tectonic-typesetting.github.io/
 - Package: telegram-bot-api
@@ -9551,7 +9555,7 @@
   Description: Telegram messenger CLI
   Homepage: https://github.com/vysheng/tg
 - Package: teleport-tsh
-  Version: 18.4.0
+  Version: 18.4.1
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tenki-php
@@ -9659,7 +9663,7 @@
   Description: Tool for analyzing control characters and terminal control sequences
   Homepage: https://www.gnu.org/software/teseq/
 - Package: tesseract
-  Version: 5.5.1-1
+  Version: 5.5.1-2
   Description: Tesseract is probably the most accurate open source OCR engine available
   Homepage: https://github.com/tesseract-ocr/tesseract
 - Package: testssl.sh
@@ -9679,11 +9683,11 @@
   Description: A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system
   Homepage: https://texlab.netlify.app/
 - Package: texlive-bin
-  Version: 1:2025.0-1
+  Version: 1:2025.0-2
   Description: TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
   Homepage: https://www.tug.org/texlive/
 - Package: texlive-bin-static
-  Version: 1:2025.0-1
+  Version: 1:2025.0-2
   Description: Static libraries for texlive-bin
   Homepage: https://www.tug.org/texlive/
 - Package: texlive-installer
@@ -9759,7 +9763,7 @@
   Description: Very small scheme implementation
   Homepage: https://tinyscheme.sourceforge.net/home.html
 - Package: tinysparql
-  Version: 3.9.2-1
+  Version: 3.9.2-2
   Description: Desktop-neutral metadata-based search framework
   Homepage: https://gnome.pages.gitlab.gnome.org/tinysparql
 - Package: tizonia
@@ -9795,11 +9799,11 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 16.2.1
+  Version: 16.4.2
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
-  Version: 0.4.8.20
+  Version: 0.4.8.21
   Description: The Onion Router anonymizing overlay network
   Homepage: https://www.torproject.org
 - Package: torchaudio-ffmpeg
@@ -9847,15 +9851,15 @@
   Description: An incremental parsing system for programming tools
   Homepage: https://tree-sitter.github.io/
 - Package: tree-sitter-c
-  Version: 0.24.1-3
+  Version: 0.24.1-4
   Description: C grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-c
 - Package: tree-sitter-lua
-  Version: 0.4.0-3
+  Version: 0.4.0-4
   Description: Lua grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-lua
 - Package: tree-sitter-markdown
-  Version: 0.5.1
+  Version: 0.5.1-1
   Description: Markdown grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-markdown
 - Package: tree-sitter-parsers
@@ -9863,7 +9867,7 @@
   Description: A metapackage that provides commonly used treesitter parsers
   Homepage: https://github.com/termux/termux-packages
 - Package: tree-sitter-query
-  Version: 0.7.0
+  Version: 0.7.0-1
   Description: TS query grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
 - Package: tree-sitter-static
@@ -10023,7 +10027,7 @@
   Description: A faster, user-friendly and compatible grep replacement
   Homepage: https://github.com/Genivia/ugrep
 - Package: unar
-  Version: 1.10.8-2
+  Version: 1.10.8-3
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
@@ -10067,7 +10071,7 @@
   Description: A post-processing tool for scanned sheets of paper
   Homepage: https://www.flameeyes.com/projects/unpaper
 - Package: unrar
-  Version: 7.2.1
+  Version: 7.2.2
   Description: Tool for extracting files from .rar archives
   Homepage: https://www.rarlab.com/
 - Package: unshield
@@ -10143,7 +10147,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.9.9-1
+  Version: 0.9.11
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10311,11 +10315,11 @@
   Description: Utilities for testing and working with virtual terminals
   Homepage: https://github.com/fornwall/vtutils
 - Package: vulkan-extension-layer
-  Version: 1.4.328
+  Version: 1.4.333
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.333
+  Version: 1.4.334
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -10331,7 +10335,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.333
+  Version: 1.4.334
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10339,11 +10343,11 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.333
+  Version: 1.4.334
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
-  Version: 1.4.333
+  Version: 1.4.334
   Description: Vulkan Validation Layers
   Homepage: https://github.com/KhronosGroup/Vulkan-ValidationLayers
 - Package: vulkan-volk
@@ -10527,7 +10531,7 @@
   Description: H.265/HEVC video stream encoder tool
   Homepage: http://x265.org/
 - Package: xapian-tools
-  Version: 1.4.29-1
+  Version: 1.4.30
   Description: Basic tools for the Xapian search engine
   Homepage: https://xapian.org
 - Package: xcb-proto
@@ -10579,7 +10583,7 @@
   Description: Tool for creating ISO files
   Homepage: https://www.gnu.org/software/xorriso
 - Package: xsltproc
-  Version: 1.1.43-2
+  Version: 1.1.43-3
   Description: XSLT command line processor
   Homepage: http://xmlsoft.org/libxslt/
 - Package: xtrans
@@ -10651,13 +10655,17 @@
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
-  Version: 2.10.4-1
+  Version: 2.10.5
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
-  Version: 4.48.2
+  Version: 4.49.1
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
+- Package: yt-dlp-ejs
+  Version: 0.3.1
+  Description: External JavaScript for yt-dlp supporting many runtimes
+  Homepage: https://github.com/yt-dlp/ejs
 - Package: ytfzf
   Version: 2.6.2
   Description: A POSIX script that helps you find Youtube videos (without API)
@@ -10727,7 +10735,7 @@
   Description: Zig language server
   Homepage: https://github.com/zigtools/zls
 - Package: znc
-  Version: 1.10.1-1
+  Version: 1.10.1-2
   Description: An advanced IRC bouncer
   Homepage: https://znc.in/
 - Package: zola
