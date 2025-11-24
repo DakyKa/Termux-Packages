@@ -1719,11 +1719,11 @@
   Description: Event Notify Test Runner - run arbitrary commands when files change
   Homepage: https://eradman.com/entrproject/
 - Package: erlang
-  Version: 28.1.1
+  Version: "28.2"
   Description: General-purpose concurrent functional programming language
   Homepage: https://www.erlang.org/
 - Package: erlang-doc
-  Version: 28.1.1
+  Version: "28.2"
   Description: Erlang HTML documentation
   Homepage: https://www.erlang.org/
 - Package: esbuild
@@ -2303,7 +2303,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.78.2
+  Version: 1.78.3
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -4807,11 +4807,11 @@
   Description: Static libraries for libmypaint
   Homepage: https://github.com/mypaint/libmypaint
 - Package: libnats-c
-  Version: 3.11.0
+  Version: 3.12.0
   Description: A C client for the NATS messaging system
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libnats-c-static
-  Version: 3.11.0
+  Version: 3.12.0
   Description: Static libraries for libnats-c
   Homepage: https://nats-io.github.io/nats.c/
 - Package: libncnn
@@ -7623,11 +7623,11 @@
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari
-  Version: 2.17.2-1
+  Version: 2.17.3
   Description: A computer algebra system designed for fast computations in number theory
   Homepage: https://pari.math.u-bordeaux.fr/
 - Package: pari-static
-  Version: 2.17.2-1
+  Version: 2.17.3
   Description: Static libraries for pari
   Homepage: https://pari.math.u-bordeaux.fr/
 - Package: parted
