@@ -5023,7 +5023,7 @@
   },
   {
     "Package": "lesspipe",
-    "Version": "2.20",
+    "Version": "2.21",
     "Description": "An input filter for the pager less",
     "Homepage": "http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html"
   },
