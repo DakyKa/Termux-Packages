@@ -8641,13 +8641,13 @@
   },
   {
     "Package": "libunbound",
-    "Version": "1.24.1-1",
+    "Version": "1.24.2",
     "Description": "A validating, recursive, caching DNS resolver",
     "Homepage": "https://unbound.net/"
   },
   {
     "Package": "libunbound-static",
-    "Version": "1.24.1-1",
+    "Version": "1.24.2",
     "Description": "Static libraries for libunbound",
     "Homepage": "https://unbound.net/"
   },
@@ -12469,7 +12469,7 @@
   },
   {
     "Package": "pyunbound",
-    "Version": "1.24.1-1",
+    "Version": "1.24.2",
     "Description": "Python bindings for Unbound",
     "Homepage": "https://unbound.net/"
   },
@@ -14695,7 +14695,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "16.4.2",
+    "Version": "16.5.0",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -15037,7 +15037,7 @@
   },
   {
     "Package": "unbound",
-    "Version": "1.24.1-1",
+    "Version": "1.24.2",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
   },
