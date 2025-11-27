@@ -769,8 +769,8 @@
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
  jackett  0.24.361  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
- jadx  1.5.3  Dex to Java decompiler  https://github.com/skylot/jadx 
- jadx-x  1.5.3  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
+ jadx  1.5.3-1  Dex to Java decompiler  https://github.com/skylot/jadx 
+ jadx-x  1.5.3-1  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.40.1  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
  jbig2dec  0.20-1  Decoder implementation of the JBIG2 image compression format  https://jbig2dec.com/ 
  jbig2dec-static  0.20-1  Static libraries for jbig2dec  https://jbig2dec.com/ 

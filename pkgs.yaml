@@ -3083,11 +3083,11 @@
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
-  Version: 1.5.3
+  Version: 1.5.3-1
   Description: Dex to Java decompiler
   Homepage: https://github.com/skylot/jadx
 - Package: jadx-x
-  Version: 1.5.3
+  Version: 1.5.3-1
   Description: Dex to Java decompiler GUI
   Homepage: https://github.com/skylot/jadx
 - Package: janet
