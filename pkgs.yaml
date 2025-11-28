@@ -3459,7 +3459,7 @@
   Description: Static libraries for libandroid-spawn
   Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
 - Package: libandroid-stub
-  Version: 28c
+  Version: "29"
   Description: Stub libandroid.so for non-Android certified environment
   Homepage: https://android.googlesource.com/platform/frameworks/base/+/main/native/android
 - Package: libandroid-support
@@ -3627,7 +3627,7 @@
   Description: BZ2 format compression library
   Homepage: http://www.bzip.org/
 - Package: libc++
-  Version: 28c-1
+  Version: "29"
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
@@ -7075,19 +7075,19 @@
   Description: Tools for working with terminals
   Homepage: https://invisible-island.net/ncurses/
 - Package: ndk-multilib
-  Version: 28c-3
+  Version: "29"
   Description: Multilib binaries for cross-compilation
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-multilib-native-static
-  Version: 28c-3
+  Version: "29"
   Description: Install native static libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-multilib-native-stubs
-  Version: 28c-3
+  Version: "29"
   Description: Install native stubs for shared libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-sysroot
-  Version: 28c-1
+  Version: "29"
   Description: System header and library files from the Android NDK needed for compiling C programs
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ne
@@ -10319,7 +10319,7 @@
   Description: A metapackage that provides vulkan loader library
   Homepage: https://github.com/termux/termux-packages
 - Package: vulkan-loader-android
-  Version: 28c-2
+  Version: "29"
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic

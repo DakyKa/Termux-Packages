@@ -875,7 +875,7 @@
 | **libandroid-shmem-static** | 0.5-1 | Static libraries for libandroid-shmem | https://github.com/termux/libandroid-shmem |
 | **libandroid-spawn** | 0.3 | Shared library for the posix_spawn system function | https://man7.org/linux/man-pages/man3/posix_spawn.3.html |
 | **libandroid-spawn-static** | 0.3 | Static libraries for libandroid-spawn | https://man7.org/linux/man-pages/man3/posix_spawn.3.html |
-| **libandroid-stub** | 28c | Stub libandroid.so for non-Android certified environment | https://android.googlesource.com/platform/frameworks/base/+/main/native/android |
+| **libandroid-stub** | 29 | Stub libandroid.so for non-Android certified environment | https://android.googlesource.com/platform/frameworks/base/+/main/native/android |
 | **libandroid-support** | 29-1 | Library extending the Android C library (Bionic) for additional multibyte, locale and math support | https://github.com/termux/libandroid-support |
 | **libandroid-support-static** | 29-1 | Static libraries for libandroid-support | https://github.com/termux/libandroid-support |
 | **libandroid-sysv-semaphore** | 0.1-1 | A shared library providing System V semaphores | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp |
@@ -917,7 +917,7 @@
 | **libburn** | 1.5.6-1 | Library for reading, mastering and writing optical discs | https://dev.lovelyhq.com/libburnia |
 | **libburn-static** | 1.5.6-1 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
 | **libbz2** | 1.0.8-8 | BZ2 format compression library | http://www.bzip.org/ |
-| **libc++** | 28c-1 | C++ Standard Library | https://libcxx.llvm.org/ |
+| **libc++** | 29 | C++ Standard Library | https://libcxx.llvm.org/ |
 | **libc++utilities** | 5.31.1 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
 | **libc-client** | 2007f-4 | UW IMAP c-client library | https://www.washington.edu/imap/ |
 | **libc-client-static** | 2007f-4 | Static libraries for libc-client | https://www.washington.edu/imap/ |
@@ -1779,10 +1779,10 @@
 | **ncurses-ui-libs** | 6.5.20240831-3 | Libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
 | **ncurses-ui-libs-static** | 6.5.20240831-3 | Static libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
 | **ncurses-utils** | 6.5.20240831-3 | Tools for working with terminals | https://invisible-island.net/ncurses/ |
-| **ndk-multilib** | 28c-3 | Multilib binaries for cross-compilation | https://developer.android.com/tools/sdk/ndk/index.html |
-| **ndk-multilib-native-static** | 28c-3 | Install native static libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
-| **ndk-multilib-native-stubs** | 28c-3 | Install native stubs for shared libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
-| **ndk-sysroot** | 28c-1 | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
+| **ndk-multilib** | 29 | Multilib binaries for cross-compilation | https://developer.android.com/tools/sdk/ndk/index.html |
+| **ndk-multilib-native-static** | 29 | Install native static libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
+| **ndk-multilib-native-stubs** | 29 | Install native stubs for shared libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
+| **ndk-sysroot** | 29 | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ne** | 3.3.4-2 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2024.01.13-1 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
 | **neocmakelsp** | 0.9.0 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
@@ -2590,7 +2590,7 @@
 | **vulkan-headers** | 1.4.335 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
-| **vulkan-loader-android** | 28c-2 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
+| **vulkan-loader-android** | 29 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.4.335 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
 | **vulkan-tools** | 1.4.334 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.335 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
