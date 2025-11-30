@@ -1189,7 +1189,7 @@
   },
   {
     "Package": "cargo-leptos",
-    "Version": "0.3.0",
+    "Version": "0.3.0-1",
     "Description": "Build tool for the Rust framework Leptos",
     "Homepage": "https://github.com/leptos-rs/cargo-leptos"
   },
