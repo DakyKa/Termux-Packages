@@ -1654,7 +1654,7 @@
 | **mdbook** | 0.5.1 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
-| **mdbook-epub** | 0.4.48-1 | An EPUB renderer for mdbook | https://github.com/Michael-F-Bryan/mdbook-epub |
+| **mdbook-epub** | 0.4.51 | An EPUB renderer for mdbook | https://github.com/Michael-F-Bryan/mdbook-epub |
 | **mdbook-graphviz** | 0.2.1-2 | mdbook preprocessor to add graphviz support | https://github.com/dylanowen/mdbook-graphviz |
 | **mdbook-katex** | 0.9.4-1 | A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time | https://github.com/lzanini/mdbook-katex |
 | **mdbook-linkcheck** | 0.7.7-2 | A backend for mdbook which will check your links for you | https://michael-f-bryan.github.io/mdbook-linkcheck/ |
@@ -2203,7 +2203,7 @@
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.7.0-1 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.91.1-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20251124 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20251201 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.91.1-1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.91.1-1 | Rust source code files | https://www.rust-lang.org/ |

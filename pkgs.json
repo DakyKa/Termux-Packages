@@ -9865,7 +9865,7 @@
   },
   {
     "Package": "mdbook-epub",
-    "Version": "0.4.48-1",
+    "Version": "0.4.51",
     "Description": "An EPUB renderer for mdbook",
     "Homepage": "https://github.com/Michael-F-Bryan/mdbook-epub"
   },
@@ -13159,7 +13159,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20251124",
+    "Version": "20251201",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },

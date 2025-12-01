@@ -6575,7 +6575,7 @@
   Description: A preprocessor for mdbook which provides teacher, subject, material and tag functionality
   Homepage: https://github.com/gjk-cat/cat-prep
 - Package: mdbook-epub
-  Version: 0.4.48-1
+  Version: 0.4.51
   Description: An EPUB renderer for mdbook
   Homepage: https://github.com/Michael-F-Bryan/mdbook-epub
 - Package: mdbook-graphviz
@@ -8771,7 +8771,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20251124"
+  Version: "20251201"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
