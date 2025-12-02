@@ -635,7 +635,7 @@
   Description: Bore is a simple CLI tool for making tunnels to localhost
   Homepage: https://github.com/ekzhang/bore
 - Package: borgbackup
-  Version: 1.4.2
+  Version: 1.4.3
   Description: Deduplicating and compressing backup program
   Homepage: https://www.borgbackup.org/
 - Package: botan3
@@ -2607,7 +2607,7 @@
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
-  Version: 15.2.0
+  Version: 15.2.1
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
@@ -9459,7 +9459,7 @@
   Description: Static libraries for swtpm
   Homepage: https://github.com/stefanberger/swtpm
 - Package: syncthing
-  Version: 2.0.11
+  Version: 2.0.12
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop

@@ -169,7 +169,7 @@
 | **boost-headers** | 1:1.89.0 | Boost header files | https://boost.org |
 | **boost-static** | 1:1.89.0 | Static libraries for boost | https://boost.org |
 | **bore** | 0.6.0-1 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/ekzhang/bore |
-| **borgbackup** | 1.4.2 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
+| **borgbackup** | 1.4.3 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
 | **botan3** | 3.10.0 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
 | **botan3-static** | 3.10.0 | Static libraries for botan3 | https://botan.randombit.net/ |
 | **boxes** | 2.3.1-1 | A command line filter program which draws ASCII art boxes around your input text | https://boxes.thomasjensen.com/ |
@@ -662,7 +662,7 @@
 | **grex** | 1.4.6 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0-2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-4 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
-| **groonga** | 15.2.0 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
+| **groonga** | 15.2.1 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **gsasl** | 2.2.2-1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.53-2 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
@@ -2375,7 +2375,7 @@
 | **swig** | 4.4.0 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.10.1-1 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.10.1-1 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
-| **syncthing** | 2.0.11 | Decentralized file synchronization | https://syncthing.net/ |
+| **syncthing** | 2.0.12 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-10 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
 | **ta-lib-static** | 0.5.0 | Static libraries for ta-lib | https://ta-lib.org/ |
