@@ -5191,7 +5191,7 @@
   },
   {
     "Package": "libandroid-stub",
-    "Version": "29",
+    "Version": "29-1",
     "Description": "Stub libandroid.so for non-Android certified environment",
     "Homepage": "https://android.googlesource.com/platform/frameworks/base/+/main/native/android"
   },
