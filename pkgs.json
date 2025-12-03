@@ -8893,7 +8893,7 @@
   },
   {
     "Package": "libwebsockets",
-    "Version": "4.5.1",
+    "Version": "4.5.2",
     "Description": "Lightweight C websockets library",
     "Homepage": "https://libwebsockets.org"
   },
@@ -13699,9 +13699,9 @@
   },
   {
     "Package": "solidity",
-    "Version": "0.8.30-1",
+    "Version": "0.8.31",
     "Description": "An Ethereum smart contract-oriented language",
-    "Homepage": "https://solidity.readthedocs.io"
+    "Homepage": "https://www.soliditylang.org/"
   },
   {
     "Package": "sops",
@@ -15961,7 +15961,7 @@
   },
   {
     "Package": "yosys",
-    "Version": "0.59.1",
+    "Version": "0.60",
     "Description": "A framework for RTL synthesis tools",
     "Homepage": "https://yosyshq.net/yosys/"
   },
