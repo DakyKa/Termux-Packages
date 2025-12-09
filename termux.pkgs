@@ -778,7 +778,7 @@
 | **jbig2enc-static** | 2023.01.08-3 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1-1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.85.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.86.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -800,7 +800,7 @@
 | **jsoncpp-static** | 1.9.6-2 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-3 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
-| **just** | 1.44.0 | A handy way to save and run project-specific commands | https://just.systems |
+| **just** | 1.44.1 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4-1 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-4 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
 | **k9s** | 0.50.16 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
