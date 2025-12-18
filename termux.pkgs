@@ -302,7 +302,7 @@
 | **dar** | 2.8.2 | A full featured command-line backup tool, short for Disk ARchive | http://dar.linux.free.fr/ |
 | **dar-static** | 2.8.2 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dasel** | 3.1.2 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
+| **dasel** | 3.1.3 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12-1 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.14.1-1 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
@@ -2284,7 +2284,7 @@
 | **softether-vpn** | 5.2.5188-1 | An open-source cross-platform multi-protocol VPN program | https://www.softether.org/ |
 | **softether-vpn-static** | 5.2.5188-1 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.10.1 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
-| **solidity** | 0.8.31 | An Ethereum smart contract-oriented language | https://www.soliditylang.org/ |
+| **solidity** | 0.8.32 | An Ethereum smart contract-oriented language | https://www.soliditylang.org/ |
 | **sops** | 3.11.0 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.20 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sox** | 14.4.2-28 | Command line utility for converting between and applying effects to various audio files formats | https://sox.sourceforge.net/ |
