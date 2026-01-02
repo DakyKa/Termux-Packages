@@ -841,7 +841,7 @@
   },
   {
     "Package": "bitcoin",
-    "Version": "30.0",
+    "Version": "30.1",
     "Description": "Bitcoin Core",
     "Homepage": "https://bitcoincore.org/"
   },
