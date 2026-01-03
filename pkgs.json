@@ -3535,13 +3535,13 @@
   },
   {
     "Package": "gmic",
-    "Version": "3.5.3-3",
+    "Version": "3.6.6",
     "Description": "Full-featured framework for image processing",
     "Homepage": "https://gmic.eu"
   },
   {
     "Package": "gmic-gm",
-    "Version": "3.5.3-3",
+    "Version": "3.6.6",
     "Description": "Full-featured framework for image processing (GraphicsMagick variant)",
     "Homepage": "https://gmic.eu"
   },
@@ -8047,13 +8047,13 @@
   },
   {
     "Package": "libseccomp",
-    "Version": "2.5.5-5",
+    "Version": "2.6.0",
     "Description": "Enhanced seccomp library",
     "Homepage": "https://github.com/seccomp/libseccomp"
   },
   {
     "Package": "libseccomp-static",
-    "Version": "2.5.5-5",
+    "Version": "2.6.0",
     "Description": "Static libraries for libseccomp",
     "Homepage": "https://github.com/seccomp/libseccomp"
   },
@@ -8611,13 +8611,13 @@
   },
   {
     "Package": "libtsduck",
-    "Version": "3.42.4421",
+    "Version": "3.43.4549",
     "Description": "An extensible toolkit for MPEG transport streams",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "libtsduck-static",
-    "Version": "3.42.4421",
+    "Version": "3.43.4549",
     "Description": "Static libraries for libtsduck",
     "Homepage": "https://tsduck.io/"
   },
@@ -12841,7 +12841,7 @@
   },
   {
     "Package": "rdrview",
-    "Version": "1:0.1.5",
+    "Version": "1:0.1.5-1",
     "Description": "Command line tool to extract the main content from a webpage",
     "Homepage": "https://github.com/eafer/rdrview"
   },
@@ -14221,13 +14221,13 @@
   },
   {
     "Package": "swtpm",
-    "Version": "0.10.1-1",
+    "Version": "0.10.1-2",
     "Description": "Software TPM Emulator",
     "Homepage": "https://github.com/stefanberger/swtpm"
   },
   {
     "Package": "swtpm-static",
-    "Version": "0.10.1-1",
+    "Version": "0.10.1-2",
     "Description": "Static libraries for swtpm",
     "Homepage": "https://github.com/stefanberger/swtpm"
   },
@@ -14899,25 +14899,25 @@
   },
   {
     "Package": "tsduck-java",
-    "Version": "3.42.4421",
+    "Version": "3.43.4549",
     "Description": "Java bindings for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "tsduck-plugins",
-    "Version": "3.42.4421",
+    "Version": "3.43.4549",
     "Description": "Plugins for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "tsduck-python",
-    "Version": "3.42.4421",
+    "Version": "3.43.4549",
     "Description": "Python bindings for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "tsduck-tools",
-    "Version": "3.42.4421",
+    "Version": "3.43.4549",
     "Description": "Command line tools for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
