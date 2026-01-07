@@ -10123,7 +10123,7 @@
   Description: Power management support for DeviceKit
   Homepage: https://upower.freedesktop.org/
 - Package: upx
-  Version: 5.0.2-1
+  Version: 5.1.0
   Description: the Ultimate Packer for eXecutables
   Homepage: https://upx.github.io/
 - Package: urdfdom

@@ -2529,7 +2529,7 @@
  up  0.4-4  Helps interactively and incrementally explore textual data in Linux  https://github.com/akavel/up 
  update-info-dir  7.2-4  Update or create index file from all installed info files in directory  https://www.gnu.org/software/texinfo/ 
  upower  1.91.0  Power management support for DeviceKit  https://upower.freedesktop.org/ 
- upx  5.0.2-1  the Ultimate Packer for eXecutables  https://upx.github.io/ 
+ upx  5.1.0  the Ultimate Packer for eXecutables  https://upx.github.io/ 
  urdfdom  5.0.4  Unified Robot Description Format (URDF) parser library and tools  https://github.com/ros/urdfdom 
  urdfdom-headers  2.0.2  Headers for URDF parsers  https://github.com/ros/urdfdom_headers 
  usbmuxd  1.1.1-p20250201-2  A socket daemon to multiplex connections from and to iOS devices  https://libimobiledevice.org 
