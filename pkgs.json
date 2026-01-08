@@ -7573,7 +7573,7 @@
   },
   {
     "Package": "liborc",
-    "Version": "0.4.41-1",
+    "Version": "0.4.42",
     "Description": "Library of Optimized Inner Loops Runtime Compiler",
     "Homepage": "https://gstreamer.freedesktop.org/projects/orc.html"
   },
@@ -12739,7 +12739,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.17.1",
+    "Version": "4.18.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },

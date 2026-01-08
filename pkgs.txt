@@ -1260,7 +1260,7 @@
  libopus-static  1.5.2-1  Static libraries for libopus  https://www.opus-codec.org/ 
  libopusenc  0.2.1-4  High-level API for encoding .opus files  https://github.com/xiph/libopusenc 
  libopusenc-static  0.2.1-4  Static libraries for libopusenc  https://github.com/xiph/libopusenc 
- liborc  0.4.41-1  Library of Optimized Inner Loops Runtime Compiler  https://gstreamer.freedesktop.org/projects/orc.html 
+ liborc  0.4.42  Library of Optimized Inner Loops Runtime Compiler  https://gstreamer.freedesktop.org/projects/orc.html 
  libosl  0.9.7-1  A Specification and a Library for Data Exchange in Polyhedral Compilation Tools  http://icps.u-strasbg.fr/~bastoul/development/openscop 
  libosl-static  0.9.7-1  Static libraries for libosl  http://icps.u-strasbg.fr/~bastoul/development/openscop 
  libosmium  2.22.0-5  Library for reading from and writing to OSM files in XML and PBF formats  https://osmcode.org/libosmium/ 
@@ -2121,7 +2121,7 @@
  rage  0.11.1-1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  4.17.1  This is the command line interface for Railway  https://railway.app 
+ railway-cli  4.18.0  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
