@@ -679,7 +679,7 @@
   },
   {
     "Package": "babl",
-    "Version": "0.1.118",
+    "Version": "0.1.120",
     "Description": "Dynamic pixel format translation library",
     "Homepage": "https://gegl.org/babl/"
   },
