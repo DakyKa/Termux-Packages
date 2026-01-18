@@ -7347,7 +7347,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.109.1
+  Version: 0.110.0
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nyancat
