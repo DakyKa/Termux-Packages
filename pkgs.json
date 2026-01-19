@@ -11491,13 +11491,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.39.0",
+    "Version": "1.40.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.39.0",
+    "Version": "1.40.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
