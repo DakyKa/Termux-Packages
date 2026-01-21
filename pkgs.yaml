@@ -438,6 +438,10 @@
   Version: 1.1.0-1
   Description: A command-line screenshot tool written in bash
   Homepage: https://github.com/mayTermux/awesomeshot
+- Package: awscli
+  Version: 2.32.28
+  Description: Universal Command Line Interface for Amazon Web Services
+  Homepage: https://aws.amazon.com/cli
 - Package: axel
   Version: 2.17.14-1
   Description: light command line download accelerator
@@ -4855,11 +4859,11 @@
   Description: Static libraries for libnftnl
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnghttp2
-  Version: 1.68.0
+  Version: 1.68.0-1
   Description: nghttp HTTP 2.0 library
   Homepage: https://nghttp2.org/
 - Package: libnghttp2-static
-  Version: 1.68.0
+  Version: 1.68.0-1
   Description: Static libraries for libnghttp2
   Homepage: https://nghttp2.org/
 - Package: libnghttp3
@@ -7459,27 +7463,27 @@
   Description: Codec library supporting H.264 encoding and decoding
   Homepage: https://www.openh264.org/
 - Package: openjdk-17
-  Version: 17.0.17-1
+  Version: 17.0.18
   Description: Java development kit and runtime
   Homepage: https://openjdk.java.net
 - Package: openjdk-17-source
-  Version: 17.0.17-1
+  Version: 17.0.18
   Description: Source files for openjdk-17
   Homepage: https://openjdk.java.net
 - Package: openjdk-17-x
-  Version: 17.0.17-1
+  Version: 17.0.18
   Description: Portion of openjdk-17 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-21
-  Version: 21.0.9-1
+  Version: 21.0.10
   Description: Java development kit and runtime
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-source
-  Version: 21.0.9-1
+  Version: 21.0.10
   Description: Source files for openjdk-21
   Homepage: https://openjdk.java.net
 - Package: openjdk-21-x
-  Version: 21.0.9-1
+  Version: 21.0.10
   Description: Portion of openjdk-21 requiring X11 functionality
   Homepage: https://openjdk.java.net
 - Package: openjdk-25-source
@@ -9346,6 +9350,10 @@
   Version: 0.24-7
   Description: Static libraries for stfl
   Homepage: http://www.clifford.at/stfl
+- Package: stockfish
+  Version: "17.1"
+  Description: Free and strong UCI chess engine
+  Homepage: https://stockfishchess.org/
 - Package: stoken
   Version: 0.93-3
   Description: Software Token for Linux/UNIX
