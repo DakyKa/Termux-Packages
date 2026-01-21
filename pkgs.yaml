@@ -7574,6 +7574,10 @@
   Version: 0.12-4
   Description: Static libraries for opusfile
   Homepage: https://www.opus-codec.org/
+- Package: opustags
+  Version: 1.10.1
+  Description: Ogg Opus tags editor
+  Homepage: https://github.com/fmang/opustags
 - Package: orbiton
   Version: 2.70.5
   Description: Small, fast and limited text editor
