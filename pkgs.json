@@ -9685,7 +9685,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.25.0",
+    "Version": "0.25.1",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
