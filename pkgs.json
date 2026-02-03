@@ -673,7 +673,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.33.12",
+    "Version": "2.33.13",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -15649,7 +15649,7 @@
   },
   {
     "Package": "wasi-libc",
-    "Version": "29",
+    "Version": "30",
     "Description": "Libc for WebAssembly programs built on top of WASI system calls",
     "Homepage": "https://wasi.dev/"
   },
