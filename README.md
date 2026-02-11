@@ -1407,7 +1407,7 @@
 | **libsqlite-static** | 3.51.2 | Static libraries for libsqlite | https://www.sqlite.org |
 | **libsqlite-tcl** | 3.51.2 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.4-2 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
-| **libssh** | 0.11.3 | Tiny C SSH library | https://www.libssh.org/ |
+| **libssh** | 0.12.0 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1-1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
 | **libssh2-static** | 1.11.1-1 | Static libraries for libssh2 | https://www.libssh2.org |
 | **libstemmer** | 3.0.1 | Snowball compiler and stemming algorithms | https://snowballstem.org/ |
@@ -2098,7 +2098,7 @@
 | **python-numpy** | 2.2.5-3 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 2.2.5-3 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.24.1 | Cross-platform, high performance ML inferencing and training accelerator (Python bindings) | https://onnxruntime.ai/ |
-| **python-pillow** | 12.1.0-1 | Python Imaging Library | https://python-pillow.org/ |
+| **python-pillow** | 12.1.1 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 26.0.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 23.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-2 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |

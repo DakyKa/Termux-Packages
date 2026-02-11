@@ -5587,7 +5587,7 @@
   Description: Secure Reliable Transport (SRT) Protocol
   Homepage: https://github.com/Haivision/srt
 - Package: libssh
-  Version: 0.11.3
+  Version: 0.12.0
   Description: Tiny C SSH library
   Homepage: https://www.libssh.org/
 - Package: libssh2
@@ -8351,7 +8351,7 @@
   Description: Cross-platform, high performance ML inferencing and training accelerator (Python bindings)
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
-  Version: 12.1.0-1
+  Version: 12.1.1
   Description: Python Imaging Library
   Homepage: https://python-pillow.org/
 - Package: python-pip
