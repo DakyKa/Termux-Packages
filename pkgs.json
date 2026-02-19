@@ -667,7 +667,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.33.24",
+    "Version": "2.33.25",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -12313,7 +12313,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "0.52.0",
+    "Version": "0.53.0",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
