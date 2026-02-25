@@ -667,7 +667,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.33.28",
+    "Version": "2.33.29",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -9007,13 +9007,13 @@
   },
   {
     "Package": "libxapian",
-    "Version": "1.4.31",
+    "Version": "1.5.0",
     "Description": "Xapian search engine library",
     "Homepage": "https://xapian.org"
   },
   {
     "Package": "libxapian-static",
-    "Version": "1.4.31",
+    "Version": "1.5.0",
     "Description": "Static libraries for libxapian",
     "Homepage": "https://xapian.org"
   },
@@ -12805,7 +12805,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.30.4",
+    "Version": "4.30.5",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15973,7 +15973,7 @@
   },
   {
     "Package": "xapian-tools",
-    "Version": "1.4.31",
+    "Version": "1.5.0",
     "Description": "Basic tools for the Xapian search engine",
     "Homepage": "https://xapian.org"
   },

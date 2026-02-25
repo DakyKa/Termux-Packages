@@ -109,7 +109,7 @@
  aview  1.3.0rc1-6  High quality ascii-art image browser and animation player  https://aa-project.sourceforge.net/aview/ 
  avra  1.4.2-1  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
  await  2.4.0  Runs list of commands in parallel and waits for their termination  https://github.com/slavaGanzin/await 
- awscli  2.33.28  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
+ awscli  2.33.29  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  b3sum  1.8.3  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
  babl  0.1.122  Dynamic pixel format translation library  https://gegl.org/babl/ 
@@ -1499,8 +1499,8 @@
  libx264-static  1:0.164.3191-1  Static libraries for libx264  https://www.videolan.org/developers/x264.html 
  libx265  4.1-3  H.265/HEVC video stream encoder library  http://x265.org/ 
  libx265-static  4.1-3  Static libraries for libx265  http://x265.org/ 
- libxapian  1.4.31  Xapian search engine library  https://xapian.org 
- libxapian-static  1.4.31  Static libraries for libxapian  https://xapian.org 
+ libxapian  1.5.0  Xapian search engine library  https://xapian.org 
+ libxapian-static  1.5.0  Static libraries for libxapian  https://xapian.org 
  libxau  1.0.12-2  X11 authorisation library  https://xorg.freedesktop.org/ 
  libxcb  1.17.0-1  X11 client-side library  https://xcb.freedesktop.org/ 
  libxcb-static  1.17.0-1  Static libraries for libxcb  https://xcb.freedesktop.org/ 
@@ -2132,7 +2132,7 @@
  rage  0.11.1-1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  4.30.4  This is the command line interface for Railway  https://railway.app 
+ railway-cli  4.30.5  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2660,7 +2660,7 @@
  x11-repo  8.4-1  Package repository containing X11 programs and libraries  https://github.com/termux/x11-packages 
  x264  1:0.164.3191-1  Commandline video encoder for the H.264/MPEG-4 AVC format  https://www.videolan.org/developers/x264.html 
  x265  4.1-3  H.265/HEVC video stream encoder tool  http://x265.org/ 
- xapian-tools  1.4.31  Basic tools for the Xapian search engine  https://xapian.org 
+ xapian-tools  1.5.0  Basic tools for the Xapian search engine  https://xapian.org 
  xcb-proto  1.17.0-1  XML-XCB protocol descriptions  https://xcb.freedesktop.org/ 
  xdelta3  3.1.0-3  xdelta3 - VCDIFF (RFC 3284) binary diff tool  https://github.com/jmacd/xdelta 
  xh  0.25.3  A friendly and fast tool for sending HTTP requests  https://github.com/ducaale/xh 
