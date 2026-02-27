@@ -443,7 +443,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.33.30
+  Version: 2.33.31
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -8311,7 +8311,7 @@
   Description: Python client for Neovim
   Homepage: https://github.com/neovim/pynvim
 - Package: python-ruff
-  Version: 0.15.3
+  Version: 0.15.4
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -8819,7 +8819,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.15.3
+  Version: 0.15.4
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
