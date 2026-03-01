@@ -8139,7 +8139,7 @@
   Description: Tunnel TCP connections through ICMP
   Homepage: https://github.com/lnslbrty/ptunnel-ng
 - Package: pueue
-  Version: 4.0.2
+  Version: 4.0.3
   Description: A command-line task management tool for sequential and parallel execution of long-running tasks
   Homepage: https://github.com/Nukesor/pueue
 - Package: pulseaudio
