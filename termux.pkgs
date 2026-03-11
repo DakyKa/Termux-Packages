@@ -136,9 +136,7 @@
 | **biboumi** | 9.0-5 | An XMPP gateway that connects to IRC servers and translates between the two protocols | https://biboumi.louiz.org/ |
 | **binaryen** | 127 | Binaryen is a compiler and toolchain infrastructure library for WebAssembly | https://github.com/WebAssembly/binaryen |
 | **binutils** | 2.46.0-3 | A GNU collection of binary utilities | https://www.gnu.org/software/binutils/ |
-| **binutils-bin** | 2.46.0-2 | Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler | https://www.gnu.org/software/binutils/ |
 | **binutils-cross** | 2.46.0-3 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
-| **binutils-is-llvm** | 0.3-4 | Use llvm as binutils | https://github.com/trentbuck/binutils-is-llvm |
 | **bison** | 3.8.2-4 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-4 | Static libraries for bison | https://www.gnu.org/software/bison/ |
 | **bitcoin** | 30.2 | Bitcoin Core | https://bitcoincore.org/ |
@@ -295,7 +293,7 @@
 | **cups** | 2.4.16 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.1-2 | CUPS PDF backend | https://www.cups-pdf.de/ |
 | **cups-static** | 2.4.16 | Static libraries for cups | https://www.cups.org/ |
-| **curl** | 8.18.0-1 | Command line tool for transferring data with URL syntax | https://curl.se/ |
+| **curl** | 8.19.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-5 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
 | **cvs** | 1:1.12.13-5 | Concurrent Versions System | https://www.nongnu.org/cvs/ |
@@ -967,8 +965,8 @@
 | **libcue** | 2.3.0-1 | CUE Sheet Parser Library | https://github.com/lipnitsk/libcue/ |
 | **libcunit** | 2.1.3-1 | C Unit Testing Framework | https://sourceforge.net/projects/cunit/ |
 | **libcunit-static** | 2.1.3-1 | Static libraries for libcunit | https://sourceforge.net/projects/cunit/ |
-| **libcurl** | 8.18.0-1 | Easy-to-use client-side URL transfer library | https://curl.se/ |
-| **libcurl-static** | 8.18.0-1 | Static libraries for libcurl | https://curl.se/ |
+| **libcurl** | 8.19.0 | Easy-to-use client-side URL transfer library | https://curl.se/ |
+| **libcurl-static** | 8.19.0 | Static libraries for libcurl | https://curl.se/ |
 | **libczmq** | 4.2.1-4 | High-level C binding for ZeroMQ | https://zeromq.org/ |
 | **libczmq-static** | 4.2.1-4 | Static libraries for libczmq | https://zeromq.org/ |
 | **libdaemon** | 0.14-1 | A lightweight C library that eases the writing of UNIX daemons | https://0pointer.de/lennart/projects/libdaemon/ |
@@ -1839,7 +1837,7 @@
 | **nnn** | 5.2 | Free, fast, friendly file browser | https://github.com/jarun/nnn |
 | **no-more-secrets** | 1.0.1-3 | This project provides a command line tool called nms that recreates the famous data decryption effect | https://github.com/bartobri/no-more-secrets |
 | **nodejs** | 25.8.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
-| **nodejs-lts** | 24.13.0-1 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
+| **nodejs-lts** | 24.14.0 | Open Source, cross-platform JavaScript runtime environment | https://nodejs.org/ |
 | **notcurses** | 3.0.17-2 | blingful TUIs and character graphics | https://notcurses.com/ |
 | **notcurses-data** | 3.0.17-2 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.17-2 | Tools and demos for notcurses | https://notcurses.com/ |
@@ -1924,8 +1922,8 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxfmt** | 1.52.0 | Oxc JavaScript formatter | https://oxc.rs/ |
-| **oxlint** | 1.52.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxfmt** | 1.53.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxlint** | 1.53.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.26.2 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-1 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
@@ -2137,7 +2135,6 @@
 | **qpdf** | 12.3.2 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.0-7 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
-| **quickjs** | 2:2025.09.13.2 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
 | **quickjs-ng** | 0.12.1-1 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **rabbitmq-server** | 4.2.4 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
