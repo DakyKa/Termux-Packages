@@ -1805,8 +1805,8 @@
  neocmakelsp  0.10.1  a cmake lsp based on tower-lsp and treesitter  https://neocmakelsp.github.io/ 
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260105  A version of mutt with added features  https://neomutt.org/ 
- neovim  0.11.6-2  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.12.0~dev-2536+gb897e81b30-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim  0.11.6-3  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
+ neovim-nightly  0.12.0~dev-2550+gf847aa6208-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -1922,8 +1922,8 @@
  ossp-uuid  1.6.2-4  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-4  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxfmt  1.53.0  Oxc JavaScript formatter  https://oxc.rs/ 
- oxlint  1.53.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxfmt  1.54.0  Oxc JavaScript formatter  https://oxc.rs/ 
+ oxlint  1.54.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.26.2  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06-1  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.1.0-1  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
