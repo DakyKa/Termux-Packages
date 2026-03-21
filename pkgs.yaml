@@ -778,10 +778,18 @@
   Version: 1.6.3
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
+- Package: cargo-binstall
+  Version: 1.17.7
+  Description: Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem
+  Homepage: https://github.com/cargo-bins/cargo-binstall
 - Package: cargo-c
   Version: 0.10.21
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
+- Package: cargo-cache
+  Version: 0.8.3
+  Description: Tool to manage cargo cache
+  Homepage: https://github.com/matthiaskrgr/cargo-cache
 - Package: cargo-leptos
   Version: 0.3.5
   Description: Build tool for the Rust framework Leptos
