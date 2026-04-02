@@ -2102,13 +2102,13 @@
 | **python-numpy** | 2.4.3 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 2.4.3 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.24.4 | Cross-platform, high performance ML inferencing and training accelerator (Python bindings) | https://onnxruntime.ai/ |
-| **python-pillow** | 12.1.1-3 | Python Imaging Library | https://python-pillow.org/ |
+| **python-pillow** | 12.2.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 26.0.1-1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-psutil** | 7.2.2 | Cross-platform process and system utilities module for Python | https://github.com/giampaolo/psutil |
 | **python-pyarrow** | 23.0.1-2 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-3 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pynvim** | 0.6.0-2 | Python client for Neovim | https://github.com/neovim/pynvim |
-| **python-ruff** | 0.15.8 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
+| **python-ruff** | 0.15.9 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 9.4.0 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-skia-pathops** | 0.9.2-1 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
 | **python-static** | 3.13.12-5 | Static libraries for python | https://python.org/ |
@@ -2235,7 +2235,7 @@
 | **rubiks-cube** | 1.2-1 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.4.1-2 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.4.1-2 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.15.8 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.15.9 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.8.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2699,8 +2699,8 @@
 | **xerces-c-static** | 3.3.0 | Static libraries for xerces-c | https://xerces.apache.org/ |
 | **xh** | 0.25.3 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
 | **xmake** | 3.0.8 | A cross-platform build utility based on Lua | https://xmake.io/ |
-| **xmlsec** | 1.3.9 | XML Security Library | https://www.aleksey.com/xmlsec/ |
-| **xmlsec-static** | 1.3.9 | Static libraries for xmlsec | https://www.aleksey.com/xmlsec/ |
+| **xmlsec** | 1.3.10 | XML Security Library | https://www.aleksey.com/xmlsec/ |
+| **xmlsec-static** | 1.3.10 | Static libraries for xmlsec | https://www.aleksey.com/xmlsec/ |
 | **xmlstarlet** | 1.6.1-8 | Command line XML toolkit | https://xmlstar.sourceforge.net/ |
 | **xmlto** | 0.0.29-2 | Convert xml to many other formats | https://pagure.io/xmlto/ |
 | **xmppc** | 0.1.2-4 | Command Line Interface Tool for XMPP | https://codeberg.org/Anoxinon_e.V./xmppc |
