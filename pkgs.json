@@ -4711,7 +4711,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.1465",
+    "Version": "0.24.1526",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
