@@ -15787,7 +15787,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.347",
+    "Version": "1.4.348",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -15799,7 +15799,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.347",
+    "Version": "1.4.348",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
