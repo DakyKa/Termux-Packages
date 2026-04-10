@@ -512,6 +512,7 @@
  flatbuffers-static  25.12.19-2026-02-06-03fffb2-1  Static libraries for flatbuffers  https://github.com/google/flatbuffers 
  flex  2.6.4-4  Fast lexical analyser generator  https://github.com/westes/flex 
  flex-static  2.6.4-4  Static libraries for flex  https://github.com/westes/flex 
+ flint  3.4.0  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.5.3  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
  flyctl  0.4.33  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 

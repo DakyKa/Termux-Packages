@@ -2054,6 +2054,10 @@
   Version: 2.6.4-4
   Description: Static libraries for flex
   Homepage: https://github.com/westes/flex
+- Package: flint
+  Version: 3.4.0
+  Description: C library for doing number theory
+  Homepage: http://www.flintlib.org
 - Package: fluidsynth
   Version: 2.5.3
   Description: Software synthesizer based on the SoundFont 2 specifications
