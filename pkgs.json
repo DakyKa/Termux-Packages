@@ -11191,7 +11191,7 @@
   },
   {
     "Package": "nginx",
-    "Version": "1.29.8",
+    "Version": "1.29.8-1",
     "Description": "Lightweight HTTP server",
     "Homepage": "https://www.nginx.org"
   },
