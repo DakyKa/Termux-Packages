@@ -834,7 +834,7 @@
  jsoncpp-static  1.9.6-2  Static libraries for jsoncpp  https://github.com/open-source-parsers/jsoncpp 
  jump  0.51.0-3  Jump helps you navigate in shell faster by learning your habits  https://github.com/gsamokovarov/jump 
  jupp  3.1jupp41-3  User friendly full screen text editor  http://www.mirbsd.org/jupp.htm 
- just  1.49.0  A handy way to save and run project-specific commands  https://just.systems 
+ just  1.50.0  A handy way to save and run project-specific commands  https://just.systems 
  jython  2.7.4-1  Python for the Java Platform  https://www.jython.org/ 
  k2pdfopt  2.55-4  A tool that optimizes PDF files for viewing on mobile readers  https://www.willus.com/k2pdfopt/ 
  k9s  0.50.18  Kubernetes CLI To Manage Your Clusters In Style!  https://k9scli.io 
@@ -2131,8 +2131,8 @@
  python-llvmlite  0.47.0-2  A lightweight LLVM python binding for writing JIT compilers  https://llvmlite.pydata.org/ 
  python-lxml  6.1.0  Python binding for the libxml2 and libxslt libraries  https://github.com/lxml/lxml 
  python-msgpack  1.1.2-2  MessagePack serializer implementation for Python  https://github.com/msgpack/msgpack-python 
- python-numpy  2.4.3  The fundamental package for scientific computing with Python  https://numpy.org/ 
- python-numpy-static  2.4.3  Static libraries for python-numpy  https://numpy.org/ 
+ python-numpy  2.4.4  The fundamental package for scientific computing with Python  https://numpy.org/ 
+ python-numpy-static  2.4.4  Static libraries for python-numpy  https://numpy.org/ 
  python-onnxruntime  1.24.4  Cross-platform, high performance ML inferencing and training accelerator (Python bindings)  https://onnxruntime.ai/ 
  python-pillow  12.2.0  Python Imaging Library  https://python-pillow.org/ 
  python-pip  26.0.1-1  The PyPA recommended tool for installing Python packages  https://pip.pypa.io/ 

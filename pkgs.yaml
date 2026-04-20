@@ -3343,7 +3343,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.49.0
+  Version: 1.50.0
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -8531,11 +8531,11 @@
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-numpy
-  Version: 2.4.3
+  Version: 2.4.4
   Description: The fundamental package for scientific computing with Python
   Homepage: https://numpy.org/
 - Package: python-numpy-static
-  Version: 2.4.3
+  Version: 2.4.4
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
