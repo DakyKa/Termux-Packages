@@ -163,7 +163,7 @@
   Description: Slice and dice logs on the command line
   Homepage: https://github.com/rcoh/angle-grinder
 - Package: ani-cli
-  Version: "4.12"
+  Version: "4.13"
   Description: A cli to browse and watch anime
   Homepage: https://github.com/pystardust/ani-cli
 - Package: ansifilter
