@@ -857,7 +857,7 @@
 | **kakoune** | 2026.04.12 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 20.0.0 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.9.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kew** | 4.0.0 | Music for the Shell | https://codeberg.org/ravachol/kew |
+| **kew** | 4.0.0-1 | Music for the Shell | https://codeberg.org/ravachol/kew |
 | **keybase** | 6.6.2 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.9.8 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
 | **kibi** | 0.3.3 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
@@ -1496,8 +1496,8 @@
 | **libucontext-static** | 1.5 | Static libraries for libucontext | https://github.com/kaniini/libucontext |
 | **libudfread** | 1.2.0 | A library for reading UDF | https://code.videolan.org/videolan/libudfread/ |
 | **libudfread-static** | 1.2.0 | Static libraries for libudfread | https://code.videolan.org/videolan/libudfread/ |
-| **libunbound** | 1.24.2-2 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
-| **libunbound-static** | 1.24.2-2 | Static libraries for libunbound | https://unbound.net/ |
+| **libunbound** | 1.25.0 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
+| **libunbound-static** | 1.25.0 | Static libraries for libunbound | https://unbound.net/ |
 | **libunibilium** | 2.1.2-2 | Terminfo parsing library | https://github.com/neovim/unibilium |
 | **libunistring** | 1.3-1 | Library providing functions for manipulating Unicode strings | https://www.gnu.org/software/libunistring/ |
 | **libunistring-static** | 1.3-1 | Static libraries for libunistring | https://www.gnu.org/software/libunistring/ |
@@ -2177,7 +2177,7 @@
 | **python-yt-dlp** | 2026.03.17 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
 | **python2** | 2.7.18-15 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-15 | Static libraries for python2 | http://python.org/ |
-| **pyunbound** | 1.24.2-2 | Python bindings for Unbound | https://unbound.net/ |
+| **pyunbound** | 1.25.0 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.7-1 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.12 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 5.10.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
@@ -2318,7 +2318,7 @@
 | **sc-im** | 0.8.5-4 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
 | **scala** | 3.8.3 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.7.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
-| **sccache** | 0.14.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
+| **sccache** | 0.15.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
 | **scdaemon** | 2.5.17 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
 | **scdoc** | 1.11.4 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
 | **screen** | 5.0.1-1 | Terminal multiplexer with VT100/ANSI terminal emulation | https://www.gnu.org/software/screen/ |
@@ -2625,9 +2625,9 @@
 | **udftools** | 2.3-1 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
 | **udocker** | 1.3.17-4 | A basic user tool to execute simple docker containers in batch or interactive systems without root privileges. | https://indigo-dc.github.io/udocker |
 | **uftrace** | 0.19-1 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
-| **ugrep** | 7.7.0 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
+| **ugrep** | 7.8.0 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-3 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
-| **unbound** | 1.24.2-2 | Unbound command-line tools | https://unbound.net/ |
+| **unbound** | 1.25.0 | Unbound command-line tools | https://unbound.net/ |
 | **unicode-cldr** | 48.1 | Unicode Common Locale Data Repository | http://cldr.unicode.org/ |
 | **unicode-data** | 18.0.0 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
 | **unicode-emoji** | 17.0.0 | Unicode Emoji Data Files | https://unicode.org/emoji/ |
@@ -2639,7 +2639,7 @@
 | **unixodbc** | 2.3.14 | An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX | https://www.unixodbc.org/ |
 | **unixodbc-static** | 2.3.14 | Static libraries for unixodbc | https://www.unixodbc.org/ |
 | **unpaper** | 1:7.0.0-4 | A post-processing tool for scanned sheets of paper | https://www.flameeyes.com/projects/unpaper |
-| **unrar** | 7.2.5 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
+| **unrar** | 7.2.6 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
 | **unshield** | 1.6.2-1 | Tool and library to extract CAB files from InstallShield installers | https://github.com/twogood/unshield |
 | **unzip** | 6.0-10 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **up** | 0.4-4 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |

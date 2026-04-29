@@ -5083,7 +5083,7 @@
   },
   {
     "Package": "kew",
-    "Version": "4.0.0",
+    "Version": "4.0.0-1",
     "Description": "Music for the Shell",
     "Homepage": "https://codeberg.org/ravachol/kew"
   },
@@ -8917,13 +8917,13 @@
   },
   {
     "Package": "libunbound",
-    "Version": "1.24.2-2",
+    "Version": "1.25.0",
     "Description": "A validating, recursive, caching DNS resolver",
     "Homepage": "https://unbound.net/"
   },
   {
     "Package": "libunbound-static",
-    "Version": "1.24.2-2",
+    "Version": "1.25.0",
     "Description": "Static libraries for libunbound",
     "Homepage": "https://unbound.net/"
   },
@@ -13003,7 +13003,7 @@
   },
   {
     "Package": "pyunbound",
-    "Version": "1.24.2-2",
+    "Version": "1.25.0",
     "Description": "Python bindings for Unbound",
     "Homepage": "https://unbound.net/"
   },
@@ -13849,7 +13849,7 @@
   },
   {
     "Package": "sccache",
-    "Version": "0.14.0",
+    "Version": "0.15.0",
     "Description": "sccache is ccache with cloud storage",
     "Homepage": "https://github.com/mozilla/sccache"
   },
@@ -15691,7 +15691,7 @@
   },
   {
     "Package": "ugrep",
-    "Version": "7.7.0",
+    "Version": "7.8.0",
     "Description": "A faster, user-friendly and compatible grep replacement",
     "Homepage": "https://github.com/Genivia/ugrep"
   },
@@ -15703,7 +15703,7 @@
   },
   {
     "Package": "unbound",
-    "Version": "1.24.2-2",
+    "Version": "1.25.0",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
   },
@@ -15775,7 +15775,7 @@
   },
   {
     "Package": "unrar",
-    "Version": "7.2.5",
+    "Version": "7.2.6",
     "Description": "Tool for extracting files from .rar archives",
     "Homepage": "https://www.rarlab.com/"
   },
