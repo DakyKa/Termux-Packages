@@ -2314,7 +2314,7 @@
 | **samefile** | 2.15-6 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
 | **samurai** | 1.3 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
 | **sassc** | 3.6.2-1 | libsass command line driver | https://github.com/sass/sassc |
-| **sbcl** | 2.6.3 | A high performance Common Lisp compiler | http://www.sbcl.org/ |
+| **sbcl** | 2.6.4 | A high performance Common Lisp compiler | http://www.sbcl.org/ |
 | **sc-im** | 0.8.5-4 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
 | **scala** | 3.8.3 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.7.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |

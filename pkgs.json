@@ -13825,7 +13825,7 @@
   },
   {
     "Package": "sbcl",
-    "Version": "2.6.3",
+    "Version": "2.6.4",
     "Description": "A high performance Common Lisp compiler",
     "Homepage": "http://www.sbcl.org/"
   },
