@@ -13699,7 +13699,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260504",
+    "Version": "20260511",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -15907,7 +15907,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.11.12",
+    "Version": "0.11.13",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
