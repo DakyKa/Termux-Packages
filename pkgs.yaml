@@ -8827,7 +8827,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.57.1
+  Version: 4.57.2
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
