@@ -5233,7 +5233,7 @@
   },
   {
     "Package": "lego",
-    "Version": "4.35.2",
+    "Version": "5.0.0",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
   },
@@ -14779,7 +14779,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "2.0.16",
+    "Version": "2.1.0",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
