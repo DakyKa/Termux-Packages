@@ -38,7 +38,7 @@
 | **aidl** | 13.0.0.6-23 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
 | **alass** | 2.0.0-4 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.11 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
-| **algernon** | 1.17.6 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
+| **algernon** | 1.17.7 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
 | **alpine** | 2.26-1 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **alsa-lib** | 1.2.15.3 | The Advanced Linux Sound Architecture (ALSA) - library | https://www.alsa-project.org |
 | **alsa-plugins** | 1.2.12-1 | The Advanced Linux Sound Architecture (ALSA) - plugins | https://www.alsa-project.org |
@@ -203,7 +203,7 @@
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cabin** | 0.13.0-1 | A package manager and build system for C++ | https://github.com/cabinpkg/cabin |
 | **cadaver** | 0.28 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
-| **caddy** | 2.11.2 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
+| **caddy** | 2.11.3 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
 | **calc** | 2.16.1.3 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
 | **calcurse** | 4.8.2-2 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.2-2 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
@@ -531,7 +531,7 @@
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.5.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.50 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.51 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.17.1-1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -688,7 +688,7 @@
 | **gpgv** | 2.5.17 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.20.1-1 | Ping, but with a graph | https://github.com/orf/gping |
 | **gpsbabel** | 1.4.4-3 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
-| **gradle** | 1:9.5.0 | Powerful build system for the JVM | https://gradle.org/ |
+| **gradle** | 1:9.5.1 | Powerful build system for the JVM | https://gradle.org/ |
 | **grafana** | 1:12.3.3 | The open-source platform for monitoring and observability | https://grafana.com/ |
 | **grap** | 1.49 | Language for typesetting graphs | https://www.lunabase.org/~faber/Vault/software/grap/ |
 | **graphene** | 1.10.8-3 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
@@ -2401,9 +2401,9 @@
 | **spglib** | 2.7.0 | C library for finding and handling crystal symmetries | https://spglib.github.io/spglib/index.html |
 | **spidermonkey** | 128.10.0-2 | Mozilla's JavaScript engine | https://spidermonkey.dev |
 | **spiped** | 1.6.4-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
-| **spirv-headers** | 1.4.341.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
+| **spirv-headers** | 1.4.350.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
 | **spirv-llvm-translator** | 21.1.7 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
-| **spirv-tools** | 1.4.341.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
+| **spirv-tools** | 1.4.350.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.15.0-1 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.53.1 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2-1 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |

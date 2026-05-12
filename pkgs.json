@@ -169,7 +169,7 @@
   },
   {
     "Package": "algernon",
-    "Version": "1.17.6",
+    "Version": "1.17.7",
     "Description": "Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support",
     "Homepage": "https://algernon.roboticoverlords.org/"
   },
@@ -1159,7 +1159,7 @@
   },
   {
     "Package": "caddy",
-    "Version": "2.11.2",
+    "Version": "2.11.3",
     "Description": "Fast, cross-platform HTTP/2 web server",
     "Homepage": "https://caddyserver.com/"
   },
@@ -3127,7 +3127,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.50",
+    "Version": "0.4.51",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4069,7 +4069,7 @@
   },
   {
     "Package": "gradle",
-    "Version": "1:9.5.0",
+    "Version": "1:9.5.1",
     "Description": "Powerful build system for the JVM",
     "Homepage": "https://gradle.org/"
   },
@@ -14347,7 +14347,7 @@
   },
   {
     "Package": "spirv-headers",
-    "Version": "1.4.341.0",
+    "Version": "1.4.350.0",
     "Description": "SPIR-V Headers",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Headers"
   },
@@ -14359,7 +14359,7 @@
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.4.341.0",
+    "Version": "1.4.350.0",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },
