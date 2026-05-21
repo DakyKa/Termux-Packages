@@ -1651,7 +1651,7 @@
   Description: Static libraries for draco
   Homepage: https://google.github.io/draco/
 - Package: dropbear
-  Version: "2025.89"
+  Version: "2026.91"
   Description: Small SSH server and client
   Homepage: https://matt.ucc.asn.au/dropbear/dropbear.html
 - Package: dtach

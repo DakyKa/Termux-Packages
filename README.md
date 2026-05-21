@@ -423,7 +423,7 @@
 | **dpkg-scanpackages** | 1.22.6-5 | Creates Packages index files | https://packages.debian.org/dpkg |
 | **draco** | 1.5.7-1 | Library for compressing and decompressing 3D geometric meshes and point clouds | https://google.github.io/draco/ |
 | **draco-static** | 1.5.7-1 | Static libraries for draco | https://google.github.io/draco/ |
-| **dropbear** | 2025.89 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
+| **dropbear** | 2026.91 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | **dtach** | 0.9-2 | Emulates the detach feature of screen | https://dtach.sourceforge.net/ |
 | **dtc** | 1.7.2-2 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.7.2-2 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
