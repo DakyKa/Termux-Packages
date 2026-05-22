@@ -1531,13 +1531,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "4.3.2-1",
+    "Version": "4.3.3",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "4.3.2-1",
+    "Version": "4.3.3",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -3421,7 +3421,7 @@
   },
   {
     "Package": "gdrive-downloader",
-    "Version": "1:1.1",
+    "Version": "1:2.0",
     "Description": "Download a gdrive folder or file easily, shell ftw",
     "Homepage": "https://github.com/Akianonymus/gdrive-downloader"
   },
@@ -4141,7 +4141,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "16.0.4",
+    "Version": "16.0.5",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -4909,7 +4909,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.103.0",
+    "Version": "2.104.1",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -11101,7 +11101,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-565+ga952575c3b-0",
+    "Version": "0.13.0~dev-576+g71c72c3409-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11479,7 +11479,7 @@
   },
   {
     "Package": "oma",
-    "Version": "1.26.2",
+    "Version": "1.26.3",
     "Description": "oma is an attempt at reworking APTs interface",
     "Homepage": "https://aosc.io/oma"
   },
@@ -12385,7 +12385,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.38.1",
+    "Version": "0.38.2",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
