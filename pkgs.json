@@ -13291,7 +13291,7 @@
   },
   {
     "Package": "rclone",
-    "Version": "1.74.1",
+    "Version": "1.74.2",
     "Description": "rsync for cloud storage",
     "Homepage": "https://rclone.org/"
   },
