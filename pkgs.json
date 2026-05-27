@@ -691,7 +691,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.34.53",
+    "Version": "2.34.54",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -2491,13 +2491,13 @@
   },
   {
     "Package": "dtc",
-    "Version": "1.7.2-2",
+    "Version": "1.8.0",
     "Description": "Device Tree Compiler",
     "Homepage": "https://git.kernel.org/pub/scm/utils/dtc/dtc"
   },
   {
     "Package": "dtc-static",
-    "Version": "1.7.2-2",
+    "Version": "1.8.0",
     "Description": "Static libraries for dtc",
     "Homepage": "https://git.kernel.org/pub/scm/utils/dtc/dtc"
   },
@@ -4405,13 +4405,13 @@
   },
   {
     "Package": "hledger",
-    "Version": "1.43.2-1",
+    "Version": "1.43.2-2",
     "Description": "Robust, friendly, fast plain text accounting software. (CLI only)",
     "Homepage": "https://hledger.org/"
   },
   {
     "Package": "hledger-ui",
-    "Version": "1.43.2",
+    "Version": "1.43.2-1",
     "Description": "hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.",
     "Homepage": "https://hledger.org/"
   },
@@ -5251,7 +5251,7 @@
   },
   {
     "Package": "less",
-    "Version": "692",
+    "Version": "702",
     "Description": "Terminal pager program used to view the contents of a text file one screen at a time",
     "Homepage": "https://www.greenwoodsoftware.com/less/"
   },
@@ -6295,7 +6295,7 @@
   },
   {
     "Package": "libfcl",
-    "Version": "0.7.0-3",
+    "Version": "0.7.0-4",
     "Description": "Flexible collision library",
     "Homepage": "https://github.com/flexible-collision-library/fcl"
   },
@@ -9871,8 +9871,8 @@
   },
   {
     "Package": "lua-lpeg",
-    "Version": "1.1.0-5",
-    "Description": "Pattern-matching library for Lua 5.4",
+    "Version": "1.1.0-6",
+    "Description": "Pattern-matching library for Lua 5.5",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
   {
@@ -9883,7 +9883,7 @@
   },
   {
     "Package": "lua51-lpeg",
-    "Version": "1.1.0-5",
+    "Version": "1.1.0-6",
     "Description": "Pattern-matching library for Lua 5.1",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9901,7 +9901,7 @@
   },
   {
     "Package": "lua52-lpeg",
-    "Version": "1.1.0-5",
+    "Version": "1.1.0-6",
     "Description": "Pattern-matching library for Lua 5.2",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9919,7 +9919,7 @@
   },
   {
     "Package": "lua53-lpeg",
-    "Version": "1.1.0-5",
+    "Version": "1.1.0-6",
     "Description": "Pattern-matching library for Lua 5.3",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -9937,7 +9937,7 @@
   },
   {
     "Package": "lua54-lpeg",
-    "Version": "1.1.0-5",
+    "Version": "1.1.0-6",
     "Description": "Pattern-matching library for Lua 5.4",
     "Homepage": "https://www.inf.puc-rio.br/~roberto/lpeg"
   },
@@ -11929,7 +11929,7 @@
   },
   {
     "Package": "parallel",
-    "Version": "20260422",
+    "Version": "20260522",
     "Description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more machines",
     "Homepage": "https://www.gnu.org/software/parallel/"
   },
@@ -16867,7 +16867,7 @@
   },
   {
     "Package": "zsh",
-    "Version": "5.9-9",
+    "Version": "5.9-10",
     "Description": "Shell with lots of features",
     "Homepage": "https://www.zsh.org"
   },
