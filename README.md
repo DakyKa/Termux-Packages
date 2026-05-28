@@ -284,7 +284,7 @@
 | **colm-static** | 0.14.7-2 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.22 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
 | **command-not-found** | 3.4.1-11 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
-| **composer** | 2.9.8 | Dependency Manager for PHP | https://getcomposer.org/ |
+| **composer** | 2.10.0 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
 | **cookcli** | 0.30.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
@@ -425,8 +425,8 @@
 | **draco-static** | 1.5.7-1 | Static libraries for draco | https://google.github.io/draco/ |
 | **dropbear** | 2026.91 | Small SSH server and client | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | **dtach** | 0.9-2 | Emulates the detach feature of screen | https://dtach.sourceforge.net/ |
-| **dtc** | 1.8.0 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
-| **dtc-static** | 1.8.0 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
+| **dtc** | 1.8.1 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
+| **dtc-static** | 1.8.1 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dte** | 1.11.1-2 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
 | **dua** | 2.34.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.6 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
@@ -828,7 +828,7 @@
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 10.11.5-3 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
 | **jellyfin-server** | 10.11.5-3 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
-| **jfrog-cli** | 2.104.1 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.105.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -948,7 +948,7 @@
 | **libblocksruntime** | 1:6.2.1 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6-2 | Static libraries for libblosc | https://www.blosc.org |
-| **libblosc2** | 3.1.0 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
+| **libblosc2** | 3.1.2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libbluray** | 1.4.1 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-static** | 1.4.1 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-utils** | 1.4.1 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
@@ -1734,7 +1734,7 @@
 | **mdbook-svgbob** | 0.2.2-1 | SvgBob mdbook preprocessor which swaps code-blocks with neat SVG | https://github.com/boozook/mdbook-svgbob |
 | **mdbook-svgbob2** | 0.3.0-1 | Alternative mdbook preprocessor for svgbob | https://github.com/matthiasbeyer/mdbook-svgbob2 |
 | **mdbook-tera** | 0.5.1-1 | Tera preprocessor for mdBook | https://github.com/avitex/mdbook-tera |
-| **mdbook-toc** | 0.15.3 | A preprocessor for mdbook to add inline Table of Contents support | https://github.com/badboy/mdbook-toc |
+| **mdbook-toc** | 0.15.4 | A preprocessor for mdbook to add inline Table of Contents support | https://github.com/badboy/mdbook-toc |
 | **mdbtools** | 1.0.1-1 | A set of programs to help you extract data from Microsoft Access files in various settings | https://github.com/mdbtools/mdbtools |
 | **mdbtools-static** | 1.0.1-1 | Static libraries for mdbtools | https://github.com/mdbtools/mdbtools |
 | **mdds** | 3.2.1 | A collection of multi-dimensional data structures and indexing algorithms | https://gitlab.com/mdds/mdds |
@@ -2460,7 +2460,7 @@
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
 | **svt-av1** | 4.1.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
-| **swi-prolog** | 10.1.7 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
+| **swi-prolog** | 10.1.8 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift** | 6.2.1 | Swift is a high-performance system programming language | https://swift.org/ |
 | **swift-runtime-aarch64** | 6.2.1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
 | **swift-runtime-arm** | 6.2.1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
