@@ -4019,7 +4019,7 @@
   Description: Static libraries for libdb
   Homepage: https://www.oracle.com/database/berkeley-db
 - Package: libde265
-  Version: 1.1.0
+  Version: 1.1.1
   Description: H.265/HEVC video stream decoder library
   Homepage: https://github.com/strukturag/libde265
 - Package: libdebuginfod

@@ -1003,7 +1003,7 @@
  libdav1d  1.5.3  AV1 cross-platform decoder focused on speed and correctness  https://code.videolan.org/videolan/dav1d/ 
  libdb  18.1.40-5  The Berkeley DB embedded database system (library)  https://www.oracle.com/database/berkeley-db 
  libdb-static  18.1.40-5  Static libraries for libdb  https://www.oracle.com/database/berkeley-db 
- libde265  1.1.0  H.265/HEVC video stream decoder library  https://github.com/strukturag/libde265 
+ libde265  1.1.1  H.265/HEVC video stream decoder library  https://github.com/strukturag/libde265 
  libdebuginfod  0.193-1  Library for debuginfod  https://sourceware.org/elfutils/ 
  libdeflate  1.25  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
  libdeflate-static  1.25  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 

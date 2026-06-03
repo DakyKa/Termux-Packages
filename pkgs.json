@@ -6031,7 +6031,7 @@
   },
   {
     "Package": "libde265",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Description": "H.265/HEVC video stream decoder library",
     "Homepage": "https://github.com/strukturag/libde265"
   },
