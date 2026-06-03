@@ -459,7 +459,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.34.60
+  Version: 2.34.61
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1775,7 +1775,7 @@
   Description: Full-Featured Text WWW Browser
   Homepage: https://github.com/rkd77/elinks
 - Package: elixir
-  Version: 1.19.5
+  Version: 1.20.0
   Description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications
   Homepage: https://elixir-lang.org/
 - Package: eltclsh
@@ -3395,7 +3395,7 @@
   Description: Music for the Shell
   Homepage: https://codeberg.org/ravachol/kew
 - Package: keybase
-  Version: 6.6.2
+  Version: 6.6.3
   Description: Key directory that maps social media identities to encryption keys
   Homepage: https://keybase.io
 - Package: keychain
@@ -4455,7 +4455,7 @@
   Description: Programs for manipulating HEIF (HEIC/AVIF) image files
   Homepage: https://github.com/strukturag/libheif
 - Package: libhiredis
-  Version: 1.3.0-1
+  Version: 1.4.0
   Description: Hiredis is a minimalistic C client library for the Redis database
   Homepage: https://redis.com/lp/hiredis
 - Package: libhtmlcxx
@@ -7047,7 +7047,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.5.18-1
+  Version: 2026.6.0
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -8971,7 +8971,7 @@
   Description: Restics REST backend API server
   Homepage: https://restic.net/
 - Package: restish
-  Version: 2.1.1
+  Version: 2.1.2
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/rest-sh/restish
 - Package: rgbds
