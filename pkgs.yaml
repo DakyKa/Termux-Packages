@@ -1875,7 +1875,7 @@
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
-  Version: 2:0.28.7
+  Version: 2:0.28.8
   Description: Exif, Iptc and XMP metadata manipulation library and tools
   Homepage: https://exiv2.org/
 - Package: expect
@@ -8387,7 +8387,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 5.1.4
+  Version: 5.1.5
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf

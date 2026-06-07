@@ -2815,7 +2815,7 @@
   },
   {
     "Package": "exiv2",
-    "Version": "2:0.28.7",
+    "Version": "2:0.28.8",
     "Description": "Exif, Iptc and XMP metadata manipulation library and tools",
     "Homepage": "https://exiv2.org/"
   },
@@ -12583,7 +12583,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "5.1.4",
+    "Version": "5.1.5",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
