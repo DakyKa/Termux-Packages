@@ -12595,7 +12595,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.77",
+    "Version": "5.1.107.78-1",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
