@@ -13261,7 +13261,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.18.0",
+    "Version": "5.19.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -16249,7 +16249,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.20.1",
+    "Version": "2.20.3",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
