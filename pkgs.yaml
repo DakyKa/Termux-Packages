@@ -7051,7 +7051,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.6.12
+  Version: 2026.6.13
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -10619,7 +10619,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.11.23
+  Version: 0.11.24
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi

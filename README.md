@@ -1773,7 +1773,7 @@
 | **miniupnpc-static** | 2.3.3-1 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
 | **minizinc** | 2.9.7 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.9.7 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.6.12 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.6.13 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
@@ -2665,7 +2665,7 @@
 | **util-linux-static** | 2.42.1-1 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1-1 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.11.23 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.11.24 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-1 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.49.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
