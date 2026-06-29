@@ -416,7 +416,7 @@
 | **dtc** | 1.8.1 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.8.1 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dte** | 1.11.1-2 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
-| **dua** | 2.37.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
+| **dua** | 2.37.1 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.6 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 1.5.4 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.9.1 | Disk usage/free utility | https://github.com/muesli/duf |
@@ -744,9 +744,9 @@
 | **htslib** | 1.23.1 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
 | **htslib-static** | 1.23.1 | Static libraries for htslib | https://github.com/samtools/htslib |
 | **httping** | 4.4.0-1 | ping-like program for http-requests | https://github.com/folkertvanheusden/HTTPing |
-| **httrack** | 3.49.9 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
-| **httrack-data** | 3.49.9 | Platform-independent data for httrack | http://www.httrack.com |
-| **httrack-static** | 3.49.9 | Static libraries for httrack | http://www.httrack.com |
+| **httrack** | 3.49.10 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
+| **httrack-data** | 3.49.10 | Platform-independent data for httrack | http://www.httrack.com |
+| **httrack-static** | 3.49.10 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
 | **hugo** | 0.163.3 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
