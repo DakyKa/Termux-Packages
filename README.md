@@ -14,7 +14,7 @@
 | **2048-c** | 1:1.0.3-1 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
 | **2ping** | 4.6.1-1 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
 | **6tunnel** | 0.14 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
-| **7zip** | 26.01 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
+| **7zip** | 26.02 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
 | **8086tiny** | 1.25-5 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
 | **a52dec** | 0.8.0-3 | A test program for liba52 | http://liba52.sourceforge.net/ |
 | **aalib** | 1.4rc5-13 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
@@ -63,6 +63,7 @@
 | **apache2** | 1:2.4.68 | Apache Web Server | https://httpd.apache.org |
 | **apkeep** | 1.0.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
 | **apksigner** | 33.0.1-1 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
+| **apktool** | 3.0.2 | A tool for reverse engineering Android apps (decoding, rebuilding, and smali debugging). | https://apktool.org/ |
 | **appstream** | 1.1.3 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
 | **apr** | 1.7.6-2 | Apache Portable Runtime Library | https://apr.apache.org/ |
 | **apr-static** | 1.7.6-2 | Static libraries for apr | https://apr.apache.org/ |
