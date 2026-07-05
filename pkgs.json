@@ -11125,7 +11125,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.12.3-1",
+    "Version": "0.12.4",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
