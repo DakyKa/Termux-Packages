@@ -2289,7 +2289,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.9.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.96.1  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20260629  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20260706  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.96.1  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.96.1  Rust source code files  https://www.rust-lang.org/ 
@@ -2718,7 +2718,7 @@
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  33  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
  wasm-component-ld  0.5.25  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
- wasmedge  0.17.0  A lightweight, high-performance, and extensible WebAssembly runtime  https://wasmedge.org/ 
+ wasmedge  0.17.1  A lightweight, high-performance, and extensible WebAssembly runtime  https://wasmedge.org/ 
  wasmer  7.1.0  A fast and secure WebAssembly runtime  https://wasmer.io/ 
  wasmtime  46.0.1  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
  watchexec  2.5.1  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 

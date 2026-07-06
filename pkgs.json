@@ -13747,7 +13747,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260629",
+    "Version": "20260706",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -16321,7 +16321,7 @@
   },
   {
     "Package": "wasmedge",
-    "Version": "0.17.0",
+    "Version": "0.17.1",
     "Description": "A lightweight, high-performance, and extensible WebAssembly runtime",
     "Homepage": "https://wasmedge.org/"
   },
