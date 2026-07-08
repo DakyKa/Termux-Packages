@@ -8571,7 +8571,7 @@
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
-  Version: 1.82.0-1
+  Version: 1.82.1
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: python-lameenc
@@ -8875,7 +8875,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.24.0
+  Version: 5.25.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3

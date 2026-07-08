@@ -12859,7 +12859,7 @@
   },
   {
     "Package": "python-grpcio",
-    "Version": "1.82.0-1",
+    "Version": "1.82.1",
     "Description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first",
     "Homepage": "https://grpc.io/"
   },
@@ -13315,7 +13315,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.24.0",
+    "Version": "5.25.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
