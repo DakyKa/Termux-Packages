@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.35.17
+  Version: 2.35.19
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -10003,7 +10003,7 @@
   Description: Telegram Bot API server
   Homepage: https://github.com/tdlib/telegram-bot-api
 - Package: teleport-tsh
-  Version: 18.9.2
+  Version: 18.10.0
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tere
