@@ -11935,13 +11935,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.73.0",
+    "Version": "1.74.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.73.0",
+    "Version": "1.74.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -15709,7 +15709,7 @@
   },
   {
     "Package": "ttyplot",
-    "Version": "1.7.5",
+    "Version": "1.7.6",
     "Description": "A realtime plotting utility for terminal with data input from stdin",
     "Homepage": "https://github.com/tenox7/ttyplot"
   },
