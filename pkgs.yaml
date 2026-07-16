@@ -2011,7 +2011,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 8.1.2
+  Version: 8.1.2-1
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -9403,7 +9403,7 @@
   Description: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server
   Homepage: https://sftpgo.com/
 - Package: shaderc
-  Version: "2026.2"
+  Version: "2026.3"
   Description: Collection of tools, libraries, and tests for Vulkan shader compilation
   Homepage: https://github.com/google/shaderc
 - Package: sharutils
