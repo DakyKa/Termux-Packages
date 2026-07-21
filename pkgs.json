@@ -15757,7 +15757,7 @@
   },
   {
     "Package": "turbopack",
-    "Version": "16.2.10",
+    "Version": "16.2.11",
     "Description": "Rust-based incremental compilation engine and bundler for Next.js",
     "Homepage": "https://nextjs.org/"
   },
