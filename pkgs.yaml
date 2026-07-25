@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.7
+  Version: 2.36.8
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -4783,11 +4783,11 @@
   Description: Static libraries for libknot
   Homepage: https://www.knot-dns.cz/
 - Package: libkokkos
-  Version: 5.1.1
+  Version: 5.2.0
   Description: Implements a programming model in C++ for writing performance portable applications
   Homepage: https://github.com/kokkos
 - Package: libkokkos-static
-  Version: 5.1.1
+  Version: 5.2.0
   Description: Static libraries for libkokkos
   Homepage: https://github.com/kokkos
 - Package: libksba
@@ -7227,7 +7227,7 @@
   Description: A server software with the aim of being fully compliant with DLNA/UPnP-AV clients
   Homepage: https://sourceforge.net/projects/minidlna/
 - Package: miniflux
-  Version: 2.3.2
+  Version: 2.3.3
   Description: A minimalist and opinionated feed reader
   Homepage: https://miniflux.app/
 - Package: minimodem
@@ -10955,7 +10955,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.2.0800
+  Version: 9.2.0850
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -11347,7 +11347,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.2.0800
+  Version: 9.2.0850
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
