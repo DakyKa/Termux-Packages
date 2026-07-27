@@ -4351,7 +4351,7 @@
   },
   {
     "Package": "harper",
-    "Version": "2.6.0",
+    "Version": "2.6.0-1",
     "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
     "Homepage": "https://writewithharper.com/"
   },
@@ -15055,13 +15055,13 @@
   },
   {
     "Package": "suitesparse",
-    "Version": "2:7.12.2",
+    "Version": "2:7.12.3",
     "Description": "A Suite of Sparse matrix packages.",
     "Homepage": "https://github.com/DrTimothyAldenDavis/SuiteSparse"
   },
   {
     "Package": "suitesparse-static",
-    "Version": "2:7.12.2",
+    "Version": "2:7.12.3",
     "Description": "Static libraries for suitesparse",
     "Homepage": "https://github.com/DrTimothyAldenDavis/SuiteSparse"
   },
@@ -16069,7 +16069,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.63",
+    "Version": "0.0.64",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -16356,8 +16356,14 @@
     "Homepage": "https://vale.sh"
   },
   {
+    "Package": "valkey",
+    "Version": "9.1.1-1",
+    "Description": "In-memory data structure store used as a database, cache and message broker",
+    "Homepage": "https://valkey.io/"
+  },
+  {
     "Package": "valkey-static",
-    "Version": "9.1.1",
+    "Version": "9.1.1-1",
     "Description": "Static libraries for valkey",
     "Homepage": "https://valkey.io/"
   },
@@ -16609,7 +16615,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.22.2",
+    "Version": "2.23.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
