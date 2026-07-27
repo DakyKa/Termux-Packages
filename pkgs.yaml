@@ -15,7 +15,7 @@
   Description: Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa
   Homepage: https://github.com/wojtekka/6tunnel
 - Package: 7zip
-  Version: 26.02-1
+  Version: 26.02-2
   Description: 7-Zip file archiver with a high compression ratio
   Homepage: https://www.7-zip.org
 - Package: 8086tiny
@@ -1683,7 +1683,7 @@
   Description: Static libraries for draco
   Homepage: https://google.github.io/draco/
 - Package: dropbear
-  Version: "2026.91"
+  Version: "2026.94"
   Description: Small SSH server and client
   Homepage: https://matt.ucc.asn.au/dropbear/dropbear.html
 - Package: dtach
@@ -2827,7 +2827,7 @@
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.28.5
+  Version: 1.28.5-1
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
@@ -5882,6 +5882,10 @@
   Version: 1.5.6
   Description: Secure Reliable Transport (SRT) Protocol
   Homepage: https://github.com/Haivision/srt
+- Package: libsrtp
+  Version: 2.8.0
+  Description: Library for SRTP (Secure Realtime Transport Protocol)
+  Homepage: https://github.com/cisco/libsrtp
 - Package: libssh
   Version: 0.12.1
   Description: Tiny C SSH library
@@ -6491,7 +6495,7 @@
   Description: XML utilities
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxmlb
-  Version: 0.3.28
+  Version: 0.3.29
   Description: Library to help create and query binary XML blobs
   Homepage: https://github.com/hughsie/libxmlb
 - Package: libxmlrpc
@@ -8139,11 +8143,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.75.0
+  Version: 1.76.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.75.0
+  Version: 1.76.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
