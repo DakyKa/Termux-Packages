@@ -103,7 +103,7 @@
   },
   {
     "Package": "ada",
-    "Version": "3.4.4",
+    "Version": "4.0.0",
     "Description": "WHATWG-compliant and fast URL parser written in modern C++",
     "Homepage": "https://github.com/ada-url/ada"
   },
