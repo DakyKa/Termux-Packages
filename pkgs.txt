@@ -114,7 +114,7 @@
  aview  1.3.0rc1-6  High quality ascii-art image browser and animation player  https://aa-project.sourceforge.net/aview/ 
  avra  1.4.2-1  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
  await  2.7.0  Runs list of commands in parallel and waits for their termination  https://github.com/slavaGanzin/await 
- awscli  2.36.11  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
+ awscli  2.36.12  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  b3sum  1.8.5  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
  babl  0.1.126  Dynamic pixel format translation library  https://gegl.org/babl/ 
@@ -506,7 +506,7 @@
  fetchmail  6.6.6-1  A remote-mail retrieval utility  https://www.fetchmail.info/ 
  fetchmailconf  6.6.6-1  A GUI configurator for generating fetchmail configuration files  https://www.fetchmail.info/ 
  fff  2.2  A simple file manager written in bash  https://github.com/dylanaraps/fff 
- ffmpeg  8.1.2-1  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
+ ffmpeg  8.1.2-2  Tools and libraries to manipulate a wide range of multimedia formats and protocols  https://ffmpeg.org 
  ffmpegthumbnailer  2.3.0  Lightweight video thumbnailer that can be used by file managers  https://github.com/dirkvdb/ffmpegthumbnailer 
  ffsend  0.2.77-2  A fully featured Firefox Send client  https://gitlab.com/timvisee/ffsend 
  fftw  3.3.11  Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions  http://www.fftw.org/ 
@@ -545,7 +545,7 @@
  freetype  2.14.3  Software font engine capable of producing high-quality output  https://www.freetype.org 
  freetype-static  2.14.3  Static libraries for freetype  https://www.freetype.org 
  frei0r-plugins  3.2.1  Minimalistic plugin API for video effects  https://www.dyne.org/software/frei0r/ 
- fresh-editor  0.4.5  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
+ fresh-editor  0.4.6  Text editor for your terminal: easy, powerful and fast  https://getfresh.dev/ 
  fribidi  1.0.16-1  Implementation of the Unicode Bidirectional Algorithm  https://github.com/fribidi/fribidi/ 
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
  frobtads  2.0-5  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
@@ -620,7 +620,7 @@
  gitoxide  0.56.0  Rust implementation of Git  https://github.com/GitoxideLabs/gitoxide 
  gitui  0.28.1  Blazing fast terminal-ui for git written in rust  https://github.com/gitui-org/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
- glab-cli  1.110.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
+ glab-cli  1.111.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.18.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.88.3  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.88.3  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
@@ -754,9 +754,9 @@
  htslib  1.24  C library for high-throughput sequencing data formats  https://github.com/samtools/htslib 
  htslib-static  1.24  Static libraries for htslib  https://github.com/samtools/htslib 
  httping  4.4.0-1  ping-like program for http-requests  https://github.com/folkertvanheusden/HTTPing 
- httrack  3.49.14  It allows you to download a World Wide Web site from the Internet  http://www.httrack.com 
- httrack-data  3.49.14  Platform-independent data for httrack  http://www.httrack.com 
- httrack-static  3.49.14  Static libraries for httrack  http://www.httrack.com 
+ httrack  3.49.15  It allows you to download a World Wide Web site from the Internet  http://www.httrack.com 
+ httrack-data  3.49.15  Platform-independent data for httrack  http://www.httrack.com 
+ httrack-static  3.49.15  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-6  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
  hugo  0.164.0  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-4  Command line client for the imperial library of trantor  https://trantor.is/ 
@@ -826,8 +826,8 @@
  jbig2enc-static  1:0.32  Static libraries for jbig2enc  https://github.com/agl/jbig2enc 
  jcal  0.5.1-1  UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar  http://nongnu.org/jcal 
  jcal-static  0.5.1-1  Static libraries for jcal  http://nongnu.org/jcal 
- jellyfin-ffmpeg  10.11.11  FFmpeg for Jellyfin with custom extensions and enhancements  https://jellyfin.org 
- jellyfin-server  10.11.11  A free media system for organizing and streaming media (server)  https://jellyfin.org 
+ jellyfin-ffmpeg  10.11.11-1  FFmpeg for Jellyfin with custom extensions and enhancements  https://jellyfin.org 
+ jellyfin-server  10.11.11-1  A free media system for organizing and streaming media (server)  https://jellyfin.org 
  jfrog-cli  2.117.0  A CLI for JFrog products  https://jfrog.com/getcli 
  jftui  0.7.5  jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.  https://github.com/Aanok/jftui 
  jhead  3.08-1  Exif Jpeg header manipulation tool  http://www.sentex.net/~mwandel/jhead/ 
@@ -860,7 +860,7 @@
  kbd  2.10.0  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
  kew  4.2.7  Music for the Shell  https://kewplayer.com 
  keybase  6.6.3  Key directory that maps social media identities to encryption keys  https://keybase.io 
- keychain  3.0.1  Keychain manager for ssh-agent and gpg-agent  https://kernel-seeds.org/projects/keychain/ 
+ keychain  3.0.2  Keychain manager for ssh-agent and gpg-agent  https://kernel-seeds.org/projects/keychain/ 
  kibi  0.3.3-1  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
  kiwix-tools  3.8.2  A collection of Kiwix related command line tools  https://github.com/kiwix/kiwix-tools 
  knockd  0.8.2-2  A port-knocking daemon  https://zeroflux.org/projects/knock 
@@ -953,9 +953,9 @@
  libblosc  1.21.6-2  A blocking, shuffling and loss-less compression library  https://www.blosc.org 
  libblosc-static  1.21.6-2  Static libraries for libblosc  https://www.blosc.org 
  libblosc2  3.2.3  A blocking, shuffling and loss-less compression library  https://www.blosc.org 
- libbluray  1.4.1  An open-source library designed for Blu-Ray Discs playback for media players  https://code.videolan.org/videolan/libbluray/ 
- libbluray-static  1.4.1  Static libraries for libbluray  https://code.videolan.org/videolan/libbluray/ 
- libbluray-utils  1.4.1  Example utilities for libbluray  https://code.videolan.org/videolan/libbluray/ 
+ libbluray  1.5.0  An open-source library designed for Blu-Ray Discs playback for media players  https://code.videolan.org/videolan/libbluray/ 
+ libbluray-static  1.5.0  Static libraries for libbluray  https://code.videolan.org/videolan/libbluray/ 
+ libbluray-utils  1.5.0  Example utilities for libbluray  https://code.videolan.org/videolan/libbluray/ 
  libbs2b  3.1.0-2  Bauer stereophonic-to-binaural DSP  https://bs2b.sourceforge.net/ 
  libbs2b-static  3.1.0-2  Static libraries for libbs2b  https://bs2b.sourceforge.net/ 
  libbsd  0.11.7-3  utility functions from BSD systems  https://libbsd.freedesktop.org 
@@ -1852,7 +1852,7 @@
  mpd  0.24.13  Music player daemon  https://www.musicpd.org 
  mpdscribble  0.26-1  A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler  https://www.musicpd.org/clients/mpdscribble/ 
  mpg123  1.33.5  Fast console MPEG Audio Player based on libmpg123  https://mpg123.org/ 
- mplayer  1.5-14  The Movie Player  https://mplayerhq.hu/ 
+ mplayer  1.5-15  The Movie Player  https://mplayerhq.hu/ 
  mpv  0.41.0-2  Command-line media player  https://mpv.io/ 
  mruby  4.0.0  Lightweight implementation of the Ruby language  https://mruby.org/ 
  mruby-static  4.0.0  Static libraries for mruby  https://mruby.org/ 
@@ -2209,7 +2209,7 @@
  python-pycryptodomex  3.23.0-4  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
  python-pynvim  0.6.0-3  Python client for Neovim  https://github.com/neovim/pynvim 
  python-pyppmd  1.3.1-1  PPM compression/decompression library  https://github.com/miurahr/pyppmd 
- python-ruff  0.16.0  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
+ python-ruff  0.16.1  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  9.6.2  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-scipy  1.18.0-1  Fundamental algorithms for scientific computing in Python  https://scipy.org/ 
  python-skia-pathops  0.9.2-2  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
@@ -2341,7 +2341,7 @@
  rubiks-cube  1.2-1  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  3.4.1-2  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  3.4.1-2  Ruby documentation index  https://www.ruby-lang.org/ 
- ruff  0.16.0  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
+ ruff  0.16.1  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-4  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.9.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
@@ -2750,8 +2750,8 @@
  vitetris  0.59.1-4  Virtual terminal tris clone  http://victornils.net/tetris/ 
  viu  1.6.1  Terminal image viewer with native support for iTerm and Kitty  https://github.com/atanunq/viu 
  vivid  0.11.1  A themeable LS_COLORS generator with a rich filetype datebase  https://github.com/sharkdp/vivid 
- vlc  3.0.23-3  A popular libre and open source media player and multimedia engine  https://www.videolan.org/ 
- vlc-static  3.0.23-3  Static libraries for vlc  https://www.videolan.org/ 
+ vlc  3.0.23-4  A popular libre and open source media player and multimedia engine  https://www.videolan.org/ 
+ vlc-static  3.0.23-4  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-4  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3-1  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
  vtm  2026.07.22  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
@@ -2773,7 +2773,7 @@
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  33  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
- wasm-component-ld  0.5.27  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
+ wasm-component-ld  0.5.28  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
  wasmedge  0.17.1  A lightweight, high-performance, and extensible WebAssembly runtime  https://wasmedge.org/ 
  wasmer  7.1.0  A fast and secure WebAssembly runtime  https://wasmer.io/ 
  wasmtime  46.0.1-1  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
