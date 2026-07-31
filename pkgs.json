@@ -1513,7 +1513,7 @@
   },
   {
     "Package": "cli11",
-    "Version": "2.6.2",
+    "Version": "2.7.0",
     "Description": "Command line parser for C++11",
     "Homepage": "https://github.com/CLIUtils/CLI11"
   },
@@ -3175,7 +3175,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.76",
+    "Version": "0.4.77",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -16555,7 +16555,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.357",
+    "Version": "1.4.358",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
