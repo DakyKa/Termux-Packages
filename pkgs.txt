@@ -114,7 +114,7 @@
  aview  1.3.0rc1-6  High quality ascii-art image browser and animation player  https://aa-project.sourceforge.net/aview/ 
  avra  1.4.2-1  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
  await  2.7.0  Runs list of commands in parallel and waits for their termination  https://github.com/slavaGanzin/await 
- awscli  2.36.13  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
+ awscli  2.36.14  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  b3sum  1.8.5  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
  babl  0.1.126  Dynamic pixel format translation library  https://gegl.org/babl/ 
@@ -296,7 +296,7 @@
  cpufetch  1.07-1  Simple yet fancy CPU architecture fetching tool  https://github.com/Dr-Noob/cpufetch 
  cpulimit  0.2-2  CPU usage limiter  https://github.com/opsengine/cpulimit 
  crawl  0.34.1  Roguelike adventure through dungeons filled with dangerous monsters  https://crawl.develz.org/ 
- croc  1:11.0.0  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
+ croc  1:11.0.1  Easily and securely send things from one computer to another  https://github.com/schollz/croc 
  cronie  1.7.2-4  Daemon that runs specified programs at scheduled times and related tools  https://github.com/cronie-crond/cronie/ 
  crowbook  0.17.0-1  Allows you to write a book in Markdown without worrying about formatting or typography  https://github.com/crowdagger/crowbook 
  crunch  3.6-5  Highly customizable wordlist generator  https://sourceforge.net/projects/crunch-wordlist/ 
@@ -556,7 +556,7 @@
  fwknop  2.6.11-2  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
  fwknop-static  2.6.11-2  Static libraries for fwknop  https://www.cipherdyne.org/fwknop/ 
  fx  39.2.0  Interactive JSON viewer on your terminal  https://github.com/antonmedv/fx 
- fzf  0.74.1  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
+ fzf  0.74.2  Command-line fuzzy finder  https://junegunn.github.io/fzf/ 
  fzy  1.1-1  A simple, fast fuzzy finder for the terminal  https://github.com/jhawthorn/fzy 
  g-ir-scanner  1.86.0-2  A tool which generates GIR XML files  https://gi.readthedocs.io/ 
  game-music-emu  0.6.5  A collection of video game music file emulators  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
@@ -645,7 +645,7 @@
  gnuit  4.9.5-1  gnuit - GNU Interactive Tools  https://www.gnu.org/software/gnuit/ 
  gnunet  0.28.0  A framework for secure peer-to-peer networking  https://gnunet.org 
  gnupg  2.5.17  Implementation of the OpenPGP standard for encrypting and signing data and communication  https://www.gnupg.org/ 
- gnuplot  6.0.4  Command-line driven graphing utility  http://gnuplot.info/ 
+ gnuplot  6.0.5  Command-line driven graphing utility  http://gnuplot.info/ 
  gnurl  7.72.0-1  Fork of libcurl, which is mostly for GNUnet  https://gnunet.org/en/gnurl.html 
  gnurl-static  7.72.0-1  Static libraries for gnurl  https://gnunet.org/en/gnurl.html 
  gnushogi  1.4.2-p20141119-1  Program that plays the game of Shogi, also known as Japanese Chess  https://www.gnu.org/software/gnushogi/ 
@@ -1724,7 +1724,7 @@
  luvi  1:2.15.0-2  A project in-between luv and luvit  https://luvit.io 
  luvit  2.18.1-1  Asynchronous I/O for Lua  https://luvit.io 
  lux  0.24.1-2  CLI tool to download videos from various websites  https://github.com/iawia002/lux 
- lux-cli  0.39.7  A package manager for Lua, similar to luarocks  https://lux.lumen-labs.org 
+ lux-cli  0.39.8  A package manager for Lua, similar to luarocks  https://lux.lumen-labs.org 
  lv2  1.18.10-7  A plugin standard for audio systems  https://lv2plug.in/ 
  lychee  0.24.2  A fast, async, resource-friendly link checker written in Rust  https://github.com/lycheeverse/lychee 
  lynx  2.9.2-1  The text web browser  http://lynx.browser.org/ 
@@ -2718,7 +2718,7 @@
  util-linux-static  2.42.1-4  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-2  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.42.1-4  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.12.0  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.12.1  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.31-2  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.51.2  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.19  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 

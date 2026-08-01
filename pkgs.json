@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.13",
+    "Version": "2.36.14",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1789,7 +1789,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.0.0",
+    "Version": "1:11.0.1",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3349,7 +3349,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.74.1",
+    "Version": "0.74.2",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -3883,7 +3883,7 @@
   },
   {
     "Package": "gnuplot",
-    "Version": "6.0.4",
+    "Version": "6.0.5",
     "Description": "Command-line driven graphing utility",
     "Homepage": "http://gnuplot.info/"
   },
@@ -10357,7 +10357,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.39.7",
+    "Version": "0.39.8",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -16321,7 +16321,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.0",
+    "Version": "0.12.1",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
