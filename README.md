@@ -671,8 +671,8 @@
 | **gobject-introspection** | 1.86.0-2 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.14.3 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.19 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
-| **golang** | 3:1.26.5 | Go programming language compiler | https://go.dev/ |
-| **golang-doc** | 3:1.26.5 | Go programming language - documentation | https://go.dev/ |
+| **golang** | 3:1.26.5-1 | Go programming language compiler | https://go.dev/ |
+| **golang-doc** | 3:1.26.5-1 | Go programming language - documentation | https://go.dev/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 26.07 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
@@ -1167,7 +1167,7 @@
 | **libiconv-static** | 1.18-1 | Static libraries for libiconv | https://www.gnu.org/software/libiconv/ |
 | **libicu** | 78.3 | International Components for Unicode library | http://site.icu-project.org/home |
 | **libicu-static** | 78.3 | Static libraries for libicu | http://site.icu-project.org/home |
-| **libid3tag** | 0.16.4 | MAD ID3 tag manipulation library | http://www.underbit.com/products/mad/ |
+| **libid3tag** | 0.16.4-1 | MAD ID3 tag manipulation library | http://www.underbit.com/products/mad/ |
 | **libidn** | 1.44 | GNU Libidn library, implementation of IETF IDN specifications | https://www.gnu.org/software/libidn/ |
 | **libidn-static** | 1.44 | Static libraries for libidn | https://www.gnu.org/software/libidn/ |
 | **libidn2** | 2.3.8-1 | Free software implementation of IDNA2008, Punycode and TR46 | https://www.gnu.org/software/libidn/#libidn2 |

@@ -2643,11 +2643,11 @@
   Description: Pure Go implementation of jq
   Homepage: https://github.com/itchyny/gojq
 - Package: golang
-  Version: 3:1.26.5
+  Version: 3:1.26.5-1
   Description: Go programming language compiler
   Homepage: https://go.dev/
 - Package: golang-doc
-  Version: 3:1.26.5
+  Version: 3:1.26.5-1
   Description: Go programming language - documentation
   Homepage: https://go.dev/
 - Package: gomp
@@ -4627,7 +4627,7 @@
   Description: Static libraries for libicu
   Homepage: http://site.icu-project.org/home
 - Package: libid3tag
-  Version: 0.16.4
+  Version: 0.16.4-1
   Description: MAD ID3 tag manipulation library
   Homepage: http://www.underbit.com/products/mad/
 - Package: libidn
