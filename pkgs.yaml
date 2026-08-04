@@ -79,7 +79,7 @@
   Description: A pretty good email client
   Homepage: https://aerc-mail.org/
 - Package: agate
-  Version: 3.3.23
+  Version: 3.3.24
   Description: Very simple server for the Gemini hypertext protocol
   Homepage: https://github.com/mbrubeck/agate
 - Package: age
