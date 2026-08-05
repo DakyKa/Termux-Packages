@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.15
+  Version: 2.36.16
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -9999,11 +9999,11 @@
   Description: Records and splits streaming mp3 into tracks
   Homepage: https://streamripper.sourceforge.net/
 - Package: stunnel
-  Version: "5.79"
+  Version: "5.80"
   Description: Socket wrapper which can provide TLS support to ordinary applications
   Homepage: https://www.stunnel.org/
 - Package: stunnel-static
-  Version: "5.79"
+  Version: "5.80"
   Description: Static libraries for stunnel
   Homepage: https://www.stunnel.org/
 - Package: stuntman
