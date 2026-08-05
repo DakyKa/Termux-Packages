@@ -2215,7 +2215,7 @@
 | **python-numpy-static** | 2.4.4-1 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-onnxruntime** | 1.28.0 | Cross-platform, high performance ML inferencing and training accelerator (Python bindings) | https://onnxruntime.ai/ |
 | **python-pillow** | 12.3.0 | Python Imaging Library | https://python-pillow.org/ |
-| **python-pip** | 26.2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
+| **python-pip** | 26.2.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-psutil** | 7.2.2-2 | Cross-platform process and system utilities module for Python | https://github.com/giampaolo/psutil |
 | **python-pyarrow** | 25.0.0-1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.23.0-4 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
