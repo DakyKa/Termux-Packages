@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.17",
+    "Version": "2.36.18",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -12295,7 +12295,7 @@
   },
   {
     "Package": "pango",
-    "Version": "1.58.0",
+    "Version": "1.58.2",
     "Description": "Library for laying out and rendering text",
     "Homepage": "https://www.gtk.org/docs/architecture/pango"
   },
@@ -16645,7 +16645,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.23.0",
+    "Version": "2.23.1",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
