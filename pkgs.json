@@ -13585,7 +13585,7 @@
   },
   {
     "Package": "qpdf",
-    "Version": "12.3.2",
+    "Version": "12.4.0",
     "Description": "Content-Preserving PDF Transformation System",
     "Homepage": "http://qpdf.sourceforge.net"
   },
@@ -16675,7 +16675,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.24.1",
+    "Version": "2.24.4",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
