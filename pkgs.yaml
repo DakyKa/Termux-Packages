@@ -1235,7 +1235,7 @@
   Description: 'Universal ctags: Source code index builder'
   Homepage: https://ctags.io/
 - Package: ctranslate2
-  Version: 4.8.1
+  Version: 4.8.1-1
   Description: A fast inference engine for Transformer models
   Homepage: https://github.com/OpenNMT/CTranslate2
 - Package: ctypes-sh
@@ -8779,7 +8779,7 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ctranslate2
-  Version: 4.8.1
+  Version: 4.8.1-1
   Description: Python bindings for CTranslate2
   Homepage: https://github.com/OpenNMT/CTranslate2
 - Package: python-ensurepip-wheels

@@ -1855,7 +1855,7 @@
   },
   {
     "Package": "ctranslate2",
-    "Version": "4.8.1",
+    "Version": "4.8.1-1",
     "Description": "A fast inference engine for Transformer models",
     "Homepage": "https://github.com/OpenNMT/CTranslate2"
   },
@@ -13171,7 +13171,7 @@
   },
   {
     "Package": "python-ctranslate2",
-    "Version": "4.8.1",
+    "Version": "4.8.1-1",
     "Description": "Python bindings for CTranslate2",
     "Homepage": "https://github.com/OpenNMT/CTranslate2"
   },
