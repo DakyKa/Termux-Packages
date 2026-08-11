@@ -17341,7 +17341,7 @@
   },
   {
     "Package": "zola",
-    "Version": "0.23.2",
+    "Version": "0.23.3",
     "Description": "A fast static site generator in a single binary with everything built-in.",
     "Homepage": "https://github.com/getzola/zola"
   },
