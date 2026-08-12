@@ -511,7 +511,7 @@
   },
   {
     "Package": "aspnetcore-runtime-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": "ASP.NET Core 10.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -529,7 +529,7 @@
   },
   {
     "Package": "aspnetcore-runtime-dbg-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": "ASP.NET Core 10.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -547,7 +547,7 @@
   },
   {
     "Package": "aspnetcore-targeting-pack-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": "ASP.NET Core 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.20",
+    "Version": "2.36.21",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1789,7 +1789,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.0",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -2305,7 +2305,7 @@
   },
   {
     "Package": "dotnet-apphost-pack-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2329,7 +2329,7 @@
   },
   {
     "Package": "dotnet-host-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Host",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "Package": "dotnet-hostfxr-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Host Resolver",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2365,7 +2365,7 @@
   },
   {
     "Package": "dotnet-runtime-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2383,7 +2383,7 @@
   },
   {
     "Package": "dotnet-runtime-dbg-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2401,7 +2401,7 @@
   },
   {
     "Package": "dotnet-sdk-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 SDK",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2419,7 +2419,7 @@
   },
   {
     "Package": "dotnet-sdk-dbg-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 SDK Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "Package": "dotnet-targeting-pack-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2455,7 +2455,7 @@
   },
   {
     "Package": "dotnet-templates-10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0 Templates",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2473,7 +2473,7 @@
   },
   {
     "Package": "dotnet10.0",
-    "Version": "10.0.10",
+    "Version": "10.0.11",
     "Description": ".NET 10.0",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
