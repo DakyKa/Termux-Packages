@@ -6907,7 +6907,7 @@
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
 - Package: luau
-  Version: "0.734"
+  Version: 0.734-1
   Description: A small, fast, and embeddable programming language based on Lua with a gradual type system.
   Homepage: https://github.com/luau-lang/luau
 - Package: lunasvg
@@ -7059,7 +7059,7 @@
   Description: A material you color generation tool with templates
   Homepage: https://github.com/InioX/matugen
 - Package: mautrix-whatsapp
-  Version: "26.07"
+  Version: "26.08"
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
