@@ -10787,7 +10787,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.72
+  Version: 0.0.73
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
@@ -11499,7 +11499,7 @@
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
-  Version: 4.53.3
+  Version: 4.53.4
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
 - Package: yt-dlp-ejs
