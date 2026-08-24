@@ -1795,7 +1795,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.2.5",
+    "Version": "1:11.3.0",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -12853,7 +12853,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.40.0",
+    "Version": "0.40.1",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
