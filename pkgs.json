@@ -5167,7 +5167,7 @@
   },
   {
     "Package": "jython",
-    "Version": "2.7.4-1",
+    "Version": "2.7.5b1",
     "Description": "Python for the Java Platform",
     "Homepage": "https://www.jython.org/"
   },
