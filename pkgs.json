@@ -2749,7 +2749,7 @@
   },
   {
     "Package": "emacs",
-    "Version": "30.2-5",
+    "Version": "30.2-6",
     "Description": "Extensible, customizable text editor-and more",
     "Homepage": "https://www.gnu.org/software/emacs/"
   },
@@ -3652,6 +3652,12 @@
     "Version": "2.55.0",
     "Description": "Fast, scalable, distributed revision control system",
     "Homepage": "https://git-scm.com/"
+  },
+  {
+    "Package": "git-cliff",
+    "Version": "2.13.1",
+    "Description": "A highly customizable changelog generator that follows Conventional Commit specifications",
+    "Homepage": "https://git-cliff.org"
   },
   {
     "Package": "git-credential-manager",
@@ -12319,13 +12325,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.79.0",
+    "Version": "1.80.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.79.0",
+    "Version": "1.80.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -14058,6 +14064,12 @@
     "Homepage": "https://mierak.github.io/rmpc/"
   },
   {
+    "Package": "rmw",
+    "Version": "0.10.0",
+    "Description": "A command-line recycle bin utility (ReMove to Waste)",
+    "Homepage": "https://theimpossibleastronaut.com/rmw-website/"
+  },
+  {
     "Package": "rnr",
     "Version": "0.5.1",
     "Description": "Batch rename files and directories using regular expression (rust)",
@@ -15433,7 +15445,7 @@
   },
   {
     "Package": "tealdeer",
-    "Version": "1.8.1",
+    "Version": "1.9.0",
     "Description": "A very fast implementation of tldr in Rust",
     "Homepage": "https://tealdeer-rs.github.io/tealdeer/"
   },
