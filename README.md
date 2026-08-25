@@ -469,7 +469,7 @@
 | **elixir** | 1.20.3 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
-| **emacs** | 30.2-6 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
+| **emacs** | 31.1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emmylua-ls** | 0.25.1 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
 | **emscripten** | 6.0.8 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 6.0.8 | Emscripten-compatible Binaryen | https://emscripten.org |
@@ -768,8 +768,8 @@
 | **hfsutils** | 3.2.6-2 | Tool for manipulating HFS images | https://www.mars.org/home/rob/proj/hfs/ |
 | **hidapi** | 0.14.0-1 | Simple cross-platform library for communicating with HID devices | https://libusb.info/hidapi |
 | **hilbish** | 1:2.3.4-1 | The Moon-powered shell! A comfy and extensible shell for Lua fans! | https://rosettea.github.io/Hilbish/ |
-| **hledger** | 1.52.1-1 | Robust, friendly, fast plain text accounting software. (CLI only) | https://hledger.org/ |
-| **hledger-ui** | 1.52.1-1 | hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app. | https://hledger.org/ |
+| **hledger** | 1.52.1-2 | Robust, friendly, fast plain text accounting software. (CLI only) | https://hledger.org/ |
+| **hledger-ui** | 1.52.1-2 | hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app. | https://hledger.org/ |
 | **hnterm** | 1.0.5-2 | A simple tool to browse Hacker News in the terminal | https://github.com/ggerganov/imtui |
 | **hollywood** | 1.22-1 | Fill your console with Hollywood melodrama technobabble | https://launchpad.net/hollywood |
 | **hors** | 0.8.2-3 | Instant coding answers via the command line (howdoi in rust) | https://github.com/WindSoilder/hors |
@@ -1587,7 +1587,7 @@
 | **libvbisam-static** | 2.0-3 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1-3 | video stabilization library | https://github.com/georgmartius/vid.stab |
 | **libvigra** | 1.12.4 | Computer vision library | https://ukoethe.github.io/vigra/ |
-| **libvips** | 8.18.5 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
+| **libvips** | 8.18.6 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvisio** | 0.1.10-1 | Library providing ability to interpret and import visio diagrams | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvisio-static** | 0.1.10-1 | Static libraries for libvisio | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvmaf** | 3.2.0-1 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
@@ -2406,7 +2406,7 @@
 | **rustc-src** | 1.98.0 | Rust compiler source code files | https://www.rust-lang.org/ |
 | **rustscan** | 2.4.1-1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
-| **sabnzbd** | 5.1.1 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
+| **sabnzbd** | 5.1.2 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
 | **samba** | 4.16.11-6 | SMB/CIFS fileserver | https://www.samba.org/ |
 | **samefile** | 2.15-6 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
 | **samurai** | 1.3 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
@@ -2445,7 +2445,7 @@
 | **shc** | 4.0.3-4 | Shell script compiler | https://neurobin.org/projects/softwares/unix/shc/ |
 | **sheldon** | 0.8.5-1 | Fast, configurable, shell plugin manager | https://sheldon.cli.rs/ |
 | **shell2http** | 1.17.0-1 | Executing shell commands via HTTP server | https://github.com/msoap/shell2http |
-| **shellcheck** | 0.11.0-2 | Shell script analysis tool | https://www.shellcheck.net/ |
+| **shellcheck** | 0.11.0-3 | Shell script analysis tool | https://www.shellcheck.net/ |
 | **shellharden** | 4.3.2 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
 | **shellinabox** | 2.21-1 | Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator | https://github.com/shellinabox/shellinabox |
 | **shfmt** | 3.13.1 | A shell parser and formatter | https://github.com/mvdan/sh |
@@ -2492,7 +2492,7 @@
 | **spatialite-tools** | 5.0.1-5 | Collection of tools supporting SpatiaLite | https://www.gaia-gis.it/fossil/spatialite-tools |
 | **speechd** | 0.12.1-2 | Common interface to speech synthesis | https://github.com/brailcom/speechd |
 | **speechd-data** | 0.12.1-2 | Platform-independent data for speechd | https://github.com/brailcom/speechd |
-| **speedtest-go** | 1.8.1 | Command line interface to test internet speed using speedtest.net | https://github.com/showwin/speedtest-go/ |
+| **speedtest-go** | 1.8.2 | Command line interface to test internet speed using speedtest.net | https://github.com/showwin/speedtest-go/ |
 | **speex-utils** | 1.2.1-1 | Speex command line tools | https://www.speex.org/ |
 | **speexdsp** | 1.2.1-1 | Speex audio processing library | https://speex.org/ |
 | **speexdsp-static** | 1.2.1-1 | Static libraries for speexdsp | https://speex.org/ |
