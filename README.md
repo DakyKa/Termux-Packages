@@ -1850,7 +1850,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.0 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.0 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.8.13 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.8.14 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
@@ -1943,7 +1943,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1410+g510f61555b-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1418+gf97bcbdf77-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1999,7 +1999,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 30.7.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 30.8.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2646,7 +2646,7 @@
 | **tinyfugue** | 5.0b8-4 | Flexible, screen-oriented MUD client, for use with any type of MUD | https://tinyfugue.sourceforge.net/ |
 | **tinygo** | 0.41.1 | Go compiler for microcontrollers, WASM, CLI tools | https://tinygo.org |
 | **tinygo-common** | 0.41.1 | TinyGo common files | https://tinygo.org |
-| **tinymist** | 0.15.2 | An integrated language service for Typst | https://myriad-dreamin.github.io/tinymist |
+| **tinymist** | 0.15.4 | An integrated language service for Typst | https://myriad-dreamin.github.io/tinymist |
 | **tinyproxy** | 1.11.3 | Light-weight HTTP proxy daemon for POSIX operating systems | https://tinyproxy.github.io/ |
 | **tinyscheme** | 1.42-2 | Very small scheme implementation | https://tinyscheme.sourceforge.net/home.html |
 | **tinysparql** | 3.10.1-1 | Desktop-neutral metadata-based search framework | https://gnome.pages.gitlab.gnome.org/tinysparql |
