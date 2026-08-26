@@ -131,6 +131,7 @@
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.7 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.128 | Dynamic pixel format translation library | https://gegl.org/babl/ |
+| **bacon** | 3.25.0 | A background code checker for Rust, designed for minimal interaction | https://dystroy.org/bacon |
 | **bacula-fd** | 15.0.3-2 | Bacula backup software | https://www.bacula.org |
 | **bacula-fd-static** | 15.0.3-2 | Static libraries for bacula-fd | https://www.bacula.org |
 | **barcode** | 0.99-5 | Tool to convert text strings to printed bars | https://www.gnu.org/software/barcode/ |
@@ -214,9 +215,11 @@
 | **capstone** | 5.0.9 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.9 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.7.3 | Multi-shell multi-command argument completer | https://carapace.sh/ |
+| **cargo-audit** | 0.22.2 | Audit Cargo.lock for crates with security vulnerabilities reported to the RustSec Advisory Database | https://rustsec.org |
 | **cargo-binstall** | 1.22.0 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
 | **cargo-c** | 0.10.25 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
+| **cargo-flamegraph** | 0.6.14 | Simple cargo subcommand for generating flamegraphs, using inferno under the hood | https://github.com/flamegraph-rs/flamegraph |
 | **cargo-leptos** | 0.3.7 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **catch2** | 3.16.0 | A modern, C++-native, header-only, framework for unit-tests, TDD and BDD | https://github.com/catchorg/catch2 |
 | **catch2-static** | 3.16.0 | Static libraries for catch2 | https://github.com/catchorg/catch2 |
@@ -1889,7 +1892,7 @@
 | **mpv** | 0.41.0-2 | Command-line media player | https://mpv.io/ |
 | **mruby** | 4.0.0 | Lightweight implementation of the Ruby language | https://mruby.org/ |
 | **mruby-static** | 4.0.0 | Static libraries for mruby | https://mruby.org/ |
-| **ms-gsl** | 4.2.2 | Guidelines Support Library | https://github.com/Microsoft/GSL |
+| **ms-gsl** | 5.0.0 | Guidelines Support Library | https://github.com/Microsoft/GSL |
 | **msedit** | 2.0.0-1 | A simple editor for simple needs (Microsoft Edit) | https://github.com/microsoft/edit |
 | **msitools** | 0.106-1 | Set of programs to inspect and build Windows Installer (.MSI) files | https://gitlab.gnome.org/GNOME/msitools |
 | **msmtp** | 1.8.34 | Lightweight SMTP client | https://marlam.de/msmtp/ |
