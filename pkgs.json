@@ -10945,13 +10945,13 @@
   },
   {
     "Package": "mercury",
-    "Version": "22.01.8-1",
+    "Version": "22.01.9",
     "Description": "A logic/functional programming language",
     "Homepage": "https://www.mercurylang.org/"
   },
   {
     "Package": "mercury-static",
-    "Version": "22.01.8-1",
+    "Version": "22.01.9",
     "Description": "Static libraries for mercury",
     "Homepage": "https://www.mercurylang.org/"
   },
@@ -12445,7 +12445,7 @@
   },
   {
     "Package": "pacman",
-    "Version": "7.1.0-6",
+    "Version": "7.1.0-7",
     "Description": "A library-based package manager with dependency support",
     "Homepage": "https://archlinux.org/pacman/"
   },
@@ -15787,7 +15787,7 @@
   },
   {
     "Package": "tgpt",
-    "Version": "2.11.1",
+    "Version": "2.13.0",
     "Description": "AI Chatbots in terminal without needing API keys",
     "Homepage": "https://github.com/aandrew-me/tgpt"
   },
@@ -16381,7 +16381,7 @@
   },
   {
     "Package": "uftrace",
-    "Version": "0.19-3",
+    "Version": "0.20",
     "Description": "Function (graph) tracer for user-space",
     "Homepage": "https://uftrace.github.io/slide"
   },
