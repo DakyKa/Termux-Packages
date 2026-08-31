@@ -229,7 +229,7 @@
   },
   {
     "Package": "anewer",
-    "Version": "0.2.1",
+    "Version": "0.2.2",
     "Description": "Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq)",
     "Homepage": "https://github.com/ysf/anewer"
   },
@@ -1573,7 +1573,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2026.8.2",
+    "Version": "2026.8.3",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -1885,7 +1885,7 @@
   },
   {
     "Package": "ctranslate2",
-    "Version": "4.8.1-1",
+    "Version": "4.8.2",
     "Description": "A fast inference engine for Transformer models",
     "Homepage": "https://github.com/OpenNMT/CTranslate2"
   },
@@ -5449,7 +5449,7 @@
   },
   {
     "Package": "lego",
-    "Version": "5.4.0",
+    "Version": "5.4.1",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
   },
@@ -5863,7 +5863,7 @@
   },
   {
     "Package": "libblosc2",
-    "Version": "3.3.2",
+    "Version": "3.3.3",
     "Description": "A blocking, shuffling and loss-less compression library",
     "Homepage": "https://www.blosc.org"
   },
@@ -6583,13 +6583,13 @@
   },
   {
     "Package": "libexpat",
-    "Version": "2.8.3",
+    "Version": "2.8.4",
     "Description": "XML parsing C library",
     "Homepage": "https://libexpat.github.io/"
   },
   {
     "Package": "libexpat-static",
-    "Version": "2.8.3",
+    "Version": "2.8.4",
     "Description": "Static libraries for libexpat",
     "Homepage": "https://libexpat.github.io/"
   },
@@ -11089,13 +11089,13 @@
   },
   {
     "Package": "minizinc",
-    "Version": "2.10.0",
+    "Version": "2.10.1",
     "Description": "A medium-level constraint modelling language",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
   {
     "Package": "minizinc-static",
-    "Version": "2.10.0",
+    "Version": "2.10.1",
     "Description": "Static libraries for minizinc",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
@@ -11995,7 +11995,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "31.1.0",
+    "Version": "31.1.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -13357,7 +13357,7 @@
   },
   {
     "Package": "python-ctranslate2",
-    "Version": "4.8.1-1",
+    "Version": "4.8.2",
     "Description": "Python bindings for CTranslate2",
     "Homepage": "https://github.com/OpenNMT/CTranslate2"
   },
@@ -15709,7 +15709,7 @@
   },
   {
     "Package": "termux-keyring",
-    "Version": "3.13",
+    "Version": "3.14",
     "Description": "GPG public keys for the official Termux repositories",
     "Homepage": "https://github.com/termux"
   },
