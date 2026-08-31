@@ -11101,7 +11101,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.8.14",
+    "Version": "2026.8.15",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11659,7 +11659,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1449+g82ea5a8aac-0",
+    "Version": "0.13.0~dev-1464+g57d97e513d-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -14335,7 +14335,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260824",
+    "Version": "20260831",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -14767,7 +14767,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.13.21",
+    "Version": "1.14.0",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
