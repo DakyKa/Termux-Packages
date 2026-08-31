@@ -298,7 +298,7 @@
 | **composer** | 2.10.3 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
-| **cookcli** | 0.34.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
+| **cookcli** | 0.35.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
 | **coreutils** | 9.11-1 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-6 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
@@ -2009,7 +2009,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 31.0.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 31.1.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2641,7 +2641,7 @@
 | **texlive-bin** | 1:2026.0 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
 | **texlive-bin-static** | 1:2026.0 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
 | **texlive-installer** | 20260301 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
-| **tgpt** | 2.13.0 | AI Chatbots in terminal without needing API keys | https://github.com/aandrew-me/tgpt |
+| **tgpt** | 2.14.0 | AI Chatbots in terminal without needing API keys | https://github.com/aandrew-me/tgpt |
 | **thrift** | 0.24.0-1 | Scalable cross-language services framework for IPC/RPC | https://thrift.apache.org |
 | **tidy** | 5.9.14-next-3 | A tool to tidy down your HTML code to a clean style | http://www.html-tidy.org/ |
 | **tidy-static** | 5.9.14-next-3 | Static libraries for tidy | http://www.html-tidy.org/ |

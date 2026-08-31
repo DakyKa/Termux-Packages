@@ -1151,7 +1151,7 @@
   Description: An extractor/converter for .LIT eBooks
   Homepage: http://www.convertlit.com/
 - Package: cookcli
-  Version: 0.34.0
+  Version: 0.35.0
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
@@ -7995,7 +7995,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 31.0.0
+  Version: 31.1.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -10523,7 +10523,7 @@
   Description: Wrapper around texlives install-tl script
   Homepage: https://www.tug.org/texlive/
 - Package: tgpt
-  Version: 2.13.0
+  Version: 2.14.0
   Description: AI Chatbots in terminal without needing API keys
   Homepage: https://github.com/aandrew-me/tgpt
 - Package: thrift
