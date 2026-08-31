@@ -1848,7 +1848,7 @@
  miniz  3.1.2  Single C source file zlib-replacement library  https://github.com/richgel999/miniz 
  minizinc  2.10.1  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
  minizinc-static  2.10.1  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
- mise  2026.8.15  dev tools, env vars, task runner  https://mise.jdx.dev/ 
+ mise  2026.8.16  dev tools, env vars, task runner  https://mise.jdx.dev/ 
  mkbootimg  2022.11.09-1  Maintained fork with android's mkbootimg and unpackbootimg  https://github.com/osm0sis/mkbootimg 
  mkp224o  1.7.0-1  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
  mksh  59c-3  The MirBSD Korn Shell - an enhanced version of the public domain ksh  http://www.mirbsd.org/mksh.htm 
@@ -2722,7 +2722,7 @@
  tweego  2.1.1-4  A free command line compiler for Twine/Twee story formats  https://bitbucket.org/tmedwards/tweego 
  twolame  0.4.0-1  The frontend for libtwolame  https://www.twolame.org/ 
  txikijs  1:26.6.0  A small and powerful JavaScript runtime  https://github.com/saghul/txiki.js 
- ty  0.0.75  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
+ ty  0.0.76  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
  typst  0.15.1  A new markup-based typesetting system that is powerful and easy to learn  https://typst.app/ 
  typstfmt  0.2.10-1  basic formatter for the Typst language  https://github.com/astrale-sharp/typstfmt 
  uchardet  0.0.8-2  An encoding detector utility  https://www.freedesktop.org/wiki/Software/uchardet/ 
