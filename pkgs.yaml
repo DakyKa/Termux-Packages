@@ -295,7 +295,7 @@
   Description: A self-hosted comment system
   Homepage: https://artalk.js.org/
 - Package: arturo
-  Version: 0.9.83-1
+  Version: 0.10.0
   Description: Simple, expressive & portable programming language for efficient scripting
   Homepage: https://arturo-lang.io
 - Package: ascii
@@ -467,7 +467,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.37
+  Version: 2.36.38
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -743,7 +743,7 @@
   Description: byacc is generally conceded to be the best yacc variant available
   Homepage: https://invisible-island.net/byacc/
 - Package: byobu
-  Version: "7.18"
+  Version: "7.19"
   Description: Byobu is a GPLv3 open source text-based window manager and terminal multiplexer
   Homepage: https://www.byobu.org/
 - Package: bzip2
@@ -915,7 +915,7 @@
   Description: Curses Development Kit
   Homepage: https://dickey.his.com/cdk/cdk.html
 - Package: cec-client
-  Version: 8.1.6
+  Version: 8.1.7
   Description: Client applications for libCEC
   Homepage: https://libcec.pulse-eight.com/
 - Package: cfengine
@@ -4039,11 +4039,11 @@
   Description: Static libraries for libcdr
   Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libcdr
 - Package: libcec
-  Version: 8.1.6
+  Version: 8.1.7
   Description: Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware
   Homepage: https://libcec.pulse-eight.com/
 - Package: libcec-static
-  Version: 8.1.6
+  Version: 8.1.7
   Description: Static libraries for libcec
   Homepage: https://libcec.pulse-eight.com/
 - Package: libceres-solver
@@ -7803,7 +7803,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1474+gd42367570c-0
+  Version: 0.13.0~dev-1499+gb51a0b2dcc-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
