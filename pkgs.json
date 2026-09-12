@@ -4494,6 +4494,12 @@
     "Homepage": "https://github.com/google/gumbo-parser"
   },
   {
+    "Package": "gurk",
+    "Version": "0.10.1",
+    "Description": "Signal messenger client for terminal",
+    "Homepage": "https://github.com/boxdot/gurk-rs"
+  },
+  {
     "Package": "gweather-locations",
     "Version": "2026.2",
     "Description": "The GWeather locations database",
