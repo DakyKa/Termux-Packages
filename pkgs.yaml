@@ -607,7 +607,7 @@
   Description: A terminal EPUB reader
   Homepage: https://github.com/aeosynth/bk
 - Package: black-hole-solver
-  Version: 1.14.0
+  Version: 1.14.0-1
   Description: Black Hole Solver is a solitaire solver for Golf, Black Hole and All in a Row.
   Homepage: https://fc-solve.shlomifish.org/
 - Package: blackbox
@@ -2482,6 +2482,10 @@
   Version: 1.34.0-2
   Description: GIF encoder based on libimagequant
   Homepage: https://gif.ski/
+- Package: girara
+  Version: 2026.07.18
+  Description: Simple user interface library used by Zathura
+  Homepage: https://pwmt.org/projects/girara
 - Package: git
   Version: 2.55.0
   Description: Fast, scalable, distributed revision control system
@@ -3743,7 +3747,7 @@
   Description: Static libraries for lftp
   Homepage: https://lftp.tech/
 - Package: lgogdownloader
-  Version: 3.18-4
+  Version: "3.19"
   Description: Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader
   Homepage: https://sites.google.com/site/gogdownloader/
 - Package: lhasa
@@ -6106,6 +6110,10 @@
   Version: 0.14.0-2
   Description: Static libraries for libstrophe
   Homepage: https://strophe.im/libstrophe
+- Package: libsynctex
+  Version: 1:2026.0-1
+  Description: Library for synchronization between TeX files and resulting file
+  Homepage: https://www.tug.org/texlive/
 - Package: libt3config
   Version: 1.0.0-2
   Description: A library for reading and writing configuration files
@@ -9823,7 +9831,7 @@
   Description: StarDict Console Version
   Homepage: http://dushistov.github.io/sdcv/
 - Package: sea-orm-cli
-  Version: 2.0.2
+  Version: 2.0.3
   Description: Command line utility for SeaORM, an async & dynamic ORM for Rust
   Homepage: https://github.com/SeaQL/sea-orm
 - Package: seafile-client
@@ -10059,7 +10067,7 @@
   Description: Static libraries for softether-vpn
   Homepage: https://www.softether.org/
 - Package: soju
-  Version: 0.10.1-2
+  Version: 0.11.0
   Description: A user-friendly IRC bouncer
   Homepage: https://codeberg.org/emersion/soju
 - Package: solidity
@@ -10655,11 +10663,11 @@
   Description: A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system
   Homepage: https://texlab.netlify.app/
 - Package: texlive-bin
-  Version: 1:2026.0
+  Version: 1:2026.0-1
   Description: TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
   Homepage: https://www.tug.org/texlive/
 - Package: texlive-bin-static
-  Version: 1:2026.0
+  Version: 1:2026.0-1
   Description: Static libraries for texlive-bin
   Homepage: https://www.tug.org/texlive/
 - Package: texlive-installer
@@ -10779,7 +10787,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 17.10.1
+  Version: 17.11.0
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
