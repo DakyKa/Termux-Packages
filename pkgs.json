@@ -1717,7 +1717,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.5.0-10",
+    "Version": "3.5.0-11",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -4231,7 +4231,7 @@
   },
   {
     "Package": "govulncheck",
-    "Version": "1.7.0",
+    "Version": "1.8.0",
     "Description": "Reports known vulnerabilities affecting Go code",
     "Homepage": "https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck"
   },
@@ -5491,7 +5491,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.65.0",
+    "Version": "0.65.1",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -8863,7 +8863,7 @@
   },
   {
     "Package": "libsecret",
-    "Version": "0.21.8",
+    "Version": "0.21.8.2",
     "Description": "A GObject-based library for accessing the Secret Service API",
     "Homepage": "https://gitlab.gnome.org/GNOME/libsecret"
   },
@@ -10639,7 +10639,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.43.5",
+    "Version": "0.44.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11791,7 +11791,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1596+g28ff47b8a4-0",
+    "Version": "0.13.0~dev-1630+g6d15a3c5b4-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
