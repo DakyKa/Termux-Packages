@@ -3467,11 +3467,11 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jellyfin-ffmpeg
-  Version: "12.0"
+  Version: 12.0-1
   Description: FFmpeg for Jellyfin with custom extensions and enhancements
   Homepage: https://jellyfin.org
 - Package: jellyfin-server
-  Version: "12.0"
+  Version: 12.0-1
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
@@ -8387,11 +8387,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.82.0
+  Version: 1.83.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.82.0
+  Version: 1.83.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -9347,7 +9347,7 @@
   Description: Allows you to easily manage large numbers of patches
   Homepage: https://savannah.nongnu.org/projects/quilt
 - Package: rabbitmq-server
-  Version: 4.3.5
+  Version: 4.3.6
   Description: Feature rich, multi-protocol messaging and streaming broker
   Homepage: https://github.com/rabbitmq/rabbitmq-server
 - Package: racket
@@ -9799,7 +9799,7 @@
   Description: Counts physical the lines of code, blank lines, comment lines, and physical lines of source code
   Homepage: https://github.com/boyter/scc
 - Package: sccache
-  Version: 0.17.0
+  Version: 0.18.0
   Description: sccache is ccache with cloud storage
   Homepage: https://github.com/mozilla/sccache
 - Package: scdaemon
@@ -11427,7 +11427,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.26.0
+  Version: 2.26.2
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
