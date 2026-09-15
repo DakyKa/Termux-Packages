@@ -2579,7 +2579,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.117.0
+  Version: 1.118.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3055,7 +3055,7 @@
   Description: Programs to compute hashsums of arbitrary number of files recursively
   Homepage: https://md5deep.sourceforge.net/
 - Package: hcl
-  Version: 2.24.0-1
+  Version: 2.25.0
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
@@ -3747,11 +3747,11 @@
   Description: Terminal file manager
   Homepage: https://github.com/gokcehan/lf
 - Package: lfortran
-  Version: 0.65.0
+  Version: 0.66.0
   Description: A modern open-source interactive Fortran compiler
   Homepage: https://lfortran.org/
 - Package: lfortran-static
-  Version: 0.65.0
+  Version: 0.66.0
   Description: Static libraries for lfortran
   Homepage: https://lfortran.org/
 - Package: lftp
@@ -6275,7 +6275,7 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.16.22
+  Version: 0.16.23
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
@@ -6283,7 +6283,7 @@
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.16.22
+  Version: 0.16.23
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
@@ -6363,11 +6363,11 @@
   Description: Terminfo parsing library
   Homepage: https://github.com/neovim/unibilium
 - Package: libunibreak
-  Version: "7.0"
+  Version: "8.0"
   Description: Unicode line-breaking library
   Homepage: https://github.com/adah1972/libunibreak
 - Package: libunibreak-static
-  Version: "7.0"
+  Version: "8.0"
   Description: Static libraries for libunibreak
   Homepage: https://github.com/adah1972/libunibreak
 - Package: libunistring
@@ -8427,7 +8427,7 @@
   Description: Command-line version of the 7zip compressed file archiver
   Homepage: https://github.com/p7zip-project/p7zip
 - Package: pacman
-  Version: 7.1.0-7
+  Version: 7.1.0-8
   Description: A library-based package manager with dependency support
   Homepage: https://archlinux.org/pacman/
 - Package: pacman4console
@@ -8891,7 +8891,7 @@
   Description: Linux tool to show progress for cp, mv, dd and more
   Homepage: https://github.com/Xfennec/progress
 - Package: proj
-  Version: 9.8.1
+  Version: 9.9.0
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
