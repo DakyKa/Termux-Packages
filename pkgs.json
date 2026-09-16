@@ -973,7 +973,7 @@
   },
   {
     "Package": "bmon",
-    "Version": "4.0-4",
+    "Version": "5.0",
     "Description": "Bandwidth monitor and rate estimator",
     "Homepage": "https://github.com/tgraf/bmon"
   },
@@ -5491,7 +5491,7 @@
   },
   {
     "Package": "kubo",
-    "Version": "0.43.0-1",
+    "Version": "0.43.1",
     "Description": "A peer-to-peer hypermedia distribution protocol",
     "Homepage": "https://ipfs.io/"
   },
@@ -11839,7 +11839,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1644+gaed60b8a53-0",
+    "Version": "0.13.0~dev-1651+gcb76690546-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -17179,7 +17179,7 @@
   },
   {
     "Package": "wabt",
-    "Version": "1.0.41",
+    "Version": "1.0.42",
     "Description": "The WebAssembly Binary Toolkit",
     "Homepage": "https://github.com/WebAssembly/wabt"
   },
