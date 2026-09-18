@@ -115,7 +115,7 @@
 | **atool** | 0.39.0-3 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.6.0 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.6.0 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
-| **atuin** | 18.19.0 | Magical shell history | https://atuin.sh/ |
+| **atuin** | 18.22.0 | Magical shell history | https://atuin.sh/ |
 | **aubio** | 0.4.9-7 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-7 | Static libraries for aubio | https://aubio.org/ |
 | **audiofile** | 0.3.6 | Silicon Graphics Audio File Library | https://audiofile.68k.org/ |
@@ -174,7 +174,7 @@
 | **blogc** | 0.20.1-1 | A blog compiler | https://blogc.rgm.io/ |
 | **blueprint-compiler** | 0.22.2 | Markup language for GTK user interfaces | https://gnome.pages.gitlab.gnome.org/blueprint-compiler/ |
 | **bmon** | 5.0 | Bandwidth monitor and rate estimator | https://github.com/tgraf/bmon |
-| **boinc** | 8.2.9 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
+| **boinc** | 8.2.15 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
 | **boinctui** | 2.7.2 | curses based manager for Boinc client | https://sourceforge.net/projects/boinctui/ |
 | **bombadillo** | 2.4.0-3 | A non-web client for the terminal, supporting Gopher, Gemini and much more | https://bombadillo.colorfield.space/ |
 | **boost** | 1:1.91.0 | Free peer-reviewed portable C++ source libraries | https://boost.org |
@@ -304,7 +304,7 @@
 | **composer** | 2.10.3 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
-| **cookcli** | 0.35.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
+| **cookcli** | 0.36.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
 | **coreutils** | 9.11-1 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-6 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
@@ -630,9 +630,9 @@
 | **ghc** | 9.12.2-5 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghostscript** | 10.07.1-1 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **ghq** | 1.10.1 | Manage remote repository clones, like go get does | https://github.com/x-motemen/ghq |
-| **giflib** | 5.2.2-2 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
-| **giflib-static** | 5.2.2-2 | Static libraries for giflib | https://giflib.sourceforge.net/ |
-| **giflib-utils** | 5.2.2-2 | A set of utilities that comes with giflib package | https://giflib.sourceforge.net/ |
+| **giflib** | 6.1.3 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
+| **giflib-static** | 6.1.3 | Static libraries for giflib | https://giflib.sourceforge.net/ |
+| **giflib-utils** | 6.1.3 | A set of utilities that comes with giflib package | https://giflib.sourceforge.net/ |
 | **gifsicle** | 1.96-1 | Tool for creating, editing, and getting information about GIF images and animations | https://www.lcdf.org/gifsicle/ |
 | **gifski** | 1.34.0-2 | GIF encoder based on libimagequant | https://gif.ski/ |
 | **girara** | 2026.07.18 | Simple user interface library used by Zathura | https://pwmt.org/projects/girara |
@@ -806,9 +806,9 @@
 | **htslib-static** | 1.24 | Static libraries for htslib | https://github.com/samtools/htslib |
 | **httpie** | 3.2.4-1 | Modern, user-friendly command-line HTTP client for the API era | https://httpie.io |
 | **httping** | 4.4.0-1 | ping-like program for http-requests | https://github.com/folkertvanheusden/HTTPing |
-| **httrack** | 3.50.2 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
-| **httrack-data** | 3.50.2 | Platform-independent data for httrack | http://www.httrack.com |
-| **httrack-static** | 3.50.2 | Static libraries for httrack | http://www.httrack.com |
+| **httrack** | 3.50.3 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
+| **httrack-data** | 3.50.3 | Platform-independent data for httrack | http://www.httrack.com |
+| **httrack-static** | 3.50.3 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
 | **hugo** | 0.166.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
@@ -929,7 +929,7 @@
 | **kubo** | 0.43.1 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-3 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lager** | 0.1.3 | C++ library for value-oriented design | https://sinusoid.es/lager/ |
-| **lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
+| **lame** | 4.0-1 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-4 | LastPass command line interface tool | https://lastpass.com/ |
 | **lazygit** | 0.65.1 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lcal** | 2.1.0-1 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
@@ -1316,8 +1316,8 @@
 | **libmodplug-static** | 0.8.9.1.r461-1 | Static libraries for libmodplug | https://modplug-xmms.sourceforge.net/ |
 | **libmosquitto** | 2.1.2-2 | MQTT library | https://mosquitto.org/ |
 | **libmount** | 2.42.1-4 | Library for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
-| **libmp3lame** | 3.100-7 | High quality MPEG Audio Layer III (MP3) encoder | https://lame.sourceforge.io/ |
-| **libmp3lame-static** | 3.100-7 | Static libraries for libmp3lame | https://lame.sourceforge.io/ |
+| **libmp3lame** | 4.0-1 | High quality MPEG Audio Layer III (MP3) encoder | https://lame.sourceforge.io/ |
+| **libmp3lame-static** | 4.0-1 | Static libraries for libmp3lame | https://lame.sourceforge.io/ |
 | **libmp3splt** | 0.9.2-10 | Utility to split MP3, Ogg Vorbis and native FLAC files without decoding | https://mp3splt.sourceforge.net |
 | **libmp3splt-static** | 0.9.2-10 | Static libraries for libmp3splt | https://mp3splt.sourceforge.net |
 | **libmpc** | 1.4.1 | Library for the arithmetic of complex numbers with arbitrarily high precision | https://www.multiprecision.org/ |
@@ -1370,8 +1370,8 @@
 | **libnl-static** | 3.12.0 | Static libraries for libnl | https://github.com/thom311/libnl |
 | **libnova** | 0.16-2 | A general purpose, double precision, Celestial Mechanics, Astrometry and Astrodynamics library | https://libnova.sourceforge.net |
 | **libnova-static** | 0.16-2 | Static libraries for libnova | https://libnova.sourceforge.net |
-| **libnpth** | 1.6-3 | New GNU Portable Threads Library | https://www.gnupg.org/related_software/npth/ |
-| **libnpth-static** | 1.6-3 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
+| **libnpth** | 1.8 | New GNU Portable Threads Library | https://www.gnupg.org/related_software/npth/ |
+| **libnpth-static** | 1.8 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
 | **libnspr** | 4.40 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
 | **libnspr-static** | 4.40 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
 | **libnss** | 3.129 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
@@ -1802,7 +1802,7 @@
 | **lzlib** | 1.16 | A library providing in-memory LZMA compression and decompression functions | http://www.nongnu.org/lzip/lzlib.html |
 | **lzlib-static** | 1.16 | Static libraries for lzlib | http://www.nongnu.org/lzip/lzlib.html |
 | **lzop** | 1.04-2 | File compressor using lzo lib. | https://www.lzop.org |
-| **m4** | 1.4.19-5 | Traditional Unix macro processor | https://www.gnu.org/software/m4/m4.html |
+| **m4** | 1.4.21 | Traditional Unix macro processor | https://www.gnu.org/software/m4/m4.html |
 | **macchina** | 6.4.0-1 | A system information fetcher, with an emphasis on performance and minimalism. | https://github.com/Macchina-CLI/macchina |
 | **magic-wormhole-rs** | 0.7.6-1 | Rust implementation of Magic Wormhole, with new features and enhancements | https://github.com/magic-wormhole/magic-wormhole.rs |
 | **mailsync** | 5.2.7-2 | A way of synchronizing a collection of mailboxes | https://mailsync.sourceforge.net/ |
@@ -1899,7 +1899,7 @@
 | **mold** | 2.42.1 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.5.1-2 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **monetdb** | 11.55.5-1 | A high-performance database kernel for query-intensive applications | https://www.monetdb.org/ |
-| **mongosh** | 2.11.1 | The MongoDB Shell | https://github.com/mongodb-js/mongosh |
+| **mongosh** | 2.12.0 | The MongoDB Shell | https://github.com/mongodb-js/mongosh |
 | **monit** | 6.0.0 | Utility for managing and monitoring processes, programs, files, directories and filesystems | https://mmonit.com/monit/ |
 | **mono** | 6.14.1-2 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.1-2 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
@@ -2039,8 +2039,8 @@
 | **ocrad-static** | 0.29-1 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
 | **octave** | 2:11.3.0-1 | GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI) | https://octave.org |
 | **octave-static** | 2:11.3.0-1 | Static libraries for octave | https://octave.org |
-| **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
-| **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
+| **octomap** | 1.10.1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
+| **octomap-static** | 1.10.1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
 | **oh-my-posh** | 31.3.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oha** | 1.16.0 | HTTP load generator with realtime tui, inspired by rakyll/hey | https://github.com/hatoo/oha |

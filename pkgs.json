@@ -631,7 +631,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.19.0",
+    "Version": "18.22.0",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -985,7 +985,7 @@
   },
   {
     "Package": "boinc",
-    "Version": "8.2.9",
+    "Version": "8.2.15",
     "Description": "Open-source software for volunteer computing",
     "Homepage": "https://boinc.berkeley.edu/"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.35.0",
+    "Version": "0.36.0",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -3721,19 +3721,19 @@
   },
   {
     "Package": "giflib",
-    "Version": "5.2.2-2",
+    "Version": "6.1.3",
     "Description": "A library for reading and writing gif images",
     "Homepage": "https://giflib.sourceforge.net/"
   },
   {
     "Package": "giflib-static",
-    "Version": "5.2.2-2",
+    "Version": "6.1.3",
     "Description": "Static libraries for giflib",
     "Homepage": "https://giflib.sourceforge.net/"
   },
   {
     "Package": "giflib-utils",
-    "Version": "5.2.2-2",
+    "Version": "6.1.3",
     "Description": "A set of utilities that comes with giflib package",
     "Homepage": "https://giflib.sourceforge.net/"
   },
@@ -4777,19 +4777,19 @@
   },
   {
     "Package": "httrack",
-    "Version": "3.50.2",
+    "Version": "3.50.3",
     "Description": "It allows you to download a World Wide Web site from the Internet",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-data",
-    "Version": "3.50.2",
+    "Version": "3.50.3",
     "Description": "Platform-independent data for httrack",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-static",
-    "Version": "3.50.2",
+    "Version": "3.50.3",
     "Description": "Static libraries for httrack",
     "Homepage": "http://www.httrack.com"
   },
@@ -5515,7 +5515,7 @@
   },
   {
     "Package": "lame",
-    "Version": "3.100-7",
+    "Version": "4.0-1",
     "Description": "High quality MPEG Audio Layer III (MP3) encoder - frontend",
     "Homepage": "https://lame.sourceforge.io/"
   },
@@ -7837,13 +7837,13 @@
   },
   {
     "Package": "libmp3lame",
-    "Version": "3.100-7",
+    "Version": "4.0-1",
     "Description": "High quality MPEG Audio Layer III (MP3) encoder",
     "Homepage": "https://lame.sourceforge.io/"
   },
   {
     "Package": "libmp3lame-static",
-    "Version": "3.100-7",
+    "Version": "4.0-1",
     "Description": "Static libraries for libmp3lame",
     "Homepage": "https://lame.sourceforge.io/"
   },
@@ -8161,13 +8161,13 @@
   },
   {
     "Package": "libnpth",
-    "Version": "1.6-3",
+    "Version": "1.8",
     "Description": "New GNU Portable Threads Library",
     "Homepage": "https://www.gnupg.org/related_software/npth/"
   },
   {
     "Package": "libnpth-static",
-    "Version": "1.6-3",
+    "Version": "1.8",
     "Description": "Static libraries for libnpth",
     "Homepage": "https://www.gnupg.org/related_software/npth/"
   },
@@ -10753,7 +10753,7 @@
   },
   {
     "Package": "m4",
-    "Version": "1.4.19-5",
+    "Version": "1.4.21",
     "Description": "Traditional Unix macro processor",
     "Homepage": "https://www.gnu.org/software/m4/m4.html"
   },
@@ -11335,7 +11335,7 @@
   },
   {
     "Package": "mongosh",
-    "Version": "2.11.1",
+    "Version": "2.12.0",
     "Description": "The MongoDB Shell",
     "Homepage": "https://github.com/mongodb-js/mongosh"
   },
@@ -12175,13 +12175,13 @@
   },
   {
     "Package": "octomap",
-    "Version": "1.10.0-1",
+    "Version": "1.10.1",
     "Description": "An efficient probabilistic 3D mapping framework based on octrees",
     "Homepage": "https://github.com/OctoMap/octomap"
   },
   {
     "Package": "octomap-static",
-    "Version": "1.10.0-1",
+    "Version": "1.10.1",
     "Description": "Static libraries for octomap",
     "Homepage": "https://github.com/OctoMap/octomap"
   },
