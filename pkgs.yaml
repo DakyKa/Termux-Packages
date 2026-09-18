@@ -387,7 +387,7 @@
   Description: Source code formatter for C-like programming languages
   Homepage: https://astyle.sourceforge.net/
 - Package: asymptote
-  Version: "3.14"
+  Version: "3.15"
   Description: A powerful descriptive vector graphics language for technical drawing
   Homepage: https://asymptote.sourceforge.io/
 - Package: at
@@ -395,7 +395,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.60.6
+  Version: 2.62.0.1
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -863,7 +863,7 @@
   Description: Simple cargo subcommand for generating flamegraphs, using inferno under the hood
   Homepage: https://github.com/flamegraph-rs/flamegraph
 - Package: cargo-leptos
-  Version: 0.3.8
+  Version: 0.3.9
   Description: Build tool for the Rust framework Leptos
   Homepage: https://github.com/leptos-rs/cargo-leptos
 - Package: cargo-machete
@@ -1531,7 +1531,7 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.27-1
+  Version: 9.20.29
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
 - Package: docbook-xml
@@ -2215,7 +2215,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 16.0.4
+  Version: 16.0.5
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -2723,7 +2723,7 @@
   Description: A task runner / simpler Make alternative written in Go
   Homepage: https://github.com/go-task/task
 - Package: goaccess
-  Version: "1.11"
+  Version: "1.12"
   Description: An open source real-time web log analyzer and interactive viewer
   Homepage: https://goaccess.io
 - Package: gobang
@@ -3135,7 +3135,7 @@
   Description: Robust, friendly, fast plain text accounting software. (CLI only)
   Homepage: https://hledger.org/
 - Package: hledger-ui
-  Version: 1.52.3
+  Version: 1.52.4
   Description: hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.
   Homepage: https://hledger.org/
 - Package: hnterm
@@ -6247,11 +6247,11 @@
   Description: A simple, small, efficient, C++ XML parser
   Homepage: http://www.grinninglizard.com/tinyxml2/
 - Package: libtirpc
-  Version: 1.3.7-1
+  Version: 1.3.8
   Description: Transport Independent RPC library
   Homepage: http://git.linux-nfs.org/?p=steved/libtirpc.git
 - Package: libtirpc-static
-  Version: 1.3.7-1
+  Version: 1.3.8
   Description: Static libraries for libtirpc
   Homepage: http://git.linux-nfs.org/?p=steved/libtirpc.git
 - Package: libtllist
@@ -6355,11 +6355,11 @@
   Description: Static libraries for libudfread
   Homepage: https://code.videolan.org/videolan/libudfread/
 - Package: libunbound
-  Version: 1.26.0
+  Version: 1.26.1
   Description: A validating, recursive, caching DNS resolver
   Homepage: https://unbound.net/
 - Package: libunbound-static
-  Version: 1.26.0
+  Version: 1.26.1
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
@@ -7219,11 +7219,11 @@
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
-  Version: 2:12.3.3
+  Version: 2:13.0.2
   Description: A drop-in replacement for mysql server
   Homepage: https://mariadb.org
 - Package: mariadb-static
-  Version: 2:12.3.3
+  Version: 2:13.0.2
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
@@ -7415,23 +7415,23 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 26.2.2
+  Version: 26.2.3
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 26.2.2
+  Version: 26.2.3
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-opencl-icd-rusticl
-  Version: 26.2.2
+  Version: 26.2.3
   Description: Mesas Rusticl OpenCL ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 26.2.2
+  Version: 26.2.3
   Description: Mesas Swrast Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-virtio
-  Version: 26.2.2
+  Version: 26.2.3
   Description: Mesas VirtIO Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk
@@ -7963,7 +7963,7 @@
   Description: Newsraft is a feed reader with text-based user interface
   Homepage: https://codeberg.org/newsraft/newsraft
 - Package: nginx
-  Version: 1.31.5
+  Version: 1.31.6
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
@@ -8783,7 +8783,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.4.2
+  Version: 12.5.0
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -8975,7 +8975,7 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.11.0-1
+  Version: 1.12.0
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
   Homepage: https://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
@@ -9247,7 +9247,7 @@
   Description: Static libraries for python2
   Homepage: http://python.org/
 - Package: pyunbound
-  Version: 1.26.0
+  Version: 1.26.1
   Description: Python bindings for Unbound
   Homepage: https://unbound.net/
 - Package: pzstd
@@ -10355,11 +10355,11 @@
   Description: Records and splits streaming mp3 into tracks
   Homepage: https://streamripper.sourceforge.net/
 - Package: stunnel
-  Version: "5.80"
+  Version: "5.82"
   Description: Socket wrapper which can provide TLS support to ordinary applications
   Homepage: https://www.stunnel.org/
 - Package: stunnel-static
-  Version: "5.80"
+  Version: "5.82"
   Description: Static libraries for stunnel
   Homepage: https://www.stunnel.org/
 - Package: stuntman
@@ -11067,7 +11067,7 @@
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
-  Version: 16.3.1
+  Version: 16.3.5
   Description: Rust-based incremental compilation engine and bundler for Next.js
   Homepage: https://nextjs.org/
 - Package: tut
@@ -11135,7 +11135,7 @@
   Description: Command line tools for archive and file unarchiving and extraction
   Homepage: https://theunarchiver.com/command-line
 - Package: unbound
-  Version: 1.26.0
+  Version: 1.26.1
   Description: Unbound command-line tools
   Homepage: https://unbound.net/
 - Package: unicode-cldr
@@ -11259,7 +11259,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.12.16
+  Version: 0.12.17
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11895,7 +11895,7 @@
   Description: Zig language server
   Homepage: https://github.com/zigtools/zls
 - Package: znc
-  Version: 1.10.2
+  Version: 1.10.3
   Description: An advanced IRC bouncer
   Homepage: https://znc.in/
 - Package: zola

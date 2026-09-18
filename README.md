@@ -107,9 +107,9 @@
 | **aspnetcore-targeting-pack-9.0** | 9.0.20 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.5-1 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **astyle** | 3.6.18-1 | Source code formatter for C-like programming languages | https://astyle.sourceforge.net/ |
-| **asymptote** | 3.14 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
+| **asymptote** | 3.15 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
-| **at-spi2-core** | 2.60.6 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
+| **at-spi2-core** | 2.62.0.1 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031-1 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
 | **atomvm** | 1:0.6.6-1 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-3 | tool for managing file archives of various types | https://www.nongnu.org/atool |
@@ -226,7 +226,7 @@
 | **cargo-c** | 0.10.25 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
 | **cargo-flamegraph** | 0.6.14 | Simple cargo subcommand for generating flamegraphs, using inferno under the hood | https://github.com/flamegraph-rs/flamegraph |
-| **cargo-leptos** | 0.3.8 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
+| **cargo-leptos** | 0.3.9 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **cargo-machete** | 0.9.2 | Find unused dependencies in Rust projects | https://github.com/bnjbvr/cargo-machete |
 | **catch2** | 3.16.0 | A modern, C++-native, header-only, framework for unit-tests, TDD and BDD | https://github.com/catchorg/catch2 |
 | **catch2-static** | 3.16.0 | Static libraries for catch2 | https://github.com/catchorg/catch2 |
@@ -393,7 +393,7 @@
 | **dnslookup** | 1.12.0 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
 | **dnsmap** | 0.36-3 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
 | **dnstop** | 2022.10.19-1 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
-| **dnsutils** | 9.20.27-1 | Clients provided with BIND | https://www.isc.org/bind/ |
+| **dnsutils** | 9.20.29 | Clients provided with BIND | https://www.isc.org/bind/ |
 | **docbook-xml** | 5.1-1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
 | **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
 | **docker-cli** | 24.0.6 | Set of products that use OS-level virtualization to deliver software in packages called containers. | https://docker.com |
@@ -564,7 +564,7 @@
 | **fontconfig-static** | 2.18.3 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.18.3 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2-2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
-| **forgejo** | 16.0.4 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
+| **forgejo** | 16.0.5 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-2 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.28 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **foundry** | 1.7.1-1 | A blazing fast, portable and modular toolkit for Ethereum application development | https://github.com/foundry-rs/foundry |
@@ -691,7 +691,7 @@
 | **go-findimagedupes** | 2023.01.29-5 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
 | **go-musicfox** | 5.1.0 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
 | **go-task** | 3.53.1-1 | A task runner / simpler Make alternative written in Go | https://github.com/go-task/task |
-| **goaccess** | 1.11 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
+| **goaccess** | 1.12 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-4 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.86.0-2 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gofumpt** | 0.12.0 | A stricter gofmt, backwards compatible drop-in replacement | https://github.com/mvdan/gofumpt |
@@ -794,7 +794,7 @@
 | **highway** | 1.4.0-1 | Performance-portable, length-agnostic SIMD with runtime dispatch | https://github.com/google/highway |
 | **hilbish** | 1:2.3.4-1 | The Moon-powered shell! A comfy and extensible shell for Lua fans! | https://rosettea.github.io/Hilbish/ |
 | **hledger** | 1.52.4 | Robust, friendly, fast plain text accounting software. (CLI only) | https://hledger.org/ |
-| **hledger-ui** | 1.52.3 | hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app. | https://hledger.org/ |
+| **hledger-ui** | 1.52.4 | hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app. | https://hledger.org/ |
 | **hnterm** | 1.0.5-2 | A simple tool to browse Hacker News in the terminal | https://github.com/ggerganov/imtui |
 | **hollywood** | 1.22-1 | Fill your console with Hollywood melodrama technobabble | https://launchpad.net/hollywood |
 | **hors** | 0.8.2-3 | Instant coding answers via the command line (howdoi in rust) | https://github.com/WindSoilder/hors |
@@ -1572,8 +1572,8 @@
 | **libtins** | 4.5-5 | High-level, multiplatform C++ network packet sniffing and crafting library. | https://libtins.github.io |
 | **libtinyxml** | 2.6.2-2 | A simple, small, C++ XML parser | https://sourceforge.net/projects/tinyxml/ |
 | **libtinyxml2** | 11.0.0-1 | A simple, small, efficient, C++ XML parser | http://www.grinninglizard.com/tinyxml2/ |
-| **libtirpc** | 1.3.7-1 | Transport Independent RPC library | http://git.linux-nfs.org/?p=steved/libtirpc.git |
-| **libtirpc-static** | 1.3.7-1 | Static libraries for libtirpc | http://git.linux-nfs.org/?p=steved/libtirpc.git |
+| **libtirpc** | 1.3.8 | Transport Independent RPC library | http://git.linux-nfs.org/?p=steved/libtirpc.git |
+| **libtirpc-static** | 1.3.8 | Static libraries for libtirpc | http://git.linux-nfs.org/?p=steved/libtirpc.git |
 | **libtllist** | 1.1.0 | A small font loading and glyph rasterization library | https://codeberg.org/dnkl/fcft |
 | **libtomcrypt** | 1.18.2-1 | A fairly comprehensive, modular and portable cryptographic toolkit | https://www.libtom.net/LibTomCrypt/ |
 | **libtomcrypt-static** | 1.18.2-1 | Static libraries for libtomcrypt | https://www.libtom.net/LibTomCrypt/ |
@@ -1599,8 +1599,8 @@
 | **libucontext-static** | 1.5 | Static libraries for libucontext | https://github.com/kaniini/libucontext |
 | **libudfread** | 1.2.0 | A library for reading UDF | https://code.videolan.org/videolan/libudfread/ |
 | **libudfread-static** | 1.2.0 | Static libraries for libudfread | https://code.videolan.org/videolan/libudfread/ |
-| **libunbound** | 1.26.0 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
-| **libunbound-static** | 1.26.0 | Static libraries for libunbound | https://unbound.net/ |
+| **libunbound** | 1.26.1 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
+| **libunbound-static** | 1.26.1 | Static libraries for libunbound | https://unbound.net/ |
 | **libunibilium** | 2.1.4 | Terminfo parsing library | https://github.com/neovim/unibilium |
 | **libunibreak** | 8.0 | Unicode line-breaking library | https://github.com/adah1972/libunibreak |
 | **libunibreak-static** | 8.0 | Static libraries for libunibreak | https://github.com/adah1972/libunibreak |
@@ -1815,8 +1815,8 @@
 | **manim** | 0.21.0-1 | A community-maintained Python framework for creating mathematical animations | https://manim.community |
 | **manpages** | 6.19 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
 | **mapserver** | 8.2.2-4 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
-| **mariadb** | 2:12.3.3 | A drop-in replacement for mysql server | https://mariadb.org |
-| **mariadb-static** | 2:12.3.3 | Static libraries for mariadb | https://mariadb.org |
+| **mariadb** | 2:13.0.2 | A drop-in replacement for mysql server | https://mariadb.org |
+| **mariadb-static** | 2:13.0.2 | Static libraries for mariadb | https://mariadb.org |
 | **marisa** | 0.3.1-1 | Matching Algorithm with Recursively Implemented StorAge | https://github.com/s-yata/marisa-trie |
 | **markdown-flashcards** | 2.0.1 | Small CLI app to learn with flashcards and spaced repetition | https://github.com/bttger/markdown-flashcards |
 | **marksman** | 2026.02.08 | LSP language server for editing Markdown files | https://github.com/artempyanykh/marksman |
@@ -1864,11 +1864,11 @@
 | **memcached** | 1.6.45 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.9 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.9 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 26.2.2 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 26.2.2 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-opencl-icd-rusticl** | 26.2.2 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 26.2.2 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
-| **mesa-vulkan-icd-virtio** | 26.2.2 | Mesa's VirtIO Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 26.2.3 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 26.2.3 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-opencl-icd-rusticl** | 26.2.3 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 26.2.3 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa-vulkan-icd-virtio** | 26.2.3 | Mesa's VirtIO Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14-1 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20260719-1 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.15-2 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
@@ -2001,7 +2001,7 @@
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.44 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.37 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
-| **nginx** | 1.31.5 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.31.6 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 28 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 47 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.12 | Nim programming language compiler | https://nim-lang.org/ |
@@ -2206,7 +2206,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pnpm** | 12.4.2 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
+| **pnpm** | 12.5.0 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
 | **pocketbase** | 0.40.4 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 5.0 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 5.0 | Static libraries for poke | http://www.jemarch.net/poke.html |
@@ -2254,7 +2254,7 @@
 | **pulseaudio-glib** | 17.0-4 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pup** | 0.4.0-7 | command line tool for processing HTML | https://github.com/ericchiang/pup |
 | **pure-ftpd** | 1.0.54 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
-| **pv** | 1.11.0-1 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
+| **pv** | 1.12.0 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.1.0 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
@@ -2322,7 +2322,7 @@
 | **python-yt-dlp** | 2026.08.19 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
 | **python2** | 2.7.18-15 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-15 | Static libraries for python2 | http://python.org/ |
-| **pyunbound** | 1.26.0 | Python bindings for Unbound | https://unbound.net/ |
+| **pyunbound** | 1.26.1 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.7-1 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.12 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 5.12.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
@@ -2599,8 +2599,8 @@
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.2 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
-| **stunnel** | 5.80 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
-| **stunnel-static** | 5.80 | Static libraries for stunnel | https://www.stunnel.org/ |
+| **stunnel** | 5.82 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
+| **stunnel-static** | 5.82 | Static libraries for stunnel | https://www.stunnel.org/ |
 | **stuntman** | 1.2.16-8 | An open source STUN server | https://www.stunprotocol.org/ |
 | **stylua** | 2.5.2 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4-1 | DVD subtitle ripper for Linux | https://subtitleripper.sourceforge.net/ |
@@ -2777,7 +2777,7 @@
 | **tuicr** | 0.26.0 | A code review TUI with vim keybindings, exports to GitHub, GitLab, Gitea, Bitbucket, or clipboard | https://github.com/agavra/tuicr |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
 | **turbo** | 2.10.0 | High-performance build system for JS/TS | https://turborepo.dev/ |
-| **turbopack** | 16.3.1 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
+| **turbopack** | 16.3.5 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
 | **tut** | 2.0.1-3 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
 | **tvheadend** | 4.2.8-13 | TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats. | https://tvheadend.org/ |
 | **tvheadend-data** | 4.2.8-13 | Platform-independent data for tvheadend | https://tvheadend.org/ |
@@ -2794,7 +2794,7 @@
 | **uftrace** | 0.20 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugrep** | 7.8.5 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-3 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
-| **unbound** | 1.26.0 | Unbound command-line tools | https://unbound.net/ |
+| **unbound** | 1.26.1 | Unbound command-line tools | https://unbound.net/ |
 | **unicode-cldr** | 48.1 | Unicode Common Locale Data Repository | http://cldr.unicode.org/ |
 | **unicode-data** | 18.0.0 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
 | **unicode-emoji** | 17.0.0 | Unicode Emoji Data Files | https://unicode.org/emoji/ |
@@ -2825,7 +2825,7 @@
 | **util-linux-static** | 2.42.1-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.12.16 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.12.17 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.53.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2984,7 +2984,7 @@
 | **zlib** | 1.3.2 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
 | **zlib-static** | 1.3.2 | Static libraries for zlib | https://www.zlib.net/ |
 | **zls** | 0.16.0 | Zig language server | https://github.com/zigtools/zls |
-| **znc** | 1.10.2 | An advanced IRC bouncer | https://znc.in/ |
+| **znc** | 1.10.3 | An advanced IRC bouncer | https://znc.in/ |
 | **zola** | 0.23.6 | A fast static site generator in a single binary with everything built-in. | https://github.com/getzola/zola |
 | **zopfli** | 1.0.3-5 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.10.0 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
