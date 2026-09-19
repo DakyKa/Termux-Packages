@@ -3769,7 +3769,7 @@
   },
   {
     "Package": "git-annex",
-    "Version": "10.20260717",
+    "Version": "10.20260901",
     "Description": "Manage large files with git, without storing the file contents in git",
     "Homepage": "https://git-annex.branchable.com"
   },
@@ -6955,13 +6955,13 @@
   },
   {
     "Package": "libglibmm-2.4",
-    "Version": "2.66.9-1",
+    "Version": "2.66.10",
     "Description": "A C++ API for parts of glib that are useful for C++",
     "Homepage": "https://www.gtkmm.org/"
   },
   {
     "Package": "libglibmm-2.68",
-    "Version": "2.88.1",
+    "Version": "2.90.0",
     "Description": "A C++ API for parts of glib that are useful for C++",
     "Homepage": "https://www.gtkmm.org/"
   },
