@@ -198,7 +198,7 @@
 | **btrfs-progs** | 7.0 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
 | **buf** | 1.73.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
-| **bun** | 1.4.2-3 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager | https://bun.com |
+| **bun** | 1.4.2-4 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager | https://bun.com |
 | **busybox** | 1.38.0-1 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
 | **byacc** | 20260126 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
@@ -274,7 +274,7 @@
 | **clang** | 21.1.8-3 | C language frontend for LLVM | https://clang.llvm.org/ |
 | **clblast** | 1.7.0 | Tuned OpenCL BLAS | https://github.com/CNugteren/CLBlast |
 | **cli11** | 2.7.2 | Command line parser for C++11 | https://github.com/CLIUtils/CLI11 |
-| **clifm** | 1.28-2 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
+| **clifm** | 1.29 | The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell | https://github.com/leo-arch/clifm |
 | **clinfo** | 3.0.25.02.14-1 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20250722 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
@@ -371,7 +371,7 @@
 | **dictd** | 1.13.3-1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
 | **diff-so-fancy** | 1.4.12 | Good-lookin' diffs. Actually... nah... The best-lookin' diffs | https://github.com/so-fancy/diff-so-fancy |
 | **diffstat** | 1.69 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
-| **difftastic** | 0.70.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
+| **difftastic** | 0.71.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
 | **diffutils** | 3.12-2 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
 | **dirb** | 2.22-5 | Web Directory Fuzzer | https://dirb.sourceforge.net/ |
 | **direnv** | 2.37.1-1 | Environment switcher for shell | https://github.com/direnv/direnv |
@@ -639,7 +639,7 @@
 | **git** | 2.55.0 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
 | **git-absorb** | 0.9.0 | git commit --fixup, but automatic | https://github.com/tummychow/git-absorb |
 | **git-annex** | 10.20260717 | Manage large files with git, without storing the file contents in git | https://git-annex.branchable.com |
-| **git-cliff** | 2.14.1 | A highly customizable changelog generator that follows Conventional Commit specifications | https://git-cliff.org |
+| **git-cliff** | 2.14.2 | A highly customizable changelog generator that follows Conventional Commit specifications | https://git-cliff.org |
 | **git-credential-manager** | 2.9.1 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
 | **git-crypt** | 0.8.0 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
 | **git-delta** | 0.19.2 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
@@ -902,6 +902,7 @@
 | **json-glib** | 1.10.8 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
 | **jsoncpp** | 1.9.8 | C++ library for interacting with JSON | https://github.com/open-source-parsers/jsoncpp |
 | **jsoncpp-static** | 1.9.8 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
+| **jujutsu** | 0.45.1 | A Git-compatible VCS that is both simple and powerful | https://jj-vcs.github.io/jj/ |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-4 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
 | **just** | 1.58.0 | A handy way to save and run project-specific commands | https://just.systems |
@@ -1786,7 +1787,7 @@
 | **luajit-lgi** | 0.9.2+p20251219-3 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **luajit-static** | 1:2.1.1788856981+gc6ffc14 | Static libraries for luajit | https://luajit.org/ |
 | **luarocks** | 3.13.0-1 | Deployment and management system for Lua modules | https://luarocks.org/ |
-| **luau** | 0.738 | A small, fast, and embeddable programming language based on Lua with a gradual type system. | https://github.com/luau-lang/luau |
+| **luau** | 0.739 | A small, fast, and embeddable programming language based on Lua with a gradual type system. | https://github.com/luau-lang/luau |
 | **lunasvg** | 3.5.0-1 | SVG rendering and manipulation library in C++ | https://github.com/sammycage/lunasvg |
 | **luv** | 1.52.1-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
@@ -1852,6 +1853,7 @@
 | **mdbook-toc** | 0.15.4 | A preprocessor for mdbook to add inline Table of Contents support | https://github.com/badboy/mdbook-toc |
 | **mdbtools** | 1.0.1-1 | A set of programs to help you extract data from Microsoft Access files in various settings | https://github.com/mdbtools/mdbtools |
 | **mdbtools-static** | 1.0.1-1 | Static libraries for mdbtools | https://github.com/mdbtools/mdbtools |
+| **mdcat** | 2.17.0 | Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal | https://github.com/BIRSAx2/mdcat |
 | **mdds** | 3.2.1 | A collection of multi-dimensional data structures and indexing algorithms | https://gitlab.com/mdds/mdds |
 | **mdf2iso** | 0.3.1 | Small utility that converts MDF images to ISO format | https://salsa.debian.org/debian/mdf2iso |
 | **mdns-scan** | 0.5-3 | A tool for scanning for mDNS/DNS-SD services published on the local network | https://github.com/alteholz/mdns-scan |
@@ -2206,7 +2208,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pnpm** | 12.5.0 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
+| **pnpm** | 12.5.1 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
 | **pocketbase** | 0.40.4 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 5.0 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 5.0 | Static libraries for poke | http://www.jemarch.net/poke.html |
@@ -2353,7 +2355,7 @@
 | **qrsspig** | 0.8.0-8 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
 | **qrupdate-ng** | 2:1.1.5 | A Library for Fast Updating of QR and Cholesky Decompositions. | https://github.com/mpimd-csc/qrupdate-ng |
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
-| **quickjs-ng** | 0.16.2 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
+| **quickjs-ng** | 0.17.0 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **rabbitmq-server** | 4.3.6 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 9.3 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
@@ -2864,7 +2866,7 @@
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
 | **vtm** | 2026.07.30 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
-| **vulkan-extension-layer** | 1.4.360 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
+| **vulkan-extension-layer** | 1.4.363 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.4.363 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1-1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |

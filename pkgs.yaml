@@ -751,7 +751,7 @@
   Description: A metapackage that installs essential development tools
   Homepage: https://github.com/termux/termux-packages
 - Package: bun
-  Version: 1.4.2-3
+  Version: 1.4.2-4
   Description: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
   Homepage: https://bun.com
 - Package: busybox
@@ -1055,7 +1055,7 @@
   Description: Command line parser for C++11
   Homepage: https://github.com/CLIUtils/CLI11
 - Package: clifm
-  Version: 1.28-2
+  Version: "1.29"
   Description: 'The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell'
   Homepage: https://github.com/leo-arch/clifm
 - Package: clinfo
@@ -1443,7 +1443,7 @@
   Description: Displays a histogram of changes to a file
   Homepage: https://invisible-island.net/diffstat/diffstat.html
 - Package: difftastic
-  Version: 0.70.0
+  Version: 0.71.0
   Description: 'difft: A structural diff that understands syntax'
   Homepage: https://github.com/Wilfred/difftastic
 - Package: diffutils
@@ -2515,7 +2515,7 @@
   Description: Manage large files with git, without storing the file contents in git
   Homepage: https://git-annex.branchable.com
 - Package: git-cliff
-  Version: 2.14.1
+  Version: 2.14.2
   Description: A highly customizable changelog generator that follows Conventional Commit specifications
   Homepage: https://git-cliff.org
 - Package: git-credential-manager
@@ -3566,6 +3566,10 @@
   Version: 1.9.8
   Description: Static libraries for jsoncpp
   Homepage: https://github.com/open-source-parsers/jsoncpp
+- Package: jujutsu
+  Version: 0.45.1
+  Description: A Git-compatible VCS that is both simple and powerful
+  Homepage: https://jj-vcs.github.io/jj/
 - Package: jump
   Version: 0.51.0-3
   Description: Jump helps you navigate in shell faster by learning your habits
@@ -7103,7 +7107,7 @@
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
 - Package: luau
-  Version: "0.738"
+  Version: "0.739"
   Description: A small, fast, and embeddable programming language based on Lua with a gradual type system.
   Homepage: https://github.com/luau-lang/luau
 - Package: lunasvg
@@ -7366,6 +7370,10 @@
   Version: 1.0.1-1
   Description: Static libraries for mdbtools
   Homepage: https://github.com/mdbtools/mdbtools
+- Package: mdcat
+  Version: 2.17.0
+  Description: 'Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal'
+  Homepage: https://github.com/BIRSAx2/mdcat
 - Package: mdds
   Version: 3.2.1
   Description: A collection of multi-dimensional data structures and indexing algorithms
@@ -8783,7 +8791,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.5.0
+  Version: 12.5.1
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -9371,7 +9379,7 @@
   Description: Finds bugs in JavaScript programs
   Homepage: https://quick-lint-js.com/
 - Package: quickjs-ng
-  Version: 0.16.2
+  Version: 0.17.0
   Description: Embeddable JavaScript engine in C (NG fork)
   Homepage: https://quickjs-ng.github.io/quickjs/
 - Package: quilt
@@ -11415,7 +11423,7 @@
   Description: Program for testing the VT100 compatibility of terminal emulators
   Homepage: https://invisible-island.net/vttest/
 - Package: vulkan-extension-layer
-  Version: 1.4.360
+  Version: 1.4.363
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
