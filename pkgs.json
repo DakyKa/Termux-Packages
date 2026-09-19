@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.48",
+    "Version": "2.36.49",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -2113,7 +2113,7 @@
   },
   {
     "Package": "deno",
-    "Version": "1:2.9.6",
+    "Version": "1:2.9.7",
     "Description": "A modern runtime for JavaScript and TypeScript",
     "Homepage": "https://deno.land/"
   },
@@ -3343,7 +3343,7 @@
   },
   {
     "Package": "foundry",
-    "Version": "1.7.1-1",
+    "Version": "1.8.3-1",
     "Description": "A blazing fast, portable and modular toolkit for Ethereum application development",
     "Homepage": "https://github.com/foundry-rs/foundry"
   },
@@ -8839,7 +8839,7 @@
   },
   {
     "Package": "librusty-v8",
-    "Version": "1:2.9.6",
+    "Version": "1:2.9.7",
     "Description": "High quality Rust bindings to V8s C++ API",
     "Homepage": "https://deno.land/"
   },
@@ -11857,7 +11857,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1661+g4b5dcbccd7-0",
+    "Version": "0.13.0~dev-1677+ge884c01bef-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -17647,13 +17647,13 @@
   },
   {
     "Package": "xxhash",
-    "Version": "0.8.3-1",
+    "Version": "0.8.4",
     "Description": "Extremely fast non-cryptographic hash algorithm",
     "Homepage": "https://cyan4973.github.io/xxHash/"
   },
   {
     "Package": "xxhash-static",
-    "Version": "0.8.3-1",
+    "Version": "0.8.4",
     "Description": "Static libraries for xxhash",
     "Homepage": "https://cyan4973.github.io/xxHash/"
   },
