@@ -195,7 +195,7 @@
 | **bsd-games** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
 | **bsdtar** | 3.8.9 | The tar(1) and cpio(1) programs from FreeBSD, using libarchive | https://www.libarchive.org/ |
 | **btfs2** | 4.1.0 | Decentralized file system integrating with TRON network and Bittorrent network | https://www.bittorrent.com/btfs/ |
-| **btrfs-progs** | 7.0 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
+| **btrfs-progs** | 7.1 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
 | **buf** | 1.73.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
 | **bun** | 1.4.2-4 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager | https://bun.com |
@@ -246,8 +246,8 @@
 | **ccrypt** | 1.11-1 | Secure encryption and decryption of files and streams utility | https://ccrypt.sourceforge.net/ |
 | **cdk** | 5.0-20260119-0 | Curses Development Kit | https://dickey.his.com/cdk/cdk.html |
 | **cec-client** | 8.1.7 | Client applications for libCEC | https://libcec.pulse-eight.com/ |
-| **cfengine** | 1:3.27.1 | CFEngine is a configuration management technology | https://cfengine.com/ |
-| **cfengine-static** | 1:3.27.1 | Static libraries for cfengine | https://cfengine.com/ |
+| **cfengine** | 1:3.28.0 | CFEngine is a configuration management technology | https://cfengine.com/ |
+| **cfengine-static** | 1:3.28.0 | Static libraries for cfengine | https://cfengine.com/ |
 | **cfitsio** | 4.7.0 | a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format | https://heasarc.gsfc.nasa.gov/fitsio/ |
 | **cfm** | 1.2.0-3 | A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast. | https://github.com/0l1v3rr/cli-file-manager |
 | **cgal** | 6.2.1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
@@ -402,7 +402,7 @@
 | **docopt-static** | 0.6.3-4 | Static libraries for docopt | http://docopt.org |
 | **doctest** | 2.5.3 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
 | **doctl** | 1.169.0 | The official command line interface for the DigitalOcean API | https://github.com/digitalocean/doctl |
-| **doge** | 0.2.8-2 | A command-line DNS client | https://github.com/Dj-Codeman/dog_community |
+| **doge** | 0.2.9 | A command-line DNS client | https://github.com/Dj-Codeman/dog_community |
 | **doggo** | 1.4.0 | Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt | https://github.com/mr-karan/doggo |
 | **dopewars** | 1.6.2-1 | Drug-dealing game set in streets of New York City | https://dopewars.sourceforge.io |
 | **dos2unix** | 7.5.7 | Converts between DOS and Unix text files | https://waterlander.net/dos2unix/ |
@@ -484,10 +484,10 @@
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 31.1-3 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emmylua-ls** | 0.25.1 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
-| **emscripten** | 6.0.8 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 6.0.8 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 6.0.8 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 6.0.8 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 6.0.9 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 6.0.9 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 6.0.9 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 6.0.9 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-9 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
 | **enchant** | 2.8.21 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
 | **enchant-static** | 2.8.21 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
@@ -576,8 +576,8 @@
 | **freetype-static** | 2.14.3 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 3.5.0 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
 | **fresh-editor** | 0.5.1 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
-| **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
-| **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
+| **fribidi** | 1.0.17 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
+| **fribidi-static** | 1.0.17 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
 | **frotz** | 2.55-2 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
 | **frp** | 0.71.0 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
@@ -1357,7 +1357,7 @@
 | **libnewt-static** | 0.52.25-1 | Static libraries for libnewt | https://pagure.io/newt |
 | **libnfc** | 1.8.0-2 | Free/Libre Near Field Communication (NFC) library | https://github.com/nfc-tools/libnfc |
 | **libnfc-static** | 1.8.0-2 | Static libraries for libnfc | https://github.com/nfc-tools/libnfc |
-| **libnfs** | 7.0.2 | NFS client library | https://github.com/sahlberg/libnfs |
+| **libnfs** | 8.0.0 | NFS client library | https://github.com/sahlberg/libnfs |
 | **libnftnl** | 1.3.2 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
 | **libnftnl-static** | 1.3.2 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
 | **libnghttp2** | 1.70.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
@@ -2170,7 +2170,7 @@
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
 | **pet** | 1.0.1-1 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
 | **pforth** | 1:2.0.1-1 | Portable Forth in C | https://www.softsynth.com/pforth/ |
-| **pgcli** | 4.7.0 | Postgres CLI with autocompletion and syntax highlighting | https://www.pgcli.com |
+| **pgcli** | 4.7.1 | Postgres CLI with autocompletion and syntax highlighting | https://www.pgcli.com |
 | **pgroonga** | 4.0.8 | A PostgreSQL extension to use Groonga as index | https://github.com/pgroonga/pgroonga |
 | **photon-rss** | 2023.02.02-3 | An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy | https://git.sr.ht/~ghost08/photon |
 | **php** | 8.5.1 | Server-side, HTML-embedded scripting language | https://php.net |
@@ -2901,12 +2901,12 @@
 | **websocat** | 1.14.1 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-4 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
 | **webtunnel** | 0.0.5 | Pluggable Transport based on HTTP Upgrade(HTTPT) | https://torproject.org/ |
-| **weechat** | 4.10.0-1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
-| **weechat-lua-plugin** | 4.10.0-1 | WeeChat Lua Plugin | https://weechat.org/ |
+| **weechat** | 4.10.1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
+| **weechat-lua-plugin** | 4.10.1 | WeeChat Lua Plugin | https://weechat.org/ |
 | **weechat-matrix-rs** | 2022.10.04-2 | Rust rewrite of the python weechat-matrix script | https://github.com/poljar/weechat-matrix-rs |
-| **weechat-perl-plugin** | 4.10.0-1 | WeeChat Perl Plugin | https://weechat.org/ |
-| **weechat-python-plugin** | 4.10.0-1 | WeeChat Python3 Plugin | https://weechat.org/ |
-| **weechat-ruby-plugin** | 4.10.0-1 | WeeChat Ruby Plugin | https://weechat.org/ |
+| **weechat-perl-plugin** | 4.10.1 | WeeChat Perl Plugin | https://weechat.org/ |
+| **weechat-python-plugin** | 4.10.1 | WeeChat Python3 Plugin | https://weechat.org/ |
+| **weechat-ruby-plugin** | 4.10.1 | WeeChat Ruby Plugin | https://weechat.org/ |
 | **weggli** | 0.2.4-3 | A fast and robust semantic search tool for C and C++ codebases | https://github.com/googleprojectzero/weggli |
 | **wego** | 2.4 | weather app for the terminal | https://github.com/schachmat/wego |
 | **wget** | 1.25.0-1 | Commandline tool for retrieving files using HTTP, HTTPS and FTP | https://www.gnu.org/software/wget/ |
