@@ -6079,7 +6079,7 @@
   },
   {
     "Package": "libc++utilities",
-    "Version": "5.35.0",
+    "Version": "5.36.0",
     "Description": "Useful C++ classes and routines such as argument parser, IO and conversion utilities",
     "Homepage": "https://github.com/Martchus/cpp-utilities"
   },
@@ -11113,7 +11113,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.21.0",
+    "Version": "1.21.1",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },
@@ -12238,6 +12238,12 @@
     "Version": "2.4.1",
     "Description": "Intel® Open Image Denoise library",
     "Homepage": "https://www.openimagedenoise.org"
+  },
+  {
+    "Package": "oils-for-unix",
+    "Version": "0.38.0-1",
+    "Description": "Bash-compatible Unix shell with more consistent syntax and semantics",
+    "Homepage": "https://oils.pub/"
   },
   {
     "Package": "okc-agents",
@@ -16279,7 +16285,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.11.0",
+    "Version": "17.12.0",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -16873,7 +16879,7 @@
   },
   {
     "Package": "utf8cpp",
-    "Version": "1:4.2.0",
+    "Version": "1:4.2.1",
     "Description": "UTF8-CPP: UTF-8 with C++ in a Portable Way",
     "Homepage": "https://github.com/nemtrif/utfcpp"
   },
@@ -16918,6 +16924,12 @@
     "Version": "2.42.1-4",
     "Description": "Utilities for handling universally unique identifiers",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
+  },
+  {
+    "Package": "uutils-coreutils",
+    "Version": "0.12.0",
+    "Description": "Cross-platform Rust rewrite of the GNU coreutils",
+    "Homepage": "https://uutils.org/"
   },
   {
     "Package": "uv",

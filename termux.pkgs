@@ -1011,7 +1011,7 @@
 | **libburn-static** | 1.5.8 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
 | **libbz2** | 1.0.8-8 | BZ2 format compression library | http://www.bzip.org/ |
 | **libc++** | 29 | C++ Standard Library | https://libcxx.llvm.org/ |
-| **libc++utilities** | 5.35.0 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
+| **libc++utilities** | 5.36.0 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
 | **libc-client** | 2007f-4 | UW IMAP c-client library | https://www.washington.edu/imap/ |
 | **libc-client-static** | 2007f-4 | Static libraries for libc-client | https://www.washington.edu/imap/ |
 | **libcaca** | 0.99.beta20-3 | Graphics library that outputs text instead of pixels | http://caca.zoy.org/wiki/libcaca |
@@ -1850,7 +1850,7 @@
 | **mdp** | 1.0.19 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 14.0.0 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
 | **mediainfo** | 26.05 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
-| **mediamtx** | 1.21.0 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
+| **mediamtx** | 1.21.1 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
 | **megacmd** | 2.6.0 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.5.20250706-1 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://xff.cz/megatools/ |
 | **memcached** | 1.6.45 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
@@ -2038,6 +2038,7 @@
 | **oh-my-posh** | 31.3.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oha** | 1.16.0 | HTTP load generator with realtime tui, inspired by rakyll/hey | https://github.com/hatoo/oha |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
+| **oils-for-unix** | 0.38.0-1 | Bash-compatible Unix shell with more consistent syntax and semantics | https://oils.pub/ |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2711,7 +2712,7 @@
 | **tokei** | 15.0.0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2025.12.13-2 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
-| **topgrade** | 17.11.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
+| **topgrade** | 17.12.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.9.12 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.5.0-1 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
@@ -2810,7 +2811,7 @@
 | **urdfdom-headers** | 3.0.1 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usbmuxd** | 1.1.1-p20250201-2 | A socket daemon to multiplex connections from and to iOS devices | https://libimobiledevice.org |
 | **usql** | 0.21.5 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
-| **utf8cpp** | 1:4.2.0 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
+| **utf8cpp** | 1:4.2.1 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.11.3 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
 | **utf8proc-static** | 2.11.3 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |
 | **uthash** | 2.4.0 | C preprocessor implementations of a hash table and a linked list | https://troydhanson.github.io/uthash/ |
@@ -2818,6 +2819,7 @@
 | **util-linux-static** | 2.42.1-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
+| **uutils-coreutils** | 0.12.0 | Cross-platform Rust rewrite of the GNU coreutils | https://uutils.org/ |
 | **uv** | 0.12.17 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.53.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
