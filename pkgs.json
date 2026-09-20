@@ -1741,7 +1741,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.5.0-11",
+    "Version": "3.5.0-12",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -1807,7 +1807,7 @@
   },
   {
     "Package": "cppcheck",
-    "Version": "2.21.1",
+    "Version": "2.22.0",
     "Description": "tool for static C/C++ code analysis",
     "Homepage": "https://github.com/danmar/cppcheck"
   },
@@ -7549,13 +7549,13 @@
   },
   {
     "Package": "liblmdb",
-    "Version": "0.9.35",
+    "Version": "1.0.2",
     "Description": "LMDB implements a simplified variant of the BerkeleyDB (BDB) API",
     "Homepage": "https://symas.com/lmdb/"
   },
   {
     "Package": "liblmdb-static",
-    "Version": "0.9.35",
+    "Version": "1.0.2",
     "Description": "Static libraries for liblmdb",
     "Homepage": "https://symas.com/lmdb/"
   },
@@ -11875,7 +11875,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1677+ge884c01bef-0",
+    "Version": "0.13.0~dev-1681+ga73243faa5-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -14329,7 +14329,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:06.03.03",
+    "Version": "1:06.03.04",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
@@ -17233,7 +17233,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.26.2",
+    "Version": "2.26.4",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
