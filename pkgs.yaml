@@ -6391,7 +6391,7 @@
   Description: Static libraries for libunistring
   Homepage: https://www.gnu.org/software/libunistring/
 - Package: libunqlite
-  Version: 1.1.9-1
+  Version: 1.2.1
   Description: Transactional embedded database engine
   Homepage: https://unqlite.org/
 - Package: liburcu
@@ -8103,11 +8103,11 @@
   Description: The most efficient usenet downloader
   Homepage: https://nzbget.com/
 - Package: oathtool
-  Version: 2.6.12-2
+  Version: 2.6.12-3
   Description: One-time password components
   Homepage: http://www.nongnu.org/oath-toolkit/
 - Package: oathtool-static
-  Version: 2.6.12-2
+  Version: 2.6.12-3
   Description: Static libraries for oathtool
   Homepage: http://www.nongnu.org/oath-toolkit/
 - Package: oci-cli
@@ -8775,7 +8775,7 @@
   Description: Interactive package manager and resource monitor
   Homepage: https://github.com/orhun/pkgtop
 - Package: plantuml
-  Version: 1.2026.2
+  Version: 1.2026.3
   Description: Draws UML diagrams, using a simple and human readable text description
   Homepage: https://plantuml.com/
 - Package: play-audio
@@ -9899,7 +9899,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.10.2-1
+  Version: 3.10.3
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -10831,7 +10831,7 @@
   Description: Terminal multiplexer with instant terminal sharing
   Homepage: https://tmate.io
 - Package: tmux
-  Version: 3.7c
+  Version: 3.7c-1
   Description: Terminal multiplexer
   Homepage: https://tmux.github.io/
 - Package: toilet
