@@ -223,7 +223,7 @@
   },
   {
     "Package": "android-tools",
-    "Version": "36.0.1+really35.0.2-1",
+    "Version": "37.0.0",
     "Description": "Android platform tools",
     "Homepage": "https://developer.android.com/"
   },
@@ -781,7 +781,7 @@
   },
   {
     "Package": "bash",
-    "Version": "5.3.15",
+    "Version": "5.3.20",
     "Description": "A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)",
     "Homepage": "https://www.gnu.org/software/bash/"
   },
@@ -2023,7 +2023,7 @@
   },
   {
     "Package": "dart",
-    "Version": "3.13.2",
+    "Version": "3.13.4",
     "Description": "Dart is a general-purpose programming language",
     "Homepage": "https://dart.dev/"
   },
@@ -2899,13 +2899,13 @@
   },
   {
     "Package": "erlang",
-    "Version": "29.0.6",
+    "Version": "29.1",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "29.0.6",
+    "Version": "29.1",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -9475,13 +9475,13 @@
   },
   {
     "Package": "libtsduck",
-    "Version": "3.44.4676",
+    "Version": "3.45.4798",
     "Description": "An extensible toolkit for MPEG transport streams",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "libtsduck-static",
-    "Version": "3.44.4676",
+    "Version": "3.45.4798",
     "Description": "Static libraries for libtsduck",
     "Homepage": "https://tsduck.io/"
   },
@@ -10477,13 +10477,13 @@
   },
   {
     "Package": "lowdown",
-    "Version": "3.1.1",
+    "Version": "3.2.1",
     "Description": "Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
   {
     "Package": "lowdown-static",
-    "Version": "3.1.1",
+    "Version": "3.2.1",
     "Description": "Static libraries for lowdown",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
@@ -10957,7 +10957,7 @@
   },
   {
     "Package": "md4c",
-    "Version": "0.5.3",
+    "Version": "0.6.0",
     "Description": "C Markdown parser",
     "Homepage": "https://github.com/mity/md4c"
   },
@@ -11299,7 +11299,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.10",
+    "Version": "2026.9.12-1",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -12661,7 +12661,7 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.83.0",
+    "Version": "1.85.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
@@ -12673,7 +12673,7 @@
   },
   {
     "Package": "oxlint",
-    "Version": "1.83.0",
+    "Version": "1.85.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -13171,7 +13171,7 @@
   },
   {
     "Package": "plantuml",
-    "Version": "1.2026.3",
+    "Version": "1.2026.8",
     "Description": "Draws UML diagrams, using a simple and human readable text description",
     "Homepage": "https://plantuml.com/"
   },
@@ -13351,13 +13351,13 @@
   },
   {
     "Package": "procps",
-    "Version": "4.0.7-1",
+    "Version": "4.0.7-2",
     "Description": "Utilities that give information about processes using the /proc filesystem",
     "Homepage": "https://gitlab.com/procps-ng/procps"
   },
   {
     "Package": "procps-static",
-    "Version": "4.0.7-1",
+    "Version": "4.0.7-2",
     "Description": "Static libraries for procps",
     "Homepage": "https://gitlab.com/procps-ng/procps"
   },
@@ -13531,19 +13531,19 @@
   },
   {
     "Package": "pypy",
-    "Version": "7.3.23",
+    "Version": "8.0.0-1",
     "Description": "A fast, compliant alternative implementation of Python",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tests",
-    "Version": "7.3.23",
+    "Version": "8.0.0-1",
     "Description": "Test files for PyPy",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tkinter",
-    "Version": "7.3.23",
+    "Version": "8.0.0-1",
     "Description": "Tkinter support for PyPy",
     "Homepage": "https://pypy.org"
   },
@@ -14269,13 +14269,13 @@
   },
   {
     "Package": "readline",
-    "Version": "8.3.3",
+    "Version": "8.3.6",
     "Description": "Library that allow users to edit command lines as they are typed in",
     "Homepage": "https://tiswww.case.edu/php/chet/readline/rltop.html"
   },
   {
     "Package": "readline-static",
-    "Version": "8.3.3",
+    "Version": "8.3.6",
     "Description": "Static libraries for readline",
     "Homepage": "https://tiswww.case.edu/php/chet/readline/rltop.html"
   },
@@ -14617,7 +14617,7 @@
   },
   {
     "Package": "rush",
-    "Version": "0.10.0",
+    "Version": "0.11.0",
     "Description": "A cross-platform command-line tool for executing jobs in parallel",
     "Homepage": "https://github.com/shenwei356/rush"
   },
@@ -16519,25 +16519,25 @@
   },
   {
     "Package": "tsduck-java",
-    "Version": "3.44.4676",
+    "Version": "3.45.4798",
     "Description": "Java bindings for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "tsduck-plugins",
-    "Version": "3.44.4676",
+    "Version": "3.45.4798",
     "Description": "Plugins for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "tsduck-python",
-    "Version": "3.44.4676",
+    "Version": "3.45.4798",
     "Description": "Python bindings for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "tsduck-tools",
-    "Version": "3.44.4676",
+    "Version": "3.45.4798",
     "Description": "Command line tools for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
@@ -17287,7 +17287,7 @@
   },
   {
     "Package": "wasmtime",
-    "Version": "48.0.2",
+    "Version": "49.0.0",
     "Description": "A standalone runtime for WebAssembly",
     "Homepage": "https://wasmtime.dev/"
   },
