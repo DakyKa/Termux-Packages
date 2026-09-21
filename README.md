@@ -1537,7 +1537,7 @@
 | **libsqlite-static** | 3.53.4 | Static libraries for libsqlite | https://www.sqlite.org |
 | **libsqlite-tcl** | 3.53.4 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.7 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
-| **libsrtp** | 2.8.0 | Library for SRTP (Secure Realtime Transport Protocol) | https://github.com/cisco/libsrtp |
+| **libsrtp** | 2.8.1 | Library for SRTP (Secure Realtime Transport Protocol) | https://github.com/cisco/libsrtp |
 | **libssh** | 0.12.2 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1-2 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
 | **libssh2-static** | 1.11.1-2 | Static libraries for libssh2 | https://www.libssh2.org |
@@ -1794,7 +1794,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.45.2 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.46.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -2091,7 +2091,7 @@
 | **openjpeg-tools** | 2.5.4 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.7.1 | OpenLDAP server | https://openldap.org |
 | **openldap-static** | 2.7.1 | Static libraries for openldap | https://openldap.org |
-| **openlist** | 4.2.6 | A file list program that supports multiple storage | https://oplist.org/ |
+| **openlist** | 4.2.6-1 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5-1 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5-1 | Static libraries for openmpi | https://www.open-mpi.org |
 | **openmpt123** | 0.8.9 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
@@ -2235,8 +2235,8 @@
 | **povray-data** | 3.8.0-beta.2-20 | Platform-independent data for povray | https://www.povray.org/ |
 | **predict** | 2.3.1-3 | A Satellite Tracking/Orbital Prediction Program | https://www.qsl.net/kd2bd/predict.html |
 | **privoxy** | 4.0.0-1 | Non-caching web proxy with advanced filtering capabilities | https://www.privoxy.org |
-| **procps** | 4.0.7 | Utilities that give information about processes using the /proc filesystem | https://gitlab.com/procps-ng/procps |
-| **procps-static** | 4.0.7 | Static libraries for procps | https://gitlab.com/procps-ng/procps |
+| **procps** | 4.0.7-1 | Utilities that give information about processes using the /proc filesystem | https://gitlab.com/procps-ng/procps |
+| **procps-static** | 4.0.7-1 | Static libraries for procps | https://gitlab.com/procps-ng/procps |
 | **procs** | 0.14.12 | A modern replacement for ps | https://github.com/dalance/procs |
 | **procyon-decompiler** | 0.6.0-2 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
 | **profanity** | 0.18.2-1 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
@@ -2245,9 +2245,9 @@
 | **proot** | 5.1.107.92 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 5.9.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:35.1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
-| **proton-bridge** | 3.26.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
+| **proton-bridge** | 3.27.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
 | **proton-drive-cli** | 0.8.0 | Official command-line client for Proton Drive | https://github.com/ProtonDriveApps/sdk |
-| **proton-pass-cli** | 2.3.3 | Proton Pass Command Line Interface (CLI) | https://protonpass.github.io/pass-cli/ |
+| **proton-pass-cli** | 2.4.1 | Proton Pass Command Line Interface (CLI) | https://protonpass.github.io/pass-cli/ |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
 | **prowlarr** | 2.6.5.5623 | An indexer manager/proxy built on the popular arr stack (server) | https://prowlarr.com |
 | **proxychains-ng** | 4.17-1 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
@@ -2431,7 +2431,7 @@
 | **rqbit** | 9.0.1 | A bittorrent command line client and server | https://github.com/ikatson/rqbit |
 | **rsgain** | 3.8 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
 | **rsnapshot** | 1.5.1 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
-| **rsync** | 3.5.0-1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
+| **rsync** | 3.5.1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6-1 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
 | **rtorrent** | 0.16.23 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |

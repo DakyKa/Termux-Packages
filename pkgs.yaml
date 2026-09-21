@@ -6107,7 +6107,7 @@
   Description: Secure Reliable Transport (SRT) Protocol
   Homepage: https://github.com/Haivision/srt
 - Package: libsrtp
-  Version: 2.8.0
+  Version: 2.8.1
   Description: Library for SRTP (Secure Realtime Transport Protocol)
   Homepage: https://github.com/cisco/libsrtp
 - Package: libssh
@@ -7135,7 +7135,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.45.2
+  Version: 0.46.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -8323,7 +8323,7 @@
   Description: Static libraries for openldap
   Homepage: https://openldap.org
 - Package: openlist
-  Version: 4.2.6
+  Version: 4.2.6-1
   Description: A file list program that supports multiple storage
   Homepage: https://oplist.org/
 - Package: openmpi
@@ -8899,11 +8899,11 @@
   Description: Non-caching web proxy with advanced filtering capabilities
   Homepage: https://www.privoxy.org
 - Package: procps
-  Version: 4.0.7
+  Version: 4.0.7-1
   Description: Utilities that give information about processes using the /proc filesystem
   Homepage: https://gitlab.com/procps-ng/procps
 - Package: procps-static
-  Version: 4.0.7
+  Version: 4.0.7-1
   Description: Static libraries for procps
   Homepage: https://gitlab.com/procps-ng/procps
 - Package: procs
@@ -8939,7 +8939,7 @@
   Description: Compiler for protocol buffer definition files
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: proton-bridge
-  Version: 3.26.0
+  Version: 3.27.0
   Description: ProtonMail Bridge application
   Homepage: https://github.com/ProtonMail/proton-bridge
 - Package: proton-drive-cli
@@ -8947,7 +8947,7 @@
   Description: Official command-line client for Proton Drive
   Homepage: https://github.com/ProtonDriveApps/sdk
 - Package: proton-pass-cli
-  Version: 2.3.3
+  Version: 2.4.1
   Description: Proton Pass Command Line Interface (CLI)
   Homepage: https://protonpass.github.io/pass-cli/
 - Package: prover9
@@ -9683,7 +9683,7 @@
   Description: A remote filesystem snapshot utility
   Homepage: https://www.rsnapshot.org/
 - Package: rsync
-  Version: 3.5.0-1
+  Version: 3.5.1
   Description: Fast incremental file transfer utility
   Homepage: https://rsync.samba.org/
 - Package: rtmpdump
