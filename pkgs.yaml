@@ -1983,7 +1983,7 @@
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
-  Version: 2:0.28.8
+  Version: 2:0.28.9
   Description: Exif, Iptc and XMP metadata manipulation library and tools
   Homepage: https://exiv2.org/
 - Package: expect
@@ -2103,7 +2103,7 @@
   Description: A simple file manager written in bash
   Homepage: https://github.com/dylanaraps/fff
 - Package: ffmpeg
-  Version: 8.1.2-5
+  Version: 8.1.3
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
@@ -2391,7 +2391,7 @@
   Description: Library for image loading and manipulation
   Homepage: https://wiki.gnome.org/Projects/GdkPixbuf
 - Package: gdu
-  Version: 5.36.1
+  Version: 5.37.0
   Description: Fast disk usage analyzer with console interface written in Go
   Homepage: https://github.com/dundee/gdu
 - Package: geckodriver
@@ -2911,7 +2911,7 @@
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
-  Version: "5.0"
+  Version: "5.2"
   Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
   Homepage: http://www.catb.org/~esr/greed/
 - Package: grep
@@ -4847,7 +4847,7 @@
   Description: Static libraries for libimagequant
   Homepage: https://pngquant.org/lib/
 - Package: libimobiledevice
-  Version: 1.3.0-p20250228-3
+  Version: 1.4.0
   Description: A library to communicate with services on iOS devices using native protocols
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-glue
@@ -4859,7 +4859,7 @@
   Description: Static libraries for libimobiledevice-glue
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-static
-  Version: 1.3.0-p20250228-3
+  Version: 1.4.0
   Description: Static libraries for libimobiledevice
   Homepage: https://libimobiledevice.org/
 - Package: libimtui
@@ -6451,7 +6451,7 @@
   Description: Static libraries for libvbisam
   Homepage: https://sourceforge.net/projects/vbisam/
 - Package: libvidstab
-  Version: 1.1.1-3
+  Version: 1.1.2
   Description: video stabilization library
   Homepage: https://github.com/georgmartius/vid.stab
 - Package: libvigra
@@ -9419,7 +9419,7 @@
   Description: UNIX-like reverse engineering framework and command-line toolset
   Homepage: https://www.radare.org/
 - Package: radarr
-  Version: 6.3.0.10514-4
+  Version: 6.4.4.10685
   Description: A PVR for Usenet and BitTorrent users (server)
   Homepage: https://radarr.video
 - Package: rage
@@ -10139,7 +10139,7 @@
   Description: An Ethereum smart contract-oriented language
   Homepage: https://www.soliditylang.org/
 - Package: sonarr
-  Version: 4.0.20.3014
+  Version: 4.0.20.3014-1
   Description: A PVR for Usenet and BitTorrent users (server)
   Homepage: https://sonarr.tv
 - Package: sops
