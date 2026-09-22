@@ -4759,11 +4759,11 @@
   Description: Static libraries for libhdf5
   Homepage: https://portal.hdfgroup.org/display/support
 - Package: libheif
-  Version: 1.23.4
+  Version: 1.23.5
   Description: HEIF (HEIC/AVIF) image encoding and decoding library
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-progs
-  Version: 1.23.4
+  Version: 1.23.5
   Description: Programs for manipulating HEIF (HEIC/AVIF) image files
   Homepage: https://github.com/strukturag/libheif
 - Package: libhiredis
@@ -7891,7 +7891,7 @@
   Description: System header and library files from the Android NDK needed for compiling C programs
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ne
-  Version: 3.3.4-3
+  Version: 3.3.4-4
   Description: Easy-to-use and powerful text editor
   Homepage: https://ne.di.unimi.it/
 - Package: nelua
