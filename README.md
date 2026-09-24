@@ -131,7 +131,7 @@
 | **awscli** | 2.37.0 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **azure-cli** | 2.90.0-1 | Microsoft's command-line tool for managing Azure cloud resources | https://learn.microsoft.com/en-us/cli/azure/ |
-| **azure-dev-cli** | 1.34.1 | Developer-centric CLI for creating, provisioning and deploying Azure applications (azd) | https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ |
+| **azure-dev-cli** | 1.34.2 | Developer-centric CLI for creating, provisioning and deploying Azure applications (azd) | https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ |
 | **b3sum** | 1.8.7 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.128 | Dynamic pixel format translation library | https://gegl.org/babl/ |
 | **bacon** | 3.25.0-1 | A background code checker for Rust, designed for minimal interaction | https://dystroy.org/bacon |
@@ -890,7 +890,7 @@
 | **jira-go** | 1.0.28-3 | Simple jira command line client written in Go | https://github.com/go-jira/jira |
 | **jless** | 0.9.0-1 | A command-line JSON viewer designed for reading, exploring, and searching through JSON data. | https://jless.io |
 | **jo** | 1.9-1 | JSON output from a shell | https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/ |
-| **joe** | 4.6-5 | Wordstar like text editor | http://joe-editor.sourceforge.net |
+| **joe** | 4.8 | Wordstar like text editor | http://joe-editor.sourceforge.net |
 | **jove** | 4.17.5.5 | Jove is a compact, powerful, Emacs-style text-editor. | https://directory.fsf.org/wiki/Jove |
 | **jp2a** | 1.3.3 | A simple JPEG to ASCII converter | https://github.com/Talinx/jp2a/ |
 | **jpegoptim** | 1.5.6 | JPEG optimizer that recompresses image files to a smaller size, without losing any information | https://www.kokkonen.net/tjko/projects.html |
@@ -926,7 +926,7 @@
 | **kotlin** | 2.4.20 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.22.2 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.8.0 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
-| **kubectl** | 1.37.0 | Kubernetes.io client binary | https://kubernetes.io/ |
+| **kubectl** | 1.37.1 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.36.4 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **kubo** | 0.43.1 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-3 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
@@ -1147,8 +1147,8 @@
 | **libflac-static** | 1.5.0-1 | Static libraries for libflac | https://xiph.org/flac/ |
 | **libflann** | 2022.10.27-2 | A library for performing fast approximate nearest neighbor searches in high dimensional spaces | https://github.com/flann-lib/flann |
 | **libforestdb** | 1.2-2 | A key-value storage engine | https://github.com/couchbase/forestdb |
-| **libfreehand** | 0.1.3 | a library for import of Aldus/Macromedia/Adobe FreeHand documents | https://wiki.documentfoundation.org/DLP/Libraries/libfreehand |
-| **libfreehand-static** | 0.1.3 | Static libraries for libfreehand | https://wiki.documentfoundation.org/DLP/Libraries/libfreehand |
+| **libfreehand** | 0.1.4 | a library for import of Aldus/Macromedia/Adobe FreeHand documents | https://wiki.documentfoundation.org/DLP/Libraries/libfreehand |
+| **libfreehand-static** | 0.1.4 | Static libraries for libfreehand | https://wiki.documentfoundation.org/DLP/Libraries/libfreehand |
 | **libfreexl** | 2.0.0-1 | Library to extract valid data from within an Excel (.xls) spreadsheet | https://www.gaia-gis.it/fossil/freexl |
 | **libfreexl-static** | 2.0.0-1 | Static libraries for libfreexl | https://www.gaia-gis.it/fossil/freexl |
 | **libftxui** | 7.0.3 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
@@ -1339,8 +1339,8 @@
 | **libmtp** | 1.1.23 | A library for communicating with MTP devices | https://github.com/libmtp/libmtp |
 | **libmtp-static** | 1.1.23 | Static libraries for libmtp | https://github.com/libmtp/libmtp |
 | **libmuparser** | 2.3.5-2 | An extensible high performance math expression parser library written in C++ | https://beltoforion.de/en/muparser |
-| **libmwaw** | 0.3.22-1 | Import library for some old mac text documents. | https://sourceforge.net/projects/libmwaw/ |
-| **libmwaw-static** | 0.3.22-1 | Static libraries for libmwaw | https://sourceforge.net/projects/libmwaw/ |
+| **libmwaw** | 0.3.23 | Import library for some old mac text documents. | https://sourceforge.net/projects/libmwaw/ |
+| **libmwaw-static** | 0.3.23 | Static libraries for libmwaw | https://sourceforge.net/projects/libmwaw/ |
 | **libmypaint** | 1.6.1-2 | MyPaint brush engine library | https://github.com/mypaint/libmypaint |
 | **libmypaint-static** | 1.6.1-2 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
 | **libmysofa** | 1.3.5 | Reader for AES SOFA files to get better HRTFs | https://github.com/hoene/libmysofa |
@@ -1833,8 +1833,8 @@
 | **maven** | 3.9.16 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0-1 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13-1 | Mazes in your terminal | https://github.com/Canop/mazter |
-| **mbedtls** | 3.6.4-2 | Light-weight cryptographic and SSL/TLS library | https://www.trustedfirmware.org/projects/mbed-tls/ |
-| **mbedtls-static** | 3.6.4-2 | Static libraries for mbedtls | https://www.trustedfirmware.org/projects/mbed-tls/ |
+| **mbedtls** | 3.6.7 | Light-weight cryptographic and SSL/TLS library | https://www.trustedfirmware.org/projects/mbed-tls/ |
+| **mbedtls-static** | 3.6.7 | Static libraries for mbedtls | https://www.trustedfirmware.org/projects/mbed-tls/ |
 | **mc** | 4.8.33-2 | Midnight Commander - a powerful file manager | https://midnight-commander.org |
 | **mcfly** | 0.9.4 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
 | **md4c** | 0.6.0 | C Markdown parser | https://github.com/mity/md4c |
@@ -1990,7 +1990,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.5-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1698+g51d7d99fe7-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1708+gac1a06021d-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2371,7 +2371,7 @@
 | **rage** | 0.12.1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.62.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.62.1 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
