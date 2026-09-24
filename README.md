@@ -701,7 +701,7 @@
 | **golang** | 3:1.27.1 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.27.1 | Go programming language - documentation | https://go.dev/ |
 | **golang-migrate** | 4.20.1 | Database migrations. CLI and Golang library | https://github.com/golang-migrate/migrate |
-| **golangci-lint** | 2.13.2-1 | Fast linters runner for Go, aggregating many Go linters into one tool | https://golangci-lint.run/ |
+| **golangci-lint** | 2.14.0 | Fast linters runner for Go, aggregating many Go linters into one tool | https://golangci-lint.run/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 26.09 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
@@ -761,7 +761,7 @@
 | **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.11-1 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
 | **guile-static** | 3.0.11-1 | Static libraries for guile | http://www.gnu.org/software/guile/ |
-| **gum** | 2.0.1 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
+| **gum** | 2.0.2 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
 | **gumbo-parser** | 0.10.1-1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
 | **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gurk** | 0.10.1 | Signal messenger client for terminal | https://github.com/boxdot/gurk-rs |
@@ -845,7 +845,7 @@
 | **immer** | 0.9.1 | Postmodern immutable and persistent data structures for C++ | https://sinusoid.es/immer |
 | **indent** | 2.2.13-1 | C language source code formatting program | https://www.gnu.org/software/indent/ |
 | **indi** | 2.2.4.2 | Astronomical instrumentation control | https://www.indilib.org |
-| **inetutils** | 2.7 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
+| **inetutils** | 2.8 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
 | **influxdb** | 1.8.10-4 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
 | **innoextract** | 1.9-11 | A tool to unpack installers created by Inno Setup | https://constexpr.org/innoextract/ |
 | **inotify-tools** | 4.25.9.0 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
@@ -1010,7 +1010,7 @@
 | **libblocksruntime** | 1:6.3.3 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6-2 | Static libraries for libblosc | https://www.blosc.org |
-| **libblosc2** | 3.3.4 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
+| **libblosc2** | 3.3.5 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libbluray** | 1.5.1 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-static** | 1.5.1 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-utils** | 1.5.1 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
@@ -1289,7 +1289,8 @@
 | **libmad** | 0.16.4-2 | MAD is a high-quality MPEG audio decoder | http://www.underbit.com/products/mad/ |
 | **libmagic** | 5.48-3 | File type identification library | https://darwinsys.com/file/ |
 | **libmagic-static** | 5.48-3 | Static libraries for libmagic | https://darwinsys.com/file/ |
-| **libmariadbcpp** | 1.1.2-1 | Enables C++ applications to establish client connections to MariaDB Enterprise over TLS | https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/ |
+| **libmariadbcpp** | 1.1.8 | Enables C++ applications to establish client connections to MariaDB Enterprise over TLS | https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/ |
+| **libmariadbcpp-static** | 1.1.8 | Static libraries for libmariadbcpp | https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/ |
 | **libmatio** | 1.6.0 | A C library for reading and writing Matlab MAT files | https://github.com/tbeu/matio |
 | **libmatroska** | 1.7.2 | Matroska library | https://dl.matroska.org/downloads/libmatroska/ |
 | **libmaxminddb** | 1.14.1 | MaxMind GeoIP2 database - library and utilities | https://dev.maxmind.com/geoip/geoip2/ |
@@ -1334,8 +1335,8 @@
 | **libmsgpack** | 7.0.2 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
 | **libmsgpack-cxx** | 9.0.0 | msgpack for C++ | https://msgpack.org/ |
 | **libmsgpack-static** | 7.0.2 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
-| **libmspub** | 0.1.4-5 | Microsoft Publisher file format parser library (latest snapshot) | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
-| **libmspub-static** | 0.1.4-5 | Static libraries for libmspub | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
+| **libmspub** | 0.1.5 | Microsoft Publisher file format parser library (latest snapshot) | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
+| **libmspub-static** | 0.1.5 | Static libraries for libmspub | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
 | **libmtp** | 1.1.23 | A library for communicating with MTP devices | https://github.com/libmtp/libmtp |
 | **libmtp-static** | 1.1.23 | Static libraries for libmtp | https://github.com/libmtp/libmtp |
 | **libmuparser** | 2.3.5-2 | An extensible high performance math expression parser library written in C++ | https://beltoforion.de/en/muparser |
@@ -2138,8 +2139,8 @@
 | **parallel** | 20260922 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
 | **pari** | 2.17.4 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
 | **pari-static** | 2.17.4 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
-| **parted** | 3.7 | Versatile partition editor | https://www.gnu.org/software/parted/ |
-| **parted-static** | 3.7 | Static libraries for parted | https://www.gnu.org/software/parted/ |
+| **parted** | 3.8 | Versatile partition editor | https://www.gnu.org/software/parted/ |
+| **parted-static** | 3.8 | Static libraries for parted | https://www.gnu.org/software/parted/ |
 | **pass** | 1.7.4-5 | Lightweight directory-based password manager | https://www.passwordstore.org |
 | **pass-otp** | 1.2.0-p20250809-0 | A pass/passage extension for managing one-time-password (OTP) tokens | https://github.com/tadfisher/pass-otp |
 | **passage** | 1.7.4a2-1 | A fork of password-store that uses age as backend | https://github.com/FiloSottile/passage |
@@ -2523,7 +2524,7 @@
 | **simdjson** | 4.6.11 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
-| **sing-box** | 1.14.1 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.14.2 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skalibs** | 2.15.1.0 | A set of general-purpose C programming libraries | https://skarnet.org/software/skalibs/ |
 | **skalibs-static** | 2.15.1.0 | Static libraries for skalibs | https://skarnet.org/software/skalibs/ |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
@@ -2704,7 +2705,7 @@
 | **tidy-static** | 5.9.14-next-3 | Static libraries for tidy | http://www.html-tidy.org/ |
 | **tig** | 2.6.1 | Ncurses-based text-mode interface for git | https://jonas.github.io/tig/ |
 | **tilde** | 1.1.3-2 | A text editor for the console/terminal | https://os.ghalkes.nl/tilde/ |
-| **time** | 1.9-1 | GNU time program for measuring CPU resource usage | https://www.gnu.org/software/time/ |
+| **time** | 1.10 | GNU time program for measuring CPU resource usage | https://www.gnu.org/software/time/ |
 | **timewarrior** | 1.10.0 | Command-line time tracker | https://timewarrior.net/ |
 | **timewarrior-static** | 1.10.0 | Static libraries for timewarrior | https://timewarrior.net/ |
 | **timg** | 1.6.3-2 | A terminal image and video viewer | https://timg.sh/ |
@@ -2854,7 +2855,7 @@
 | **vera** | 1.3.0-10 | A programmable tool for verification, analysis and transformation of C++ source code | https://bitbucket.org/verateam/vera |
 | **vgmstream** | 2117 | A library for playback of various streamed audio formats used in video games | https://github.com/vgmstream/vgmstream |
 | **vgmtools** | 2023.01.27-1 | A collection of tools for the VGM file format | https://github.com/vgmrips/vgmtools |
-| **vhs** | 0.12.0-1 | Your CLI home video recorder | https://github.com/charmbracelet/vhs |
+| **vhs** | 0.12.1 | Your CLI home video recorder | https://github.com/charmbracelet/vhs |
 | **viddy** | 1.3.1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14.4-1 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z-1 | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
@@ -2898,7 +2899,7 @@
 | **wcalc** | 2.5-6 | Capable calculator | https://w-calc.sourceforge.net |
 | **wcslib** | 8.9 | a C library that implements the 'World Coordinate System' (WCS) standard in FITS | https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/ |
 | **wcslib-static** | 8.9 | Static libraries for wcslib | https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/ |
-| **wdiff** | 1.2.2-2 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
+| **wdiff** | 1.2.3 | Display word differences between text files | https://www.gnu.org/software/wdiff/ |
 | **webp-pixbuf-loader** | 0.2.7-1 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
 | **websocat** | 1.14.1 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-4 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |

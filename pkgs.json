@@ -4147,7 +4147,7 @@
   },
   {
     "Package": "golangci-lint",
-    "Version": "2.13.2-1",
+    "Version": "2.14.0",
     "Description": "Fast linters runner for Go, aggregating many Go linters into one tool",
     "Homepage": "https://golangci-lint.run/"
   },
@@ -4507,7 +4507,7 @@
   },
   {
     "Package": "gum",
-    "Version": "2.0.1",
+    "Version": "2.0.2",
     "Description": "A tool for creating minimal interactive TUIs for shell scripts",
     "Homepage": "https://github.com/charmbracelet/gum"
   },
@@ -5011,7 +5011,7 @@
   },
   {
     "Package": "inetutils",
-    "Version": "2.7",
+    "Version": "2.8",
     "Description": "Collection of common network programs",
     "Homepage": "https://www.gnu.org/software/inetutils/"
   },
@@ -6001,7 +6001,7 @@
   },
   {
     "Package": "libblosc2",
-    "Version": "3.3.4",
+    "Version": "3.3.5",
     "Description": "A blocking, shuffling and loss-less compression library",
     "Homepage": "https://www.blosc.org"
   },
@@ -7675,8 +7675,14 @@
   },
   {
     "Package": "libmariadbcpp",
-    "Version": "1.1.2-1",
+    "Version": "1.1.8",
     "Description": "Enables C++ applications to establish client connections to MariaDB Enterprise over TLS",
+    "Homepage": "https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/"
+  },
+  {
+    "Package": "libmariadbcpp-static",
+    "Version": "1.1.8",
+    "Description": "Static libraries for libmariadbcpp",
     "Homepage": "https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/"
   },
   {
@@ -7945,13 +7951,13 @@
   },
   {
     "Package": "libmspub",
-    "Version": "0.1.4-5",
+    "Version": "0.1.5",
     "Description": "Microsoft Publisher file format parser library (latest snapshot)",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
   },
   {
     "Package": "libmspub-static",
-    "Version": "0.1.4-5",
+    "Version": "0.1.5",
     "Description": "Static libraries for libmspub",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
   },
@@ -12769,13 +12775,13 @@
   },
   {
     "Package": "parted",
-    "Version": "3.7",
+    "Version": "3.8",
     "Description": "Versatile partition editor",
     "Homepage": "https://www.gnu.org/software/parted/"
   },
   {
     "Package": "parted-static",
-    "Version": "3.7",
+    "Version": "3.8",
     "Description": "Static libraries for parted",
     "Homepage": "https://www.gnu.org/software/parted/"
   },
@@ -15079,7 +15085,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.14.1",
+    "Version": "1.14.2",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -16165,7 +16171,7 @@
   },
   {
     "Package": "time",
-    "Version": "1.9-1",
+    "Version": "1.10",
     "Description": "GNU time program for measuring CPU resource usage",
     "Homepage": "https://www.gnu.org/software/time/"
   },
@@ -17065,7 +17071,7 @@
   },
   {
     "Package": "vhs",
-    "Version": "0.12.0-1",
+    "Version": "0.12.1",
     "Description": "Your CLI home video recorder",
     "Homepage": "https://github.com/charmbracelet/vhs"
   },
@@ -17329,7 +17335,7 @@
   },
   {
     "Package": "wdiff",
-    "Version": "1.2.2-2",
+    "Version": "1.2.3",
     "Description": "Display word differences between text files",
     "Homepage": "https://www.gnu.org/software/wdiff/"
   },
