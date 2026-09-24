@@ -3339,7 +3339,7 @@
   Description: Astronomical instrumentation control
   Homepage: https://www.indilib.org
 - Package: inetutils
-  Version: "2.8"
+  Version: 2.8-1
   Description: Collection of common network programs
   Homepage: https://www.gnu.org/software/inetutils/
 - Package: influxdb
