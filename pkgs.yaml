@@ -147,7 +147,7 @@
   Description: Aims to be the best looking Gemini client
   Homepage: https://github.com/makew0rld/amfora
 - Package: android-tools
-  Version: 37.0.0
+  Version: 37.0.0-1
   Description: Android platform tools
   Homepage: https://developer.android.com/
 - Package: anewer
@@ -471,7 +471,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.37.1
+  Version: 2.37.2
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -3183,15 +3183,15 @@
   Description: ping-like program for http-requests
   Homepage: https://github.com/folkertvanheusden/HTTPing
 - Package: httrack
-  Version: 3.50.3
+  Version: 3.50.4
   Description: It allows you to download a World Wide Web site from the Internet
   Homepage: http://www.httrack.com
 - Package: httrack-data
-  Version: 3.50.3
+  Version: 3.50.4
   Description: Platform-independent data for httrack
   Homepage: http://www.httrack.com
 - Package: httrack-static
-  Version: 3.50.3
+  Version: 3.50.4
   Description: Static libraries for httrack
   Homepage: http://www.httrack.com
 - Package: hub
@@ -6435,11 +6435,11 @@
   Description: Library for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libuv
-  Version: 1.52.1
+  Version: 1.53.0
   Description: Support library with a focus on asynchronous I/O
   Homepage: https://libuv.org
 - Package: libuv-static
-  Version: 1.52.1
+  Version: 1.53.0
   Description: Static libraries for libuv
   Homepage: https://libuv.org
 - Package: libv4l
@@ -7923,7 +7923,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1708+gac1a06021d-0
+  Version: 0.13.0~dev-1721+g7dbca1c4e2-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -11271,11 +11271,11 @@
   Description: 'UTF8-CPP: UTF-8 with C++ in a Portable Way'
   Homepage: https://github.com/nemtrif/utfcpp
 - Package: utf8proc
-  Version: 2.11.3
+  Version: 2.12.0
   Description: Library for processing UTF-8 Unicode data
   Homepage: https://github.com/JuliaLang/utf8proc
 - Package: utf8proc-static
-  Version: 2.11.3
+  Version: 2.12.0
   Description: Static libraries for utf8proc
   Homepage: https://github.com/JuliaLang/utf8proc
 - Package: uthash
@@ -11303,7 +11303,7 @@
   Description: Cross-platform Rust rewrite of the GNU coreutils
   Homepage: https://uutils.org/
 - Package: uv
-  Version: 0.12.18
+  Version: 0.12.19
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11475,7 +11475,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.363-1
+  Version: 1.4.364
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -11483,7 +11483,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.363
+  Version: 1.4.364
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
