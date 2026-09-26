@@ -1075,7 +1075,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.60.1",
+    "Version": "1.60.2",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -1273,7 +1273,7 @@
   },
   {
     "Package": "cargo-binstall",
-    "Version": "1.23.0",
+    "Version": "1.24.0",
     "Description": "Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem",
     "Homepage": "https://github.com/cargo-bins/cargo-binstall"
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "Package": "git-town",
-    "Version": "24.0.0",
+    "Version": "24.1.0",
     "Description": "Git branches made easy",
     "Homepage": "https://www.git-town.com"
   },
@@ -13240,6 +13240,12 @@
     "Version": "0.40.4",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
+  },
+  {
+    "Package": "podofo",
+    "Version": "1.1.2",
+    "Description": "A C++ library to work with the PDF file format",
+    "Homepage": "https://github.com/podofo/podofo"
   },
   {
     "Package": "poke",
