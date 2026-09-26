@@ -14791,7 +14791,7 @@
   },
   {
     "Package": "sbcl",
-    "Version": "2.6.8",
+    "Version": "2.6.9",
     "Description": "A high performance Common Lisp compiler",
     "Homepage": "http://www.sbcl.org/"
   },
@@ -16321,7 +16321,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.12.1",
+    "Version": "17.12.2",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -17275,7 +17275,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.26.11",
+    "Version": "2.26.13",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
