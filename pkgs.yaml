@@ -863,7 +863,7 @@
   Description: Simple cargo subcommand for generating flamegraphs, using inferno under the hood
   Homepage: https://github.com/flamegraph-rs/flamegraph
 - Package: cargo-leptos
-  Version: 0.3.9
+  Version: 0.3.10
   Description: Build tool for the Rust framework Leptos
   Homepage: https://github.com/leptos-rs/cargo-leptos
 - Package: cargo-machete
@@ -1235,7 +1235,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.5.3
+  Version: 1:11.5.4
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -7767,7 +7767,7 @@
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: mycli
-  Version: 2.25.3
+  Version: 2.26.0
   Description: CLI for MySQL/MariaDB with auto-completion and syntax highlighting
   Homepage: https://mycli.net
 - Package: myman
@@ -8099,7 +8099,7 @@
   Description: A statically typed programming language for scientific computations with first class support for physical dimensions and units
   Homepage: https://numbat.dev/
 - Package: nushell
-  Version: 0.115.1
+  Version: 0.116.0
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nyancat
@@ -9395,7 +9395,7 @@
   Description: Static libraries for qhull
   Homepage: http://www.qhull.org
 - Package: qpdf
-  Version: 12.4.1
+  Version: 12.4.2
   Description: Content-Preserving PDF Transformation System
   Homepage: http://qpdf.sourceforge.net
 - Package: qrsspig
@@ -11455,7 +11455,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.09.26
+  Version: 2026.09.27
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
