@@ -750,7 +750,7 @@
 | **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gurk** | 0.10.1 | Signal messenger client for terminal | https://github.com/boxdot/gurk-rs |
 | **gweather-locations** | 2026.2 | The GWeather locations database | https://gitlab.gnome.org/GNOME/gweather-locations |
-| **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
+| **gzip** | 1.15 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **half** | 2.2.1 | C++ header-only library for IEEE 754 half-precision floating-point format | https://half.sourceforge.net/ |
 | **haproxy** | 3.4.5 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 14.5.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
