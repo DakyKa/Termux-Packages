@@ -756,18 +756,6 @@
     "Homepage": "https://www.bacula.org"
   },
   {
-    "Package": "bacula-fd",
-    "Version": "15.0.3-2",
-    "Description": "Bacula backup software",
-    "Homepage": "https://www.bacula.org"
-  },
-  {
-    "Package": "bacula-fd-static",
-    "Version": "15.0.3-2",
-    "Description": "Static libraries for bacula-fd",
-    "Homepage": "https://www.bacula.org"
-  },
-  {
     "Package": "barcode",
     "Version": "0.99-5",
     "Description": "Tool to convert text strings to printed bars",
@@ -1615,7 +1603,7 @@
   },
   {
     "Package": "clpeak",
-    "Version": "1.1.7",
+    "Version": "2.1.4",
     "Description": "A tool which profiles OpenCL devices to find their peak capacities",
     "Homepage": "https://github.com/krrishnarraj/clpeak"
   },
@@ -1647,12 +1635,6 @@
     "Package": "cmark",
     "Version": "0.31.2-1",
     "Description": "CommonMark parsing and rendering program",
-    "Homepage": "https://github.com/commonmark/cmark"
-  },
-  {
-    "Package": "cmark-static",
-    "Version": "0.31.2",
-    "Description": "Static libraries for cmark",
     "Homepage": "https://github.com/commonmark/cmark"
   },
   {
@@ -1741,7 +1723,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.5.0-12",
+    "Version": "3.5.0-13",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -2149,7 +2131,7 @@
   },
   {
     "Package": "dictd",
-    "Version": "1.13.3-1",
+    "Version": "1.13.3-2",
     "Description": "Online dictionary client and server",
     "Homepage": "https://sourceforge.net/projects/dict/"
   },
@@ -2773,8 +2755,14 @@
   },
   {
     "Package": "eigen",
-    "Version": "3.4.0",
+    "Version": "5.0.1",
     "Description": "Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms",
+    "Homepage": "http://eigen.tuxfamily.org"
+  },
+  {
+    "Package": "eigen-static",
+    "Version": "5.0.1",
+    "Description": "Static libraries for eigen",
     "Homepage": "http://eigen.tuxfamily.org"
   },
   {
@@ -3198,12 +3186,6 @@
     "Homepage": "https://darwinsys.com/file/"
   },
   {
-    "Package": "file-static",
-    "Version": "5.48-1",
-    "Description": "Static libraries for file",
-    "Homepage": "https://darwinsys.com/file/"
-  },
-  {
     "Package": "finch",
     "Version": "2.14.14-2",
     "Description": "Text-based multi-protocol instant messaging client",
@@ -3603,12 +3585,6 @@
     "Package": "gecode",
     "Version": "6.4.0",
     "Description": "Generic Constraint Development Environment",
-    "Homepage": "https://www.gecode.dev/"
-  },
-  {
-    "Package": "gecode-static",
-    "Version": "6.3.0",
-    "Description": "Static libraries for gecode",
     "Homepage": "https://www.gecode.dev/"
   },
   {
@@ -4021,7 +3997,7 @@
   },
   {
     "Package": "gnupg",
-    "Version": "2.5.17",
+    "Version": "2.5.24",
     "Description": "Implementation of the OpenPGP standard for encrypting and signing data and communication",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -4303,7 +4279,7 @@
   },
   {
     "Package": "gpgv",
-    "Version": "2.5.17",
+    "Version": "2.5.24",
     "Description": "GNU privacy guard - signature verification tool",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -4681,7 +4657,7 @@
   },
   {
     "Package": "hidapi",
-    "Version": "0.14.0-1",
+    "Version": "0.15.0",
     "Description": "Simple cross-platform library for communicating with HID devices",
     "Homepage": "https://libusb.info/hidapi"
   },
@@ -4975,7 +4951,7 @@
   },
   {
     "Package": "imath",
-    "Version": "3.2.2",
+    "Version": "3.2.3",
     "Description": "Library for vector/matrix and math operations, plus the half type",
     "Homepage": "https://imath.readthedocs.io/"
   },
@@ -5029,13 +5005,13 @@
   },
   {
     "Package": "inotify-tools",
-    "Version": "4.25.9.0",
+    "Version": "4.26.262",
     "Description": "Programs providing a simple interface to inotify",
     "Homepage": "https://github.com/rvoicilas/inotify-tools/wiki"
   },
   {
     "Package": "inotify-tools-static",
-    "Version": "4.25.9.0",
+    "Version": "4.26.262",
     "Description": "Static libraries for inotify-tools",
     "Homepage": "https://github.com/rvoicilas/inotify-tools/wiki"
   },
@@ -6877,13 +6853,13 @@
   },
   {
     "Package": "libgcrypt",
-    "Version": "1.12.3",
+    "Version": "1.12.4",
     "Description": "General purpose cryptographic library based on the code from GnuPG",
     "Homepage": "https://www.gnu.org/software/libgcrypt/"
   },
   {
     "Package": "libgcrypt-static",
-    "Version": "1.12.3",
+    "Version": "1.12.4",
     "Description": "Static libraries for libgcrypt",
     "Homepage": "https://www.gnu.org/software/libgcrypt/"
   },
@@ -7651,7 +7627,7 @@
   },
   {
     "Package": "libmaa",
-    "Version": "1.4.7-1",
+    "Version": "1.5.1",
     "Description": "Provides many low-level data structures which are helpful for writing compilers",
     "Homepage": "https://sourceforge.net/projects/dict/"
   },
@@ -8611,13 +8587,13 @@
   },
   {
     "Package": "libpq",
-    "Version": "18.2-1",
+    "Version": "18.6",
     "Description": "PostgreSQL client library (libpq) without the server",
     "Homepage": "https://www.postgresql.org"
   },
   {
     "Package": "libpq-static",
-    "Version": "18.2-1",
+    "Version": "18.6",
     "Description": "Static library for libpq",
     "Homepage": "https://www.postgresql.org"
   },
@@ -8977,13 +8953,13 @@
   },
   {
     "Package": "libsigsegv",
-    "Version": "2.14-1",
+    "Version": "2.15",
     "Description": "GNU libsigsegv is a library for handling page faults in user mode",
     "Homepage": "https://www.gnu.org/software/libsigsegv/"
   },
   {
     "Package": "libsigsegv-static",
-    "Version": "2.14-1",
+    "Version": "2.15",
     "Description": "Static libraries for libsigsegv",
     "Homepage": "https://www.gnu.org/software/libsigsegv/"
   },
@@ -9061,13 +9037,13 @@
   },
   {
     "Package": "libsoundtouch",
-    "Version": "2.3.3-1",
+    "Version": "2.4.1",
     "Description": "An open-source audio processing library for changing the Tempo, Pitch and Playback Rates of audio streams or files",
     "Homepage": "https://www.surina.net/soundtouch/"
   },
   {
     "Package": "libsoundtouch-static",
-    "Version": "2.3.3-1",
+    "Version": "2.4.1",
     "Description": "Static libraries for libsoundtouch",
     "Homepage": "https://www.surina.net/soundtouch/"
   },
@@ -9379,7 +9355,7 @@
   },
   {
     "Package": "libtins",
-    "Version": "4.5-5",
+    "Version": "4.6",
     "Description": "High-level, multiplatform C++ network packet sniffing and crafting library.",
     "Homepage": "https://libtins.github.io"
   },
@@ -9841,7 +9817,7 @@
   },
   {
     "Package": "libwolfssl",
-    "Version": "5.9.2",
+    "Version": "5.9.4",
     "Description": "A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud",
     "Homepage": "https://www.wolfssl.com/"
   },
@@ -10789,7 +10765,7 @@
   },
   {
     "Package": "magic-wormhole-rs",
-    "Version": "0.7.6-1",
+    "Version": "0.8.1",
     "Description": "Rust implementation of Magic Wormhole, with new features and enhancements",
     "Homepage": "https://github.com/magic-wormhole/magic-wormhole.rs"
   },
@@ -11625,12 +11601,6 @@
     "Package": "mupdf",
     "Version": "1.28.2-1",
     "Description": "Lightweight PDF and XPS viewer (library)",
-    "Homepage": "https://mupdf.com/"
-  },
-  {
-    "Package": "mupdf-static",
-    "Version": "1.24.10-2",
-    "Description": "Static libraries for mupdf",
     "Homepage": "https://mupdf.com/"
   },
   {
@@ -12696,12 +12666,6 @@
     "Homepage": "https://p11-glue.github.io/p11-glue/p11-kit.html"
   },
   {
-    "Package": "p7zip",
-    "Version": "17.06-1",
-    "Description": "Command-line version of the 7zip compressed file archiver",
-    "Homepage": "https://github.com/p7zip-project/p7zip"
-  },
-  {
     "Package": "pacman",
     "Version": "7.1.0-9",
     "Description": "A library-based package manager with dependency support",
@@ -13321,13 +13285,13 @@
   },
   {
     "Package": "postgresql",
-    "Version": "18.2-1",
+    "Version": "18.6",
     "Description": "Object-relational SQL database",
     "Homepage": "https://www.postgresql.org"
   },
   {
     "Package": "postgresql-static",
-    "Version": "18.2-1",
+    "Version": "18.6",
     "Description": "Static libraries for postgresql",
     "Homepage": "https://www.postgresql.org"
   },
@@ -13345,7 +13309,7 @@
   },
   {
     "Package": "pounce",
-    "Version": "3.1-1",
+    "Version": "3.2",
     "Description": "A multi-client, TLS-only IRC bouncer",
     "Homepage": "https://git.causal.agency/pounce"
   },
@@ -13369,7 +13333,7 @@
   },
   {
     "Package": "privoxy",
-    "Version": "4.0.0-1",
+    "Version": "4.2.0",
     "Description": "Non-caching web proxy with advanced filtering capabilities",
     "Homepage": "https://www.privoxy.org"
   },
@@ -13597,7 +13561,7 @@
   },
   {
     "Package": "pystring",
-    "Version": "1.1.4-1",
+    "Version": "1.2.0",
     "Description": "C++ functions matching the interface and behavior of python string methods with std::string",
     "Homepage": "https://github.com/imageworks/pystring"
   },
@@ -14155,7 +14119,7 @@
   },
   {
     "Package": "radare2",
-    "Version": "6.2.0",
+    "Version": "6.2.2-1",
     "Description": "UNIX-like reverse engineering framework and command-line toolset",
     "Homepage": "https://www.radare.org/"
   },
@@ -14617,13 +14581,13 @@
   },
   {
     "Package": "ruby",
-    "Version": "4.0.6",
+    "Version": "4.0.7",
     "Description": "Dynamic programming language with a focus on simplicity and productivity",
     "Homepage": "https://www.ruby-lang.org/"
   },
   {
     "Package": "ruby-ri",
-    "Version": "4.0.6",
+    "Version": "4.0.7",
     "Description": "Ruby documentation index",
     "Homepage": "https://www.ruby-lang.org/"
   },
@@ -14635,13 +14599,13 @@
   },
   {
     "Package": "runit",
-    "Version": "2.1.2-4",
+    "Version": "2.3.1",
     "Description": "Tools to provide service supervision and to manage services",
     "Homepage": "http://smarden.org/runit"
   },
   {
     "Package": "runit-static",
-    "Version": "2.1.2-4",
+    "Version": "2.3.1",
     "Description": "Static libraries for runit",
     "Homepage": "http://smarden.org/runit"
   },
@@ -14821,7 +14785,7 @@
   },
   {
     "Package": "scdaemon",
-    "Version": "2.5.17",
+    "Version": "2.5.24",
     "Description": "Daemon invoked by gpg to manage smartcards",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -16278,12 +16242,6 @@
     "Homepage": "https://tcl.sourceforge.net/"
   },
   {
-    "Package": "tmate",
-    "Version": "2.4.0-3",
-    "Description": "Terminal multiplexer with instant terminal sharing",
-    "Homepage": "https://tmate.io"
-  },
-  {
     "Package": "tmux",
     "Version": "3.7c-1",
     "Description": "Terminal multiplexer",
@@ -17016,8 +16974,14 @@
     "Homepage": "https://vale.sh"
   },
   {
+    "Package": "valkey",
+    "Version": "9.1.2-2",
+    "Description": "In-memory data structure store used as a database, cache and message broker",
+    "Homepage": "https://valkey.io/"
+  },
+  {
     "Package": "valkey-static",
-    "Version": "9.1.2",
+    "Version": "9.1.2-2",
     "Description": "Static libraries for valkey",
     "Homepage": "https://valkey.io/"
   },
@@ -17053,13 +17017,13 @@
   },
   {
     "Package": "vde2",
-    "Version": "2.3.3-6",
+    "Version": "2.3.3-7",
     "Description": "Virtual Distributed Ethernet for emulators like qemu",
     "Homepage": "https://github.com/virtualsquare/vde-2"
   },
   {
     "Package": "vde2-static",
-    "Version": "2.3.3-6",
+    "Version": "2.3.3-7",
     "Description": "Static libraries for vde2",
     "Homepage": "https://github.com/virtualsquare/vde-2"
   },
@@ -17163,12 +17127,6 @@
     "Package": "vlc",
     "Version": "3.0.24",
     "Description": "A popular libre and open source media player and multimedia engine",
-    "Homepage": "https://www.videolan.org/"
-  },
-  {
-    "Package": "vlc-static",
-    "Version": "3.0.23-5",
-    "Description": "Static libraries for vlc",
     "Homepage": "https://www.videolan.org/"
   },
   {
