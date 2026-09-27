@@ -1363,7 +1363,7 @@
   },
   {
     "Package": "ccache",
-    "Version": "4.14",
+    "Version": "4.14.1",
     "Description": "Compiler cache for fast recompilation of C/C++ code",
     "Homepage": "https://ccache.samba.org"
   },
@@ -1669,7 +1669,7 @@
   },
   {
     "Package": "codon",
-    "Version": "0.19.6",
+    "Version": "0.20.2",
     "Description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
     "Homepage": "https://github.com/exaloop/codon"
   },
@@ -2923,7 +2923,7 @@
   },
   {
     "Package": "etsh",
-    "Version": "5.4.0-1",
+    "Version": "5.4.0-2",
     "Description": "An enhanced, backward-compatible port of Thompson Shell",
     "Homepage": "https://etsh.nl"
   },
@@ -3367,7 +3367,7 @@
   },
   {
     "Package": "frei0r-plugins",
-    "Version": "3.5.0",
+    "Version": "3.6.0",
     "Description": "Minimalistic plugin API for video effects",
     "Homepage": "https://www.dyne.org/software/frei0r/"
   },
@@ -3541,7 +3541,7 @@
   },
   {
     "Package": "gdb",
-    "Version": "18.1",
+    "Version": "18.1-1",
     "Description": "The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -3559,7 +3559,7 @@
   },
   {
     "Package": "gdbserver",
-    "Version": "18.1",
+    "Version": "18.1-1",
     "Description": "The gdbserver program",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -5785,7 +5785,7 @@
   },
   {
     "Package": "libandroid-stub",
-    "Version": "30",
+    "Version": "30-1",
     "Description": "Stub libandroid.so for non-Android certified environment",
     "Homepage": "https://android.googlesource.com/platform/frameworks/base/+/main/native/android"
   },
@@ -6991,7 +6991,7 @@
   },
   {
     "Package": "libgnustep-base",
-    "Version": "1.31.1-4",
+    "Version": "1.31.1-5",
     "Description": "A library of general-purpose, non-graphical Objective C objects",
     "Homepage": "https://www.gnustep.org"
   },
@@ -7297,13 +7297,13 @@
   },
   {
     "Package": "libiodbc",
-    "Version": "3.52.16-1",
+    "Version": "3.52.16-2",
     "Description": "Independent Open DataBase Connectivity for Linux, MacOS X and Unix systems",
     "Homepage": "https://www.iodbc.org/"
   },
   {
     "Package": "libiodbc-static",
-    "Version": "3.52.16-1",
+    "Version": "3.52.16-2",
     "Description": "Static libraries for libiodbc",
     "Homepage": "https://www.iodbc.org/"
   },
@@ -8977,7 +8977,7 @@
   },
   {
     "Package": "libslirp",
-    "Version": "4.8.0-2",
+    "Version": "4.9.5",
     "Description": "A general purpose TCP-IP emulator",
     "Homepage": "https://gitlab.freedesktop.org/slirp/libslirp"
   },
@@ -10771,7 +10771,7 @@
   },
   {
     "Package": "mailpit",
-    "Version": "1.31.2",
+    "Version": "1.31.3",
     "Description": "An email and SMTP testing tool with API for developers",
     "Homepage": "https://mailpit.axllent.org"
   },
@@ -11833,7 +11833,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.11.1",
+    "Version": "0.11.2",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://neocmakelsp.github.io/"
   },
@@ -12013,7 +12013,7 @@
   },
   {
     "Package": "nmh",
-    "Version": "1.8-2",
+    "Version": "1.8-3",
     "Description": "Powerful electronic mail handling system",
     "Homepage": "http://www.nongnu.org/nmh/"
   },
@@ -13069,7 +13069,7 @@
   },
   {
     "Package": "pick",
-    "Version": "4.0.0-3",
+    "Version": "4.0.0-4",
     "Description": "Utility to choose one option from a set of choices with fuzzy search functionality",
     "Homepage": "https://github.com/calleerlandsson/pick"
   },
@@ -14155,7 +14155,7 @@
   },
   {
     "Package": "range-v3",
-    "Version": "0.12.0",
+    "Version": "0.12.0-1",
     "Description": "Range library for C++14/17/20, basis for C++20s std::ranges",
     "Homepage": "https://github.com/ericniebler/range-v3"
   },
@@ -15901,7 +15901,7 @@
   },
   {
     "Package": "teleport-tsh",
-    "Version": "18.10.0",
+    "Version": "18.10.0-1",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
   },
@@ -16177,7 +16177,7 @@
   },
   {
     "Package": "tin-summer",
-    "Version": "1.21.14-1",
+    "Version": "1.21.14-2",
     "Description": "Find build artifacts that are taking up disk space",
     "Homepage": "https://github.com/vmchale/tin-summer"
   },
@@ -16789,13 +16789,13 @@
   },
   {
     "Package": "unixodbc",
-    "Version": "2.3.14",
+    "Version": "2.3.14-1",
     "Description": "An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX",
     "Homepage": "https://www.unixodbc.org/"
   },
   {
     "Package": "unixodbc-static",
-    "Version": "2.3.14",
+    "Version": "2.3.14-1",
     "Description": "Static libraries for unixodbc",
     "Homepage": "https://www.unixodbc.org/"
   },
@@ -17443,7 +17443,7 @@
   },
   {
     "Package": "wireguard-tools",
-    "Version": "1.0.20210914-3",
+    "Version": "1.0.20260223",
     "Description": "Tools for the WireGuard secure network tunnel",
     "Homepage": "https://www.wireguard.com"
   },
