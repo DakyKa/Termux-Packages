@@ -2209,7 +2209,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pnpm** | 12.8.0 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
+| **pnpm** | 12.8.1 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
 | **pocketbase** | 0.40.4 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **podofo** | 1.1.2 | A C++ library to work with the PDF file format | https://github.com/podofo/podofo |
 | **poke** | 5.0 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
@@ -2368,7 +2368,7 @@
 | **rage** | 0.12.1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.62.1 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.63.1 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0-1 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |

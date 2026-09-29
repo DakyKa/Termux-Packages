@@ -8795,7 +8795,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.8.0
+  Version: 12.8.1
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -9431,7 +9431,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.62.1
+  Version: 5.63.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3

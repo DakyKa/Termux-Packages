@@ -13195,7 +13195,7 @@
   },
   {
     "Package": "pnpm",
-    "Version": "12.8.0",
+    "Version": "12.8.1",
     "Description": "Fast, disk space efficient package manager for JavaScript",
     "Homepage": "https://pnpm.io"
   },
@@ -14149,7 +14149,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.62.1",
+    "Version": "5.63.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
