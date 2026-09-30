@@ -471,7 +471,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.37.5
+  Version: 2.37.6
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1063,11 +1063,11 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2026.9.3
+  Version: 2026.9.3-1
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
-  Version: 2.1.4
+  Version: 3.0.0
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clucene
@@ -2175,7 +2175,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.109
+  Version: 0.4.110
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2447,7 +2447,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.101.0
+  Version: 2.102.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -2487,7 +2487,7 @@
   Description: Simple user interface library used by Zathura
   Homepage: https://pwmt.org/projects/girara
 - Package: git
-  Version: 2.55.0
+  Version: 2.56.0
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-absorb
@@ -2519,11 +2519,11 @@
   Description: Little git extras.
   Homepage: https://github.com/tj/git-extras
 - Package: git-gitk
-  Version: 2.55.0
+  Version: 2.56.0
   Description: Git repository browser
   Homepage: https://git-scm.com/
 - Package: git-gui
-  Version: 2.55.0
+  Version: 2.56.0
   Description: A graphical interface to Git
   Homepage: https://git-scm.com/
 - Package: git-lfs
@@ -2535,7 +2535,7 @@
   Description: Compute various size metrics for a Git repository
   Homepage: https://github.com/github/git-sizer
 - Package: git-svn
-  Version: 2.55.0
+  Version: 2.56.0
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: git-town
@@ -2543,7 +2543,7 @@
   Description: Git branches made easy
   Homepage: https://www.git-town.com
 - Package: gitea
-  Version: 1.27.3
+  Version: 28.0.0
   Description: Git with a cup of tea, painless self-hosted git service
   Homepage: https://gitea.io
 - Package: gitflow-avh
@@ -2931,7 +2931,7 @@
   Description: GNU SASL library command line interface
   Homepage: https://www.gnu.org/software/gsasl
 - Package: gsf-tools
-  Version: 1.14.59
+  Version: 1.14.60
   Description: Command-line tools for libgsf
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: gsl
@@ -3611,7 +3611,7 @@
   Description: Key directory that maps social media identities to encryption keys
   Homepage: https://keybase.io
 - Package: keychain
-  Version: 3.0.5
+  Version: 3.0.6
   Description: Keychain manager for ssh-agent and gpg-agent
   Homepage: https://kernel-seeds.org/projects/keychain/
 - Package: kibi
@@ -4695,11 +4695,11 @@
   Description: Static libraries for libgsasl
   Homepage: https://www.gnu.org/software/gsasl
 - Package: libgsf
-  Version: 1.14.59
+  Version: 1.14.60
   Description: The G Structured File Library
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: libgsf-static
-  Version: 1.14.59
+  Version: 1.14.60
   Description: Static libraries for libgsf
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: libgtop
@@ -7903,7 +7903,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1755+geddadd7ab3-0
+  Version: 0.13.0~dev-1761+gd5e7c7e55c-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7935,7 +7935,7 @@
   Description: Static libraries for netcdf-c
   Homepage: https://www.unidata.ucar.edu/software/netcdf/
 - Package: nethack
-  Version: 3.6.7-2
+  Version: 5.0.0
   Description: Dungeon crawl game
   Homepage: http://www.nethack.org/
 - Package: netpbm
@@ -8795,7 +8795,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.8.1
+  Version: 12.8.2
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -11283,7 +11283,7 @@
   Description: Cross-platform Rust rewrite of the GNU coreutils
   Homepage: https://uutils.org/
 - Package: uv
-  Version: 0.12.20
+  Version: 0.12.21
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11383,7 +11383,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.2.1100
+  Version: 9.2.1150
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -11427,7 +11427,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.09.27
+  Version: 2026.09.28
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -11499,7 +11499,7 @@
   Description: Generate colors from an image
   Homepage: https://explosion-mental.codeberg.page/wallust
 - Package: wasi-libc
-  Version: 34+really33
+  Version: 34+really34
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
@@ -11771,7 +11771,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.2.1100
+  Version: 9.2.1150
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
@@ -11939,7 +11939,7 @@
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zrok2
-  Version: 2.0.5
+  Version: 2.0.6
   Description: An open source sharing solution built on OpenZiti
   Homepage: https://zrok.io/
 - Package: zsh
