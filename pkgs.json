@@ -811,7 +811,7 @@
   },
   {
     "Package": "bcal",
-    "Version": "2.5",
+    "Version": "2.6",
     "Description": "Command-line utility for storage conversions and calculations",
     "Homepage": "https://github.com/jarun/bcal"
   },
@@ -1213,7 +1213,7 @@
   },
   {
     "Package": "calc",
-    "Version": "2.17.0.1",
+    "Version": "2.17.0.2",
     "Description": "Arbitrary precision console calculator",
     "Homepage": "http://www.isthe.com/chongo/tech/comp/calc/"
   },
@@ -1501,7 +1501,7 @@
   },
   {
     "Package": "chroma-visualizer",
-    "Version": "0.0.0+g3c32e7d",
+    "Version": "0.0.0.20260922+g1b98379",
     "Description": "Shader-based audio visualizer for the terminal",
     "Homepage": "https://github.com/yuri-xyz/chroma.git"
   },
@@ -2635,7 +2635,7 @@
   },
   {
     "Package": "dua",
-    "Version": "2.45.0",
+    "Version": "2.45.1",
     "Description": "View disk space usage and delete unwanted data, fast",
     "Homepage": "https://github.com/Byron/dua-cli"
   },
@@ -3625,13 +3625,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.17.6",
+    "Version": "1.17.7",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.17.6",
+    "Version": "1.17.7",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -8539,13 +8539,13 @@
   },
   {
     "Package": "libpng",
-    "Version": "1.6.58",
+    "Version": "1.6.59",
     "Description": "Official PNG reference library",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
   {
     "Package": "libpng-static",
-    "Version": "1.6.58",
+    "Version": "1.6.59",
     "Description": "Static libraries for libpng",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
@@ -8815,7 +8815,7 @@
   },
   {
     "Package": "librtmidi",
-    "Version": "5.0.0-3",
+    "Version": "6.0.0",
     "Description": "A set of C++ classes that provides a common API for realtime MIDI input/output",
     "Homepage": "https://www.music.mcgill.ca/~gary/rtmidi/"
   },
@@ -10321,7 +10321,7 @@
   },
   {
     "Package": "lit",
-    "Version": "3.8.5-3",
+    "Version": "3.9.0",
     "Description": "Toolkit for developing, sharing, and running luvit/lua programs and libraries.",
     "Homepage": "https://luvit.io"
   },
@@ -11287,7 +11287,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.14",
+    "Version": "2026.9.15",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -13615,7 +13615,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "50.0.1",
+    "Version": "50.0.2",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
@@ -14491,7 +14491,7 @@
   },
   {
     "Package": "rpm",
-    "Version": "4.18.1-3",
+    "Version": "6.1.0",
     "Description": "RPM Package Manager",
     "Homepage": "https://rpm.org/"
   },
@@ -16225,7 +16225,7 @@
   },
   {
     "Package": "tinysparql",
-    "Version": "3.10.1-1",
+    "Version": "3.12.0",
     "Description": "Desktop-neutral metadata-based search framework",
     "Homepage": "https://gnome.pages.gitlab.gnome.org/tinysparql"
   },
