@@ -1551,7 +1551,7 @@
   Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
   Homepage: https://github.com/doctest/doctest
 - Package: doctl
-  Version: 1.175.0
+  Version: 1.176.0
   Description: The official command line interface for the DigitalOcean API
   Homepage: https://github.com/digitalocean/doctl
 - Package: doge
@@ -1991,7 +1991,7 @@
   Description: A modern replacement for ls
   Homepage: https://github.com/eza-community/eza
 - Package: faad2
-  Version: 2.11.3
+  Version: 2.11.4
   Description: Freeware Advanced Audio (AAC) Decoder
   Homepage: https://github.com/knik0/faad2
 - Package: fact++
@@ -2627,11 +2627,11 @@
   Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
   Homepage: https://www.eblong.com/zarf/glulx/
 - Package: gmic
-  Version: 3.7.2
+  Version: 4.0.5
   Description: Full-featured framework for image processing
   Homepage: https://gmic.eu
 - Package: gmic-gm
-  Version: 3.7.2
+  Version: 4.0.5
   Description: Full-featured framework for image processing (GraphicsMagick variant)
   Homepage: https://gmic.eu
 - Package: gn
@@ -3407,11 +3407,11 @@
   Description: IMAP and MailDir mailbox synchronizer
   Homepage: http://isync.sourceforge.net
 - Package: iverilog
-  Version: 12.0-1
+  Version: "13.0"
   Description: Icarus Verilog compiler and simulation tool
   Homepage: http://iverilog.icarus.com/
 - Package: iverilog-static
-  Version: 12.0-1
+  Version: "13.0"
   Description: Static libraries for iverilog
   Homepage: http://iverilog.icarus.com/
 - Package: iwyu
@@ -4115,7 +4115,7 @@
   Description: Static libraries for libcec
   Homepage: https://libcec.pulse-eight.com/
 - Package: libceres-solver
-  Version: 2.2.0-4
+  Version: 2.2.0-5
   Description: C++ library for modeling and solving large, complicated optimization problems
   Homepage: http://ceres-solver.org
 - Package: libchipmunk
@@ -6035,7 +6035,7 @@
   Description: Static libraries for libsoundtouch
   Homepage: https://www.surina.net/soundtouch/
 - Package: libsoup3
-  Version: 3.6.6
+  Version: 3.8.0
   Description: HTTP client and server library
   Homepage: https://libsoup.gnome.org/libsoup-3.0/
 - Package: libsoxr
@@ -7071,7 +7071,7 @@
   Description: Static libraries for lua53
   Homepage: https://www.lua.org/
 - Package: lua54
-  Version: 5.4.8-10
+  Version: 5.4.9
   Description: Lua scripting language 5.4.x
   Homepage: https://www.lua.org/
 - Package: lua54-lpeg
@@ -7079,7 +7079,7 @@
   Description: Pattern-matching library for Lua 5.4
   Homepage: https://www.inf.puc-rio.br/~roberto/lpeg
 - Package: lua54-static
-  Version: 5.4.8-10
+  Version: 5.4.9
   Description: Static libraries for lua54
   Homepage: https://www.lua.org/
 - Package: lua55
@@ -7375,7 +7375,7 @@
   Description: Static libraries for mdbtools
   Homepage: https://github.com/mdbtools/mdbtools
 - Package: mdcat
-  Version: 2.17.0
+  Version: 2.18.0
   Description: 'Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal'
   Homepage: https://github.com/BIRSAx2/mdcat
 - Package: mdds
@@ -11515,7 +11515,7 @@
   Description: A lightweight, high-performance, and extensible WebAssembly runtime
   Homepage: https://wasmedge.org/
 - Package: wasmer
-  Version: 7.4.2
+  Version: 7.5.0
   Description: A fast and secure WebAssembly runtime
   Homepage: https://wasmer.io/
 - Package: wasmtime

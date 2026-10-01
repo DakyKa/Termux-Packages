@@ -2329,7 +2329,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.175.0",
+    "Version": "1.176.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -2989,7 +2989,7 @@
   },
   {
     "Package": "faad2",
-    "Version": "2.11.3",
+    "Version": "2.11.4",
     "Description": "Freeware Advanced Audio (AAC) Decoder",
     "Homepage": "https://github.com/knik0/faad2"
   },
@@ -3943,13 +3943,13 @@
   },
   {
     "Package": "gmic",
-    "Version": "3.7.2",
+    "Version": "4.0.5",
     "Description": "Full-featured framework for image processing",
     "Homepage": "https://gmic.eu"
   },
   {
     "Package": "gmic-gm",
-    "Version": "3.7.2",
+    "Version": "4.0.5",
     "Description": "Full-featured framework for image processing (GraphicsMagick variant)",
     "Homepage": "https://gmic.eu"
   },
@@ -5113,13 +5113,13 @@
   },
   {
     "Package": "iverilog",
-    "Version": "12.0-1",
+    "Version": "13.0",
     "Description": "Icarus Verilog compiler and simulation tool",
     "Homepage": "http://iverilog.icarus.com/"
   },
   {
     "Package": "iverilog-static",
-    "Version": "12.0-1",
+    "Version": "13.0",
     "Description": "Static libraries for iverilog",
     "Homepage": "http://iverilog.icarus.com/"
   },
@@ -6175,7 +6175,7 @@
   },
   {
     "Package": "libceres-solver",
-    "Version": "2.2.0-4",
+    "Version": "2.2.0-5",
     "Description": "C++ library for modeling and solving large, complicated optimization problems",
     "Homepage": "http://ceres-solver.org"
   },
@@ -9055,7 +9055,7 @@
   },
   {
     "Package": "libsoup3",
-    "Version": "3.6.6",
+    "Version": "3.8.0",
     "Description": "HTTP client and server library",
     "Homepage": "https://libsoup.gnome.org/libsoup-3.0/"
   },
@@ -10609,7 +10609,7 @@
   },
   {
     "Package": "lua54",
-    "Version": "5.4.8-10",
+    "Version": "5.4.9",
     "Description": "Lua scripting language 5.4.x",
     "Homepage": "https://www.lua.org/"
   },
@@ -10621,7 +10621,7 @@
   },
   {
     "Package": "lua54-static",
-    "Version": "5.4.8-10",
+    "Version": "5.4.9",
     "Description": "Static libraries for lua54",
     "Homepage": "https://www.lua.org/"
   },
@@ -11065,7 +11065,7 @@
   },
   {
     "Package": "mdcat",
-    "Version": "2.17.0",
+    "Version": "2.18.0",
     "Description": "Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal",
     "Homepage": "https://github.com/BIRSAx2/mdcat"
   },
@@ -17275,7 +17275,7 @@
   },
   {
     "Package": "wasmer",
-    "Version": "7.4.2",
+    "Version": "7.5.0",
     "Description": "A fast and secure WebAssembly runtime",
     "Homepage": "https://wasmer.io/"
   },

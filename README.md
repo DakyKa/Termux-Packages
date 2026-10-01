@@ -398,7 +398,7 @@
 | **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
 | **docopt-static** | 0.6.3-4 | Static libraries for docopt | http://docopt.org |
 | **doctest** | 2.5.3 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
-| **doctl** | 1.175.0 | The official command line interface for the DigitalOcean API | https://github.com/digitalocean/doctl |
+| **doctl** | 1.176.0 | The official command line interface for the DigitalOcean API | https://github.com/digitalocean/doctl |
 | **doge** | 0.2.9 | A command-line DNS client | https://github.com/Dj-Codeman/dog_community |
 | **doggo** | 1.4.0 | Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt | https://github.com/mr-karan/doggo |
 | **dopewars** | 1.6.2-1 | Drug-dealing game set in streets of New York City | https://dopewars.sourceforge.io |
@@ -508,7 +508,7 @@
 | **exiv2** | 2:0.28.9 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-4 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.23.5 | A modern replacement for ls | https://github.com/eza-community/eza |
-| **faad2** | 2.11.3 | Freeware Advanced Audio (AAC) Decoder | https://github.com/knik0/faad2 |
+| **faad2** | 2.11.4 | Freeware Advanced Audio (AAC) Decoder | https://github.com/knik0/faad2 |
 | **fact++** | 1.6.5-3 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 2.1.4 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 2.1.4 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -667,8 +667,8 @@
 | **glslang** | 16.6.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **gluelang** | 0.2.0-2 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.6.1-1 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
-| **gmic** | 3.7.2 | Full-featured framework for image processing | https://gmic.eu |
-| **gmic-gm** | 3.7.2 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
+| **gmic** | 4.0.5 | Full-featured framework for image processing | https://gmic.eu |
+| **gmic-gm** | 4.0.5 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
 | **gn** | 20260521 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
 | **gnucap** | 20210107-4 | The Gnu Circuit Analysis Package | https://www.gnu.org/software/gnucap/gnucap.html |
 | **gnuchess** | 6.3.0 | Chess-playing program | https://www.gnu.org/software/chess/ |
@@ -862,8 +862,8 @@
 | **iredis** | 1.16.1-2 | Interactive CLI for Redis with auto-completion and syntax highlighting | https://iredis.xbin.io |
 | **irssi** | 1.4.5-5 | Terminal based IRC client | https://irssi.org/ |
 | **isync** | 1.5.1-1 | IMAP and MailDir mailbox synchronizer | http://isync.sourceforge.net |
-| **iverilog** | 12.0-1 | Icarus Verilog compiler and simulation tool | http://iverilog.icarus.com/ |
-| **iverilog-static** | 12.0-1 | Static libraries for iverilog | http://iverilog.icarus.com/ |
+| **iverilog** | 13.0 | Icarus Verilog compiler and simulation tool | http://iverilog.icarus.com/ |
+| **iverilog-static** | 13.0 | Static libraries for iverilog | http://iverilog.icarus.com/ |
 | **iwyu** | 0.25-2 | A tool to analyze #includes in C and C++ source files | https://include-what-you-use.org/ |
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
@@ -1039,7 +1039,7 @@
 | **libcdr-static** | 0.1.9 | Static libraries for libcdr | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
 | **libcec** | 8.1.7 | Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware | https://libcec.pulse-eight.com/ |
 | **libcec-static** | 8.1.7 | Static libraries for libcec | https://libcec.pulse-eight.com/ |
-| **libceres-solver** | 2.2.0-4 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
+| **libceres-solver** | 2.2.0-5 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
 | **libchipmunk** | 7.0.3-2 | A fast and lightweight 2D game physics library | http://chipmunk2d.net |
 | **libchromaprint** | 1.6.1 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
 | **libclc** | 21.1.3-1 | Open source implementation of the library requirements of the OpenCL C programming language | https://libclc.llvm.org/ |
@@ -1519,7 +1519,7 @@
 | **libsophia-static** | 2.2-1 | Static libraries for libsophia | http://sophia.systems/ |
 | **libsoundtouch** | 2.4.1 | An open-source audio processing library for changing the Tempo, Pitch and Playback Rates of audio streams or files | https://www.surina.net/soundtouch/ |
 | **libsoundtouch-static** | 2.4.1 | Static libraries for libsoundtouch | https://www.surina.net/soundtouch/ |
-| **libsoup3** | 3.6.6 | HTTP client and server library | https://libsoup.gnome.org/libsoup-3.0/ |
+| **libsoup3** | 3.8.0 | HTTP client and server library | https://libsoup.gnome.org/libsoup-3.0/ |
 | **libsoxr** | 0.1.3-8 | High quality, one-dimensional sample-rate conversion library | https://sourceforge.net/projects/soxr/ |
 | **libspatialindex** | 2.1.0-1 | C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API | https://libspatialindex.github.io |
 | **libspatialite** | 5.1.0-3 | SQLite extension to support spatial data types and operations | https://www.gaia-gis.it/fossil/libspatialite |
@@ -1778,9 +1778,9 @@
 | **lua53** | 5.3.6-10 | Lua scripting language 5.3.x | https://www.lua.org/ |
 | **lua53-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.3 | https://www.inf.puc-rio.br/~roberto/lpeg |
 | **lua53-static** | 5.3.6-10 | Static libraries for lua53 | https://www.lua.org/ |
-| **lua54** | 5.4.8-10 | Lua scripting language 5.4.x | https://www.lua.org/ |
+| **lua54** | 5.4.9 | Lua scripting language 5.4.x | https://www.lua.org/ |
 | **lua54-lpeg** | 1.1.0-6 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
-| **lua54-static** | 5.4.8-10 | Static libraries for lua54 | https://www.lua.org/ |
+| **lua54-static** | 5.4.9 | Static libraries for lua54 | https://www.lua.org/ |
 | **lua55** | 5.5.1-1 | Lua scripting language 5.5.x | https://www.lua.org/ |
 | **lua55-static** | 5.5.1-1 | Static libraries for lua55 | https://www.lua.org/ |
 | **luajit** | 1:2.1.1788856981+gc6ffc14 | Just-In-Time Compiler for Lua | https://luajit.org/ |
@@ -1854,7 +1854,7 @@
 | **mdbook-toc** | 0.15.4 | A preprocessor for mdbook to add inline Table of Contents support | https://github.com/badboy/mdbook-toc |
 | **mdbtools** | 1.0.1-1 | A set of programs to help you extract data from Microsoft Access files in various settings | https://github.com/mdbtools/mdbtools |
 | **mdbtools-static** | 1.0.1-1 | Static libraries for mdbtools | https://github.com/mdbtools/mdbtools |
-| **mdcat** | 2.17.0 | Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal | https://github.com/BIRSAx2/mdcat |
+| **mdcat** | 2.18.0 | Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal | https://github.com/BIRSAx2/mdcat |
 | **mdds** | 3.2.1 | A collection of multi-dimensional data structures and indexing algorithms | https://gitlab.com/mdds/mdds |
 | **mdf2iso** | 0.3.1 | Small utility that converts MDF images to ISO format | https://salsa.debian.org/debian/mdf2iso |
 | **mdns-scan** | 0.5-3 | A tool for scanning for mDNS/DNS-SD services published on the local network | https://github.com/alteholz/mdns-scan |
@@ -2889,7 +2889,7 @@
 | **wasi-libc** | 34+really34 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.30 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge** | 0.17.1 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
-| **wasmer** | 7.4.2 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
+| **wasmer** | 7.5.0 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
 | **wasmtime** | 49.0.1 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
 | **watchexec** | 2.7.3 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.9.0 | WavPack command-line programs | https://www.wavpack.com/ |
