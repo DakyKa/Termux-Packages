@@ -259,7 +259,7 @@
   },
   {
     "Package": "ansifilter",
-    "Version": "2.23",
+    "Version": "2.24",
     "Description": "Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode",
     "Homepage": "http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php"
   },
@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.37.6",
+    "Version": "2.37.7",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -727,7 +727,7 @@
   },
   {
     "Package": "azure-dev-cli",
-    "Version": "1.34.2",
+    "Version": "1.35.0",
     "Description": "Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)",
     "Homepage": "https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/"
   },
@@ -1375,7 +1375,7 @@
   },
   {
     "Package": "ccextractor",
-    "Version": "0.96.6",
+    "Version": "0.96.6-1",
     "Description": "A tool used to produce subtitles for TV recordings",
     "Homepage": "https://ccextractor.org/"
   },
@@ -2257,7 +2257,7 @@
   },
   {
     "Package": "dnscontrol",
-    "Version": "5.2.0",
+    "Version": "5.3.0",
     "Description": "Infrastructure as code for DNS!",
     "Homepage": "https://dnscontrol.org/"
   },
@@ -2766,6 +2766,12 @@
     "Homepage": "http://eigen.tuxfamily.org"
   },
   {
+    "Package": "eigen3",
+    "Version": "3.4.1",
+    "Description": "Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms (Version 3)",
+    "Homepage": "http://eigen.tuxfamily.org"
+  },
+  {
     "Package": "eja",
     "Version": "18.4.19-1",
     "Description": "eja micro web server",
@@ -3265,7 +3271,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.110",
+    "Version": "0.4.111",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4243,13 +4249,13 @@
   },
   {
     "Package": "gpac",
-    "Version": "2.4.0-5",
+    "Version": "26.07.0",
     "Description": "An open-source multimedia framework focused on modularity and standards compliance",
     "Homepage": "https://gpac.wp.imt.fr/"
   },
   {
     "Package": "gpac-static",
-    "Version": "2.4.0-5",
+    "Version": "26.07.0",
     "Description": "Static libraries for gpac",
     "Homepage": "https://gpac.wp.imt.fr/"
   },
@@ -8749,13 +8755,13 @@
   },
   {
     "Package": "librevenge",
-    "Version": "0.0.5-4",
+    "Version": "0.0.6",
     "Description": "library for REVerses ENGineered formats filters",
     "Homepage": "https://sf.net/p/libwpd/librevenge/"
   },
   {
     "Package": "librevenge-static",
-    "Version": "0.0.5-4",
+    "Version": "0.0.6",
     "Description": "Static libraries for librevenge",
     "Homepage": "https://sf.net/p/libwpd/librevenge/"
   },
@@ -10669,7 +10675,7 @@
   },
   {
     "Package": "luv",
-    "Version": "1.52.1-0-0",
+    "Version": "1.53.0-0-0",
     "Description": "Bare libuv bindings for lua",
     "Homepage": "https://github.com/luvit/luv"
   },
@@ -11137,31 +11143,31 @@
   },
   {
     "Package": "mesa",
-    "Version": "26.2.3",
+    "Version": "26.2.3-1",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "26.2.3",
+    "Version": "26.2.3-1",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "26.2.3",
+    "Version": "26.2.3-1",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "26.2.3",
+    "Version": "26.2.3-1",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-virtio",
-    "Version": "26.2.3",
+    "Version": "26.2.3-1",
     "Description": "Mesas VirtIO Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -11857,7 +11863,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1761+gd5e7c7e55c-0",
+    "Version": "0.13.0~dev-1782+gdce927183c-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12361,7 +12367,7 @@
   },
   {
     "Package": "opencolorio",
-    "Version": "2.5.2",
+    "Version": "2.6.0",
     "Description": "A color management framework for visual effects and animation",
     "Homepage": "https://opencolorio.org"
   },
@@ -12529,19 +12535,19 @@
   },
   {
     "Package": "openssl",
-    "Version": "1:3.6.3",
+    "Version": "1:3.6.5",
     "Description": "Library implementing the SSL and TLS protocols as well as general purpose cryptography functions",
     "Homepage": "https://www.openssl.org/"
   },
   {
     "Package": "openssl-static",
-    "Version": "1:3.6.3",
+    "Version": "1:3.6.5",
     "Description": "Static libraries for openssl",
     "Homepage": "https://www.openssl.org/"
   },
   {
     "Package": "openssl-tool",
-    "Version": "1:3.6.3",
+    "Version": "1:3.6.5",
     "Description": "The openssl command line cryptographic tool",
     "Homepage": "https://www.openssl.org/"
   },
@@ -13771,7 +13777,7 @@
   },
   {
     "Package": "python-rpds-py",
-    "Version": "2026.6.3",
+    "Version": "2026.9.1",
     "Description": "Python bindings to Rusts persistent data structures (rpds)",
     "Homepage": "https://github.com/crate-py/rpds"
   },
@@ -13813,7 +13819,7 @@
   },
   {
     "Package": "python-tflite-runtime",
-    "Version": "2.20.0-4",
+    "Version": "2.21.0",
     "Description": "TensorFlow Lite Python bindings",
     "Homepage": "https://www.tensorflow.org/lite"
   },
@@ -15505,13 +15511,13 @@
   },
   {
     "Package": "stfl",
-    "Version": "0.24-7",
+    "Version": "0.24-8",
     "Description": "Structured Terminal Forms Language/Library",
     "Homepage": "http://www.clifford.at/stfl"
   },
   {
     "Package": "stfl-static",
-    "Version": "0.24-7",
+    "Version": "0.24-8",
     "Description": "Static libraries for stfl",
     "Homepage": "http://www.clifford.at/stfl"
   },
@@ -16117,7 +16123,7 @@
   },
   {
     "Package": "thrift",
-    "Version": "0.24.0-1",
+    "Version": "0.25.0",
     "Description": "Scalable cross-language services framework for IPC/RPC",
     "Homepage": "https://thrift.apache.org"
   },
@@ -17143,7 +17149,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.09.28",
+    "Version": "2026.09.29",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
