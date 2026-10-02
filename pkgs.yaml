@@ -7751,7 +7751,7 @@
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: mycli
-  Version: 2.27.0
+  Version: 2.28.0
   Description: CLI for MySQL/MariaDB with auto-completion and syntax highlighting
   Homepage: https://mycli.net
 - Package: myman
@@ -11511,7 +11511,7 @@
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge
-  Version: 0.17.1
+  Version: 0.17.2
   Description: A lightweight, high-performance, and extensible WebAssembly runtime
   Homepage: https://wasmedge.org/
 - Package: wasmer
