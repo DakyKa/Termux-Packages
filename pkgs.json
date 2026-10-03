@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.37.8",
+    "Version": "2.37.9",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1207,7 +1207,7 @@
   },
   {
     "Package": "caddy",
-    "Version": "2.11.6",
+    "Version": "2.11.7",
     "Description": "Fast, cross-platform HTTP/2 web server",
     "Homepage": "https://caddyserver.com/"
   },
@@ -1261,7 +1261,7 @@
   },
   {
     "Package": "cargo-binstall",
-    "Version": "1.24.0",
+    "Version": "1.25.0",
     "Description": "Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem",
     "Homepage": "https://github.com/cargo-bins/cargo-binstall"
   },
@@ -1285,7 +1285,7 @@
   },
   {
     "Package": "cargo-leptos",
-    "Version": "0.3.10",
+    "Version": "0.3.11",
     "Description": "Build tool for the Rust framework Leptos",
     "Homepage": "https://github.com/leptos-rs/cargo-leptos"
   },
@@ -4099,7 +4099,7 @@
   },
   {
     "Package": "goimports",
-    "Version": "0.50.0",
+    "Version": "0.51.0",
     "Description": "Updates Go import lines, adding missing ones and removing unreferenced ones",
     "Homepage": "https://pkg.go.dev/golang.org/x/tools/cmd/goimports"
   },
@@ -10663,7 +10663,7 @@
   },
   {
     "Package": "luau",
-    "Version": "0.740",
+    "Version": "0.741",
     "Description": "A small, fast, and embeddable programming language based on Lua with a gradual type system.",
     "Homepage": "https://github.com/luau-lang/luau"
   },
@@ -10777,7 +10777,7 @@
   },
   {
     "Package": "mailpit",
-    "Version": "1.31.3",
+    "Version": "1.31.4",
     "Description": "An email and SMTP testing tool with API for developers",
     "Homepage": "https://mailpit.axllent.org"
   },
@@ -11347,7 +11347,7 @@
   },
   {
     "Package": "monero",
-    "Version": "0.18.5.1-2",
+    "Version": "0.18.5.3",
     "Description": "A private, secure, untraceable, decentralised digital currency",
     "Homepage": "https://getmonero.org/"
   },
@@ -11863,7 +11863,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1788+g09e4491a53-0",
+    "Version": "0.13.0~dev-1793+g1dc9728dbd-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13201,7 +13201,7 @@
   },
   {
     "Package": "pnpm",
-    "Version": "12.8.2",
+    "Version": "12.9.0",
     "Description": "Fast, disk space efficient package manager for JavaScript",
     "Homepage": "https://pnpm.io"
   },
@@ -16285,7 +16285,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.12.2",
+    "Version": "17.12.3",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -17917,7 +17917,7 @@
   },
   {
     "Package": "zrok2",
-    "Version": "2.0.6",
+    "Version": "2.0.7",
     "Description": "An open source sharing solution built on OpenZiti",
     "Homepage": "https://zrok.io/"
   },
