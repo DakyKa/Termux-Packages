@@ -280,8 +280,8 @@
 | **clpeak** | 3.0.0 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clucene** | 2.3.3.4-8 | C++ port of the high-performance text search engine Lucene | http://clucene.sourceforge.net/ |
 | **clvk** | 0.0.20260707.165306 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 4.4.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 4.4.3 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 4.4.4 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 4.4.4 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.2-1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
 | **cmocka** | 2.0.2 | cmocka is an unit testing framework for C | https://cmocka.org/ |
