@@ -277,7 +277,7 @@
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20250722 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
 | **cloudflared** | 2026.9.3-1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
-| **clpeak** | 3.0.0 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
+| **clpeak** | 3.0.1 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clucene** | 2.3.3.4-8 | C++ port of the high-performance text search engine Lucene | http://clucene.sourceforge.net/ |
 | **clvk** | 0.0.20260920.101658 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 4.4.4 | Family of tools designed to build, test and package software | https://cmake.org/ |
@@ -346,7 +346,7 @@
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
 | **dart** | 3.13.5 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 3.11.2 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
-| **dash** | 0.5.12-2 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
+| **dash** | 0.5.13.5 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.17 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
 | **datamash** | 1.9-1 | Program performing numeric, textual and statistical operations | https://www.gnu.org/software/datamash/ |
 | **dateutils** | 0.4.12 | Command line date and time utilities | https://www.fresse.org/dateutils/ |
@@ -1892,7 +1892,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.10.1 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.10.2 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkcert** | 1.4.4 | A simple zero-config tool to make locally trusted development certificates | https://github.com/FiloSottile/mkcert |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
@@ -2052,8 +2052,8 @@
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **ollama** | 0.31.1 | Get up and running with large language models | https://ollama.com/ |
-| **ollama-backend-vulkan** | 0.31.1 | Vulkan Backend for Ollama | https://ollama.com/ |
+| **ollama** | 0.35.1 | Get up and running with large language models | https://ollama.com/ |
+| **ollama-backend-vulkan** | 0.35.1 | Vulkan Backend for Ollama | https://ollama.com/ |
 | **oma** | 1.27.9 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 2.28.1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
@@ -2277,7 +2277,7 @@
 | **python-apt** | 3.1.0-2 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 5.0.0-3 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-brotli** | 1.2.0-2 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
-| **python-cmake** | 4.4.3 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
+| **python-cmake** | 4.4.4 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.4.0 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
 | **python-crc32c** | 2.9.post0+really2.8 | Python package implementing the crc32c checksum algorithm in hardware and software | https://github.com/ICRAR/crc32c |
 | **python-cryptography** | 50.0.2 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
@@ -2627,7 +2627,7 @@
 | **surfraw** | 2.3.0-10 | Shell Users' Revolutionary Front Rage Against the Web | https://gitlab.com/surfraw/Surfraw |
 | **svt-av1** | 4.2.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
-| **swi-prolog** | 10.1.16 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
+| **swi-prolog** | 10.1.17 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
 | **swift** | 6.4.0 | Swift is a high-performance system programming language | https://swift.org/ |
 | **swift-runtime-aarch64** | 6.4.0 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
 | **swift-runtime-arm** | 6.4.0 | Swift runtime libraries for Android armv7 | https://swift.org/ |

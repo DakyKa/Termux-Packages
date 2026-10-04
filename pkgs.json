@@ -1603,7 +1603,7 @@
   },
   {
     "Package": "clpeak",
-    "Version": "3.0.0",
+    "Version": "3.0.1",
     "Description": "A tool which profiles OpenCL devices to find their peak capacities",
     "Homepage": "https://github.com/krrishnarraj/clpeak"
   },
@@ -2017,7 +2017,7 @@
   },
   {
     "Package": "dash",
-    "Version": "0.5.12-2",
+    "Version": "0.5.13.5",
     "Description": "Small POSIX-compliant implementation of /bin/sh",
     "Homepage": "http://gondor.apana.org.au/~herbert/dash/"
   },
@@ -11293,7 +11293,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.10.1",
+    "Version": "2026.10.2",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -12253,13 +12253,13 @@
   },
   {
     "Package": "ollama",
-    "Version": "0.31.1",
+    "Version": "0.35.1",
     "Description": "Get up and running with large language models",
     "Homepage": "https://ollama.com/"
   },
   {
     "Package": "ollama-backend-vulkan",
-    "Version": "0.31.1",
+    "Version": "0.35.1",
     "Description": "Vulkan Backend for Ollama",
     "Homepage": "https://ollama.com/"
   },
@@ -13603,7 +13603,7 @@
   },
   {
     "Package": "python-cmake",
-    "Version": "4.4.3",
+    "Version": "4.4.4",
     "Description": "Python wrapper for CMake",
     "Homepage": "https://cmake-python-distributions.readthedocs.io/"
   },
@@ -15703,7 +15703,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "10.1.16",
+    "Version": "10.1.17",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
