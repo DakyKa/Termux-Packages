@@ -264,7 +264,7 @@
 | **clinfo** | 3.1.26.09.26 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20250722 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
-| **cloudflared** | 2026.9.3-1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
+| **cloudflared** | 2026.10.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 3.0.1 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clucene** | 2.3.3.4-8 | C++ port of the high-performance text search engine Lucene | http://clucene.sourceforge.net/ |
 | **clvk** | 0.0.20260920.101658 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
@@ -594,7 +594,7 @@
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbserver** | 18.1-1 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.44.8 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
-| **gdu** | 5.37.0 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
+| **gdu** | 5.38.0 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
 | **geckodriver** | 0.37.1 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.4.0 | Generic Constraint Development Environment | https://www.gecode.dev/ |
 | **gegl** | 0.4.72 | Data flow based image processing framework | https://gegl.org/ |
@@ -1115,8 +1115,8 @@
 | **libevent** | 2.1.13 | Library that provides asynchronous event notification | https://libevent.org/ |
 | **libexif** | 0.6.26 | Library for reading and writing EXIF image metadata | https://libexif.github.io/ |
 | **libexif-static** | 0.6.26 | Static libraries for libexif | https://libexif.github.io/ |
-| **libexpat** | 2.8.5 | XML parsing C library | https://libexpat.github.io/ |
-| **libexpat-static** | 2.8.5 | Static libraries for libexpat | https://libexpat.github.io/ |
+| **libexpat** | 2.9.0 | XML parsing C library | https://libexpat.github.io/ |
+| **libexpat-static** | 2.9.0 | Static libraries for libexpat | https://libexpat.github.io/ |
 | **libexttextcat** | 3.4.8 | N-Gram-Based Text Categorization library primarily intended for language guessing | https://wiki.documentfoundation.org/Libexttextcat |
 | **libexttextcat-static** | 3.4.8 | Static libraries for libexttextcat | https://wiki.documentfoundation.org/Libexttextcat |
 | **libfann** | 2.2.0-2 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
@@ -1185,8 +1185,8 @@
 | **libharu** | 2.4.6 | Free, cross platform, open source library for generating PDF files | http://libharu.org/ |
 | **libhdf5** | 2.2.0 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 2.2.0 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
-| **libheif** | 1.23.5 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
-| **libheif-progs** | 1.23.5 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
+| **libheif** | 1.23.6 | HEIF (HEIC/AVIF) image encoding and decoding library | https://github.com/strukturag/libheif |
+| **libheif-progs** | 1.23.6 | Programs for manipulating HEIF (HEIC/AVIF) image files | https://github.com/strukturag/libheif |
 | **libhiredis** | 1.4.1 | Hiredis is a minimalistic C client library for the Redis database | https://redis.com/lp/hiredis |
 | **libhtmlcxx** | 0.87-5 | A simple non-validating css1 and html parser for C++ | https://htmlcxx.sourceforge.net/ |
 | **libhtmlcxx-static** | 0.87-5 | Static libraries for libhtmlcxx | https://htmlcxx.sourceforge.net/ |
@@ -1569,9 +1569,9 @@
 | **libtommath** | 1.3.0 | A free open source portable number theoretic multiple-precision integer library | https://www.libtom.net/LibTomMath/ |
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.6.2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
-| **libtorrent** | 0.16.24 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent** | 0.16.25 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
 | **libtorrent-rasterbar** | 2.1.2 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
-| **libtorrent-static** | 0.16.24 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent-static** | 0.16.25 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.10.2 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.10.2 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.4-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
@@ -1804,7 +1804,7 @@
 | **mangal** | 4.0.6-3 | Cli manga downloader | https://github.com/metafates/mangal |
 | **manim** | 0.21.0-1 | A community-maintained Python framework for creating mathematical animations | https://manim.community |
 | **manpages** | 6.19 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
-| **mapserver** | 8.2.2-4 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
+| **mapserver** | 8.6.6 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
 | **mariadb** | 2:13.0.2 | A drop-in replacement for mysql server | https://mariadb.org |
 | **mariadb-static** | 2:13.0.2 | Static libraries for mariadb | https://mariadb.org |
 | **marisa** | 0.3.1-1 | Matching Algorithm with Recursively Implemented StorAge | https://github.com/s-yata/marisa-trie |
@@ -1880,7 +1880,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.10.2 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.10.3 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkcert** | 1.4.4 | A simple zero-config tool to make locally trusted development certificates | https://github.com/FiloSottile/mkcert |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
@@ -2106,9 +2106,9 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxfmt** | 1.86.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxfmt** | 1.87.0 | Oxc JavaScript formatter | https://oxc.rs/ |
 | **oxipng** | 10.2.1 | Multithreaded PNG optimizer written in Rust | https://github.com/oxipng/oxipng |
-| **oxlint** | 1.86.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxlint** | 1.87.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.26.5 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **pacman** | 7.1.0-9 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-6 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
@@ -2422,7 +2422,7 @@
 | **rsync** | 3.5.1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6-1 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
-| **rtorrent** | 0.16.24 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
+| **rtorrent** | 0.16.25 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
 | **rubberband** | 4.0.0-1 | An audio time-stretching and pitch-shifting library and utility program | https://breakfastquay.com/rubberband/ |
 | **rubberband-ladspa** | 4.0.0-1 | LADSPA plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
 | **rubberband-lv2** | 4.0.0-1 | LV2 plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
@@ -2436,7 +2436,7 @@
 | **runit-static** | 2.3.1 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.11.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.99.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20260928 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20261005 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.73.2 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.99.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.99.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2805,7 +2805,7 @@
 | **unzip** | 6.0-10 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **up** | 0.4-4 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |
 | **update-info-dir** | 7.3 | Update or create index file from all installed info files in directory | https://www.gnu.org/software/texinfo/ |
-| **upower** | 1.91.4 | Power management support for DeviceKit | https://upower.freedesktop.org/ |
+| **upower** | 1.91.5 | Power management support for DeviceKit | https://upower.freedesktop.org/ |
 | **upx** | 5.2.1 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 6.0.1 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 3.0.1 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
