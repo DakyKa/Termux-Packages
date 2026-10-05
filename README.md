@@ -475,7 +475,7 @@
 | **eja** | 18.4.19-1 | eja micro web server | https://github.com/eja/eja |
 | **electric-fence** | 2.2.7-1 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
 | **electric-fence-static** | 2.2.7-1 | Static libraries for electric-fence | https://elinux.org/Electric_Fence |
-| **electrum** | 4.7.1-1 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
+| **electrum** | 4.8.2 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.196 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.20.0 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
 | **elixir** | 1.20.4 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
@@ -639,7 +639,7 @@
 | **git-cliff** | 2.14.2 | A highly customizable changelog generator that follows Conventional Commit specifications | https://git-cliff.org |
 | **git-credential-manager** | 2.9.1 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
 | **git-crypt** | 0.8.0 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
-| **git-delta** | 0.20.0 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
+| **git-delta** | 0.20.1 | A syntax-highlighter for git and diff output | https://dandavison.github.io/delta/ |
 | **git-extras** | 7.5.0 | Little git extras. | https://github.com/tj/git-extras |
 | **git-gitk** | 2.56.0 | Git repository browser | https://git-scm.com/ |
 | **git-gui** | 2.56.0 | A graphical interface to Git | https://git-scm.com/ |
@@ -845,8 +845,8 @@
 | **inetutils** | 2.8-1 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
 | **influxdb** | 1.8.10-4 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
 | **innoextract** | 1.9-11 | A tool to unpack installers created by Inno Setup | https://constexpr.org/innoextract/ |
-| **inotify-tools** | 4.26.262 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
-| **inotify-tools-static** | 4.26.262 | Static libraries for inotify-tools | https://github.com/rvoicilas/inotify-tools/wiki |
+| **inotify-tools** | 4.26.268 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
+| **inotify-tools-static** | 4.26.268 | Static libraries for inotify-tools | https://github.com/rvoicilas/inotify-tools/wiki |
 | **inshellisense** | 0.0.4 | IDE style command line auto complete | https://github.com/microsoft/inshellisense |
 | **intltool** | 0.51.0-4 | The internationalization tool collection | https://launchpad.net/intltool |
 | **inxi** | 3.3.41-1-0 | Full featured CLI system information tool | https://smxi.org/site/about.htm#inxi |
@@ -868,7 +868,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.2685 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.2793 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.6 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.6 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.42.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1054,7 +1054,7 @@
 | **libcoinor-osi-static** | 1:0.108.12 | Static libraries for libcoinor-osi | https://github.com/coin-or/Osi |
 | **libcoinor-utils** | 1:2.11.13 | An open-source collection of classes and helper functions for COIN-OR projects | https://github.com/coin-or/CoinUtils |
 | **libcoinor-utils-static** | 1:2.11.13 | Static libraries for libcoinor-utils | https://github.com/coin-or/CoinUtils |
-| **libcommons-lang3-java** | 3.20.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
+| **libcommons-lang3-java** | 3.21.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
 | **libcompiler-rt** | 21.1.8-3 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
 | **libconfig** | 1.8.2 | C/C++ Configuration File Library | https://github.com/hyperrealm/libconfig |
 | **libconfig-static** | 1.8.2 | Static libraries for libconfig | https://github.com/hyperrealm/libconfig |
@@ -1220,8 +1220,8 @@
 | **libimagequant** | 4.4.1 | Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images | https://pngquant.org/lib/ |
 | **libimagequant-static** | 4.4.1 | Static libraries for libimagequant | https://pngquant.org/lib/ |
 | **libimobiledevice** | 1.4.0 | A library to communicate with services on iOS devices using native protocols | https://libimobiledevice.org/ |
-| **libimobiledevice-glue** | 1.3.2-1 | Library with common code used by the libraries and tools around the libimobiledevice project | https://libimobiledevice.org/ |
-| **libimobiledevice-glue-static** | 1.3.2-1 | Static libraries for libimobiledevice-glue | https://libimobiledevice.org/ |
+| **libimobiledevice-glue** | 1.3.3 | Library with common code used by the libraries and tools around the libimobiledevice project | https://libimobiledevice.org/ |
+| **libimobiledevice-glue-static** | 1.3.3 | Static libraries for libimobiledevice-glue | https://libimobiledevice.org/ |
 | **libimobiledevice-static** | 1.4.0 | Static libraries for libimobiledevice | https://libimobiledevice.org/ |
 | **libimtui** | 1.0.5-2 | An immediate mode text-based user interface library | https://github.com/ggerganov/imtui |
 | **libinih** | 62 | A simple .INI file parser written in C | https://github.com/benhoyt/inih |
@@ -1862,7 +1862,7 @@
 | **media-types** | 14.0.0 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
 | **mediainfo** | 26.05 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **mediamtx** | 1.21.1 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
-| **megacmd** | 2.6.0 | Provides non UI access to MEGA services | https://mega.io/ |
+| **megacmd** | 2.6.0-1 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.5.20250706-1 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://xff.cz/megatools/ |
 | **memcached** | 1.6.45 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.9 | A logic/functional programming language | https://www.mercurylang.org/ |
@@ -1965,7 +1965,7 @@
 | **navidrome** | 0.64.2 | Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.25-1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.22-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
-| **ncdu2** | 2.9.2-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
+| **ncdu2** | 2.9.2-2 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncftp** | 3.3.0-1 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
 | **nchat** | 5.19.18 | TUI for Telegram and WhatsApp | https://github.com/d99kris/nchat |
 | **ncmpcpp** | 0.10.1-9 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
@@ -1987,7 +1987,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.5-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1804+gfb1f321b0e-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1808+g561857c4a8-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2262,7 +2262,7 @@
 | **pv** | 1.12.0 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.1.0 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
-| **pycairo** | 1.29.1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
+| **pycairo** | 1.29.2 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
 | **pygobject** | 3.58.0 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
 | **pypy** | 8.0.0-1 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 8.0.0-1 | Test files for PyPy | https://pypy.org |
@@ -2316,11 +2316,11 @@
 | **python-tflite-runtime** | 2.21.0 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
 | **python-tkinter** | 3.14.6-1 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-8 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
-| **python-torch** | 2.14.0 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
-| **python-torch-static** | 2.14.0 | Static libraries for python-torch | https://pytorch.org/ |
-| **python-torchaudio** | 2.11.0-3 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
-| **python-torchcodec** | 0.16.0 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
-| **python-torchvision** | 0.29.1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
+| **python-torch** | 2.14.1 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
+| **python-torch-static** | 2.14.1 | Static libraries for python-torch | https://pytorch.org/ |
+| **python-torchaudio** | 2.11.0-4 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
+| **python-torchcodec** | 0.17.0 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
+| **python-torchvision** | 0.29.1-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-trash-cli** | 0.26.9.29 | Command line trashcan (recycle bin) interface | https://github.com/andreafrancia/trash-cli |
 | **python-xcbgen** | 1.17.0-3 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-4 | The Python X Library | https://github.com/python-xlib/python-xlib |
@@ -2411,7 +2411,7 @@
 | **rhash-static** | 1.4.6-1 | Static libraries for rhash | https://github.com/rhash/RHash |
 | **rig** | 1.11-2 | A program that generates fake identities | https://rig.sourceforge.net/ |
 | **rinetd** | 1:0.73-2 | A user-mode TCP port redirection server | https://github.com/samhocevar/rinetd |
-| **rip2** | 0.9.6 | A safe and ergonomic alternative to rm | https://github.com/MilesCranmer/rip2 |
+| **rip2** | 0.9.7 | A safe and ergonomic alternative to rm | https://github.com/MilesCranmer/rip2 |
 | **ripgrep** | 15.2.0 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
 | **ripgrep-all** | 1:0.10.10-1 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.11-1 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
@@ -2832,7 +2832,7 @@
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **uutils-coreutils** | 0.12.0 | Cross-platform Rust rewrite of the GNU coreutils | https://uutils.org/ |
-| **uv** | 0.12.21 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.12.23 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.53.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2844,7 +2844,7 @@
 | **valkey-static** | 9.1.2-2 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
-| **vapoursynth** | 80 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
+| **vapoursynth** | 81 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
 | **vbindiff** | 3.0-beta5-1 | Visual binary diff | https://www.cjmweb.net/vbindiff/ |
 | **vcsh** | 2.0.10 | Config manager based on Git | https://github.com/RichiH/vcsh |
 | **vde2** | 2.3.3-7 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |
@@ -2888,7 +2888,7 @@
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 34+really34 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.30 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
-| **wasmedge** | 0.17.2 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
+| **wasmedge** | 0.18.0 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.5.0 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
 | **wasmtime** | 49.0.2 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
 | **watchexec** | 2.7.4 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |

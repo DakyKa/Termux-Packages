@@ -1859,7 +1859,7 @@
   Description: Static libraries for electric-fence
   Homepage: https://elinux.org/Electric_Fence
 - Package: electrum
-  Version: 4.7.1-1
+  Version: 4.8.2
   Description: Electrum is a lightweight Bitcoin wallet
   Homepage: https://electrum.org
 - Package: elfutils
@@ -2515,7 +2515,7 @@
   Description: Enables transparent encryption and decryption of files for a git repository
   Homepage: https://www.agwa.name/projects/git-crypt/
 - Package: git-delta
-  Version: 0.20.0
+  Version: 0.20.1
   Description: A syntax-highlighter for git and diff output
   Homepage: https://dandavison.github.io/delta/
 - Package: git-extras
@@ -3339,11 +3339,11 @@
   Description: A tool to unpack installers created by Inno Setup
   Homepage: https://constexpr.org/innoextract/
 - Package: inotify-tools
-  Version: 4.26.262
+  Version: 4.26.268
   Description: Programs providing a simple interface to inotify
   Homepage: https://github.com/rvoicilas/inotify-tools/wiki
 - Package: inotify-tools-static
-  Version: 4.26.262
+  Version: 4.26.268
   Description: Static libraries for inotify-tools
   Homepage: https://github.com/rvoicilas/inotify-tools/wiki
 - Package: inshellisense
@@ -3431,7 +3431,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.2685
+  Version: 0.24.2793
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -4175,7 +4175,7 @@
   Description: Static libraries for libcoinor-utils
   Homepage: https://github.com/coin-or/CoinUtils
 - Package: libcommons-lang3-java
-  Version: 3.20.0
+  Version: 3.21.0
   Description: A host of helper utilities for the java.lang API
   Homepage: https://commons.apache.org/proper/commons-lang/
 - Package: libcompiler-rt
@@ -4839,11 +4839,11 @@
   Description: A library to communicate with services on iOS devices using native protocols
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-glue
-  Version: 1.3.2-1
+  Version: 1.3.3
   Description: Library with common code used by the libraries and tools around the libimobiledevice project
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-glue-static
-  Version: 1.3.2-1
+  Version: 1.3.3
   Description: Static libraries for libimobiledevice-glue
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-static
@@ -7407,7 +7407,7 @@
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
-  Version: 2.6.0
+  Version: 2.6.0-1
   Description: Provides non UI access to MEGA services
   Homepage: https://mega.io/
 - Package: megatools
@@ -7819,7 +7819,7 @@
   Description: Disk usage analyzer
   Homepage: https://dev.yorhel.nl/ncdu
 - Package: ncdu2
-  Version: 2.9.2-1
+  Version: 2.9.2-2
   Description: Disk usage analyzer
   Homepage: https://dev.yorhel.nl/ncdu
 - Package: ncftp
@@ -7907,7 +7907,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1804+gfb1f321b0e-0
+  Version: 0.13.0~dev-1808+g561857c4a8-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9007,7 +9007,7 @@
   Description: A lightweight header-only library that exposes C++ types in Python and vice versa
   Homepage: https://pybind11.readthedocs.io/
 - Package: pycairo
-  Version: 1.29.1
+  Version: 1.29.2
   Description: Python bindings for the cairo graphics library
   Homepage: https://www.cairographics.org/pycairo/
 - Package: pygobject
@@ -9223,23 +9223,23 @@
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
 - Package: python-torch
-  Version: 2.14.0
+  Version: 2.14.1
   Description: Tensors and Dynamic neural networks in Python
   Homepage: https://pytorch.org/
 - Package: python-torch-static
-  Version: 2.14.0
+  Version: 2.14.1
   Description: Static libraries for python-torch
   Homepage: https://pytorch.org/
 - Package: python-torchaudio
-  Version: 2.11.0-3
+  Version: 2.11.0-4
   Description: Data manipulation and transformation for audio signal processing, powered by PyTorch
   Homepage: https://github.com/pytorch/audio
 - Package: python-torchcodec
-  Version: 0.16.0
+  Version: 0.17.0
   Description: PyTorch media decoding and encoding
   Homepage: https://github.com/pytorch/torchcodec
 - Package: python-torchvision
-  Version: 0.29.1
+  Version: 0.29.1-1
   Description: Datasets, Transforms and Models specific to Computer Vision
   Homepage: https://github.com/pytorch/vision
 - Package: python-trash-cli
@@ -9603,7 +9603,7 @@
   Description: A user-mode TCP port redirection server
   Homepage: https://github.com/samhocevar/rinetd
 - Package: rip2
-  Version: 0.9.6
+  Version: 0.9.7
   Description: A safe and ergonomic alternative to rm
   Homepage: https://github.com/MilesCranmer/rip2
 - Package: ripgrep
@@ -11287,7 +11287,7 @@
   Description: Cross-platform Rust rewrite of the GNU coreutils
   Homepage: https://uutils.org/
 - Package: uv
-  Version: 0.12.21
+  Version: 0.12.23
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11335,7 +11335,7 @@
   Description: Static libraries for vamp-plugin-sdk
   Homepage: https://www.vamp-plugins.org/
 - Package: vapoursynth
-  Version: "80"
+  Version: "81"
   Description: Video processing framework with simplicity in mind
   Homepage: https://www.vapoursynth.com/
 - Package: vbindiff
@@ -11511,7 +11511,7 @@
   Description: Command line linker for creating WebAssembly components
   Homepage: https://github.com/bytecodealliance/wasm-component-ld
 - Package: wasmedge
-  Version: 0.17.2
+  Version: 0.18.0
   Description: A lightweight, high-performance, and extensible WebAssembly runtime
   Homepage: https://wasmedge.org/
 - Package: wasmer
