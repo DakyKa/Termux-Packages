@@ -2,7 +2,7 @@
 | **2048-c** | 1:1.0.3-1 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
 | **2ping** | 4.6.1-1 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
 | **6tunnel** | 0.14 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
-| **7zip** | 26.03 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
+| **7zip** | 26.04 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
 | **8086tiny** | 1.25-5 | A PC XT-compatible emulator/virtual machine | https://github.com/adriancable/8086tiny |
 | **a52dec** | 0.8.0-3 | A test program for liba52 | http://liba52.sourceforge.net/ |
 | **aalib** | 1.4rc5-13 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
@@ -641,7 +641,7 @@
 | **gitoxide** | 0.59.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.120.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.121.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.19.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.90.0 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.90.0 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -653,7 +653,6 @@
 | **glpk** | 5.0-2 | GNU Linear Programming Kit: solve LP, MIP and other problems | https://www.gnu.org/software/glpk/ |
 | **glpk-static** | 5.0-2 | Static libraries for glpk | https://www.gnu.org/software/glpk/ |
 | **glslang** | 16.6.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
-| **gluelang** | 0.2.0-2 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.6.1-1 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
 | **gmic** | 4.0.5 | Full-featured framework for image processing | https://gmic.eu |
 | **gmic-gm** | 4.0.5 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
@@ -729,7 +728,7 @@
 | **groff** | 1.24.2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-4 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
 | **groonga** | 16.1.2 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
-| **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
+| **groovy** | 6.0.0 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **grpcurl** | 1.9.4 | Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers | https://github.com/fullstorydev/grpcurl |
 | **gsasl** | 2.2.4 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.60 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
@@ -761,7 +760,7 @@
 | **hash-slinger** | 3.6 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.25.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
-| **hcloud** | 1.70.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
+| **hcloud** | 1.70.1 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 25.07.1-2 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.07.1-2 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.3-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
@@ -898,7 +897,7 @@
 | **k9s** | 0.51.0 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kakoune** | 2026.05.21-1 | Code editor heavily inspired by Vim | https://kakoune.org/ |
-| **kakoune-lsp** | 21.0.2 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
+| **kakoune-lsp** | 22.0.0 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.10.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
 | **kew** | 4.3.8 | Music for the Shell | https://kewplayer.com |
 | **keybase** | 6.6.3 | Key directory that maps social media identities to encryption keys | https://keybase.io |
@@ -1286,8 +1285,8 @@
 | **libmd** | 1.3.0 | Message Digest functions from BSD systems | https://www.hadrons.org/software/libmd/ |
 | **libmd-static** | 1.3.0 | Static libraries for libmd | https://www.hadrons.org/software/libmd/ |
 | **libmdbx** | 0.14.4 | An extremely fast, compact, powerful, embedded, transactional key-value database | https://libmdbx.dqdkfa.ru/ |
-| **libmediainfo** | 26.05 | Library for reading information from media files | https://mediaarea.net/en/MediaInfo |
-| **libmediainfo-static** | 26.05 | Static libraries for libmediainfo | https://mediaarea.net/en/MediaInfo |
+| **libmediainfo** | 26.10 | Library for reading information from media files | https://mediaarea.net/en/MediaInfo |
+| **libmediainfo-static** | 26.10 | Static libraries for libmediainfo | https://mediaarea.net/en/MediaInfo |
 | **libmesode** | 0.10.1-5 | Minimal XMPP library written for use with Profanity XMPP client | https://github.com/boothj5/libmesode |
 | **libmesode-static** | 0.10.1-5 | Static libraries for libmesode | https://github.com/boothj5/libmesode |
 | **libmhash** | 0.9.9.9-4 | A thread-safe hash library which provides a uniform interface to hash algorithms | https://mhash.sourceforge.net/ |
@@ -1607,7 +1606,6 @@
 | **libuv** | 1.53.0 | Support library with a focus on asynchronous I/O | https://libuv.org |
 | **libuv-static** | 1.53.0 | Static libraries for libuv | https://libuv.org |
 | **libv4l** | 1.32.0 | Linux libraries to handle media devices | https://git.linuxtv.org/v4l-utils.git |
-| **libv4l-static** | 1.24.1-2 | Static libraries for libv4l | https://git.linuxtv.org/v4l-utils.git |
 | **libvbisam** | 2.0-3 | A replacement for IBM's C-ISAM | https://sourceforge.net/projects/vbisam/ |
 | **libvbisam-static** | 2.0-3 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.2 | video stabilization library | https://github.com/georgmartius/vid.stab |
@@ -1725,9 +1723,9 @@
 | **littlecms** | 2.19.1 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.19.1 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.19.1 | Color management utilities | http://www.littlecms.com/ |
-| **llama-cpp** | 0.5.0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-opencl** | 0.5.0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-vulkan** | 0.5.0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp** | 0.6.0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-opencl** | 0.6.0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-vulkan** | 0.6.0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
 | **llbuild** | 6.4.0 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
 | **lld** | 21.1.8-3 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 21.1.8-3 | LLVM-based debugger | https://clang.llvm.org/ |
@@ -1816,7 +1814,7 @@
 | **matterircd** | 0.33.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **matugen** | 4.2.0 | A material you color generation tool with templates | https://github.com/InioX/matugen |
 | **mautrix-whatsapp** | 26.09 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
-| **maven** | 3.9.16 | A Java software project management and comprehension tool | https://maven.apache.org/ |
+| **maven** | 3.10.0 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0-1 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13-1 | Mazes in your terminal | https://github.com/Canop/mazter |
 | **mbedtls** | 3.6.7 | Light-weight cryptographic and SSL/TLS library | https://www.trustedfirmware.org/projects/mbed-tls/ |
@@ -1848,7 +1846,7 @@
 | **mdns-scan** | 0.5-3 | A tool for scanning for mDNS/DNS-SD services published on the local network | https://github.com/alteholz/mdns-scan |
 | **mdp** | 1.0.19 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 14.0.0 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
-| **mediainfo** | 26.05 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
+| **mediainfo** | 26.10 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **mediamtx** | 1.21.1 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
 | **megacmd** | 2.6.0-1 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.5.20250706-1 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://xff.cz/megatools/ |
@@ -2024,7 +2022,7 @@
 | **nzbget** | 26.3 | The most efficient usenet downloader | https://nzbget.com/ |
 | **oathtool** | 2.6.14 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
 | **oathtool-static** | 2.6.14 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
-| **oci-cli** | 3.94.1 | Command line interface for Oracle Cloud Infrastructure | https://github.com/oracle/oci-cli |
+| **oci-cli** | 3.94.2 | Command line interface for Oracle Cloud Infrastructure | https://github.com/oracle/oci-cli |
 | **ocl-icd** | 2.3.5 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
 | **ocrad** | 0.29-1 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
 | **ocrad-static** | 0.29-1 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
@@ -2050,7 +2048,6 @@
 | **oniguruma-static** | 6.9.10-1 | Static libraries for oniguruma | https://github.com/kkos/oniguruma |
 | **onnxruntime** | 1.29.0 | Cross-platform, high performance ML inferencing and training accelerator | https://onnxruntime.ai/ |
 | **oorexx** | 5.2.0 | Open Object Rexx | https://www.oorexx.org/ |
-| **oorexx-static** | 4.2.0-4 | Static libraries for oorexx | https://www.oorexx.org/ |
 | **open-adventure** | 1.22 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
 | **openal-soft** | 1.25.2-1 | Software implementation of the OpenAL API | https://openal-soft.org/ |
 | **openbabel** | 3.2.0-3 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
@@ -2174,7 +2171,7 @@
 | **php-psr** | 1.2.0-4 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
 | **php-redis** | 6.3.0RC1 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
 | **php-sodium** | 8.5.1 | Sodium module for PHP | https://php.net |
-| **php-zephir-parser** | 2.8.0 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
+| **php-zephir-parser** | 2.9.0 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
 | **phpmyadmin** | 5.2.3-1 | A PHP tool for administering MySQL and MariaDB databases | https://www.phpmyadmin.net |
 | **pianobar** | 2024.12.21-2 | pianobar is a free/open-source, console-based client for the personalized online radio Pandora. | https://6xq.net/pianobar/ |
 | **pick** | 4.0.0-4 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
@@ -2480,7 +2477,7 @@
 | **sed** | 4.10 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
 | **seerr** | 3.5.0 | A fork of Overseerr with focus on adding support for Jellyfin/Emby | https://github.com/seerr-team/seerr |
 | **selene** | 0.32.0 | A blazing-fast modern Lua linter written in Rust | https://kampfkarren.github.io/selene/ |
-| **sendme** | 0.36.0-1 | A tool to send files and directories, based on iroh | https://github.com/n0-computer/sendme |
+| **sendme** | 0.36.1 | A tool to send files and directories, based on iroh | https://github.com/n0-computer/sendme |
 | **sendxmpp** | 1.24-1 | A perl-script to send XMPP (jabber) messages | https://sendxmpp.hostname.sk/ |
 | **senpai** | 1:0.5.0 | An IRC client that works best with bouncers | https://git.sr.ht/~delthas/senpai |
 | **sensible-utils** | 0.0.26 | Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager | https://packages.debian.org/sid/sensible-utils |
@@ -2589,7 +2586,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.164.1 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.164.2 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.2 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
