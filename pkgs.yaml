@@ -2179,7 +2179,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.111
+  Version: 0.4.112
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2291,7 +2291,7 @@
   Description: Static libraries for fwknop
   Homepage: https://www.cipherdyne.org/fwknop/
 - Package: fx
-  Version: 39.2.0
+  Version: 40.0.0
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
@@ -3023,15 +3023,15 @@
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
-  Version: 14.5.1
+  Version: 14.6.0
   Description: OpenType text shaping engine
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-icu
-  Version: 14.5.1
+  Version: 14.6.0
   Description: OpenType text shaping engine ICU backend
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harfbuzz-utils
-  Version: 14.5.1
+  Version: 14.6.0
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harper
@@ -3051,7 +3051,7 @@
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
-  Version: 1.69.0
+  Version: 1.70.0
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
@@ -7571,7 +7571,7 @@
   Description: A high-performance database kernel for query-intensive applications
   Homepage: https://www.monetdb.org/
 - Package: mongosh
-  Version: 2.12.0
+  Version: 2.13.0
   Description: The MongoDB Shell
   Homepage: https://github.com/mongodb-js/mongosh
 - Package: monit
@@ -9279,11 +9279,11 @@
   Description: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
   Homepage: https://github.com/natesales/q
 - Package: qalc
-  Version: 5.12.0
+  Version: 5.13.0
   Description: Powerful and easy to use command line calculator
   Homepage: https://qalculate.github.io/
 - Package: qalc-static
-  Version: 5.12.0
+  Version: 5.13.0
   Description: Static libraries for qalc
   Homepage: https://qalculate.github.io/
 - Package: qemu-common
