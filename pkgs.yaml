@@ -1555,7 +1555,7 @@
   Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
   Homepage: https://github.com/doctest/doctest
 - Package: doctl
-  Version: 1.179.0
+  Version: 1.180.0
   Description: The official command line interface for the DigitalOcean API
   Homepage: https://github.com/digitalocean/doctl
 - Package: doge
@@ -1895,19 +1895,19 @@
   Description: Emmy Lua Language Server coded in Rust
   Homepage: https://github.com/EmmyLuaLs/emmylua-analyzer-rust
 - Package: emscripten
-  Version: 6.0.11
+  Version: 6.0.12
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 6.0.11
+  Version: 6.0.12
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 6.0.11
+  Version: 6.0.12
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 6.0.11
+  Version: 6.0.12
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -2183,7 +2183,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.114
+  Version: 0.4.115
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2575,7 +2575,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.121.0
+  Version: 1.122.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2787,7 +2787,7 @@
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
 - Package: goreleaser
-  Version: 2.18.2
+  Version: 2.18.3
   Description: Deliver Go binaries as fast and easily as possible
   Homepage: https://goreleaser.com
 - Package: goresym
@@ -2883,11 +2883,11 @@
   Description: A thin layer of graphic data types
   Homepage: https://ebassi.github.io/graphene/
 - Package: graphicsmagick
-  Version: 1.3.48
+  Version: 1.3.49
   Description: Collection of image processing tools
   Homepage: http://www.graphicsmagick.org/
 - Package: graphicsmagick-static
-  Version: 1.3.48
+  Version: 1.3.49
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
@@ -2947,31 +2947,31 @@
   Description: Static libraries for gsl
   Homepage: https://www.gnu.org/software/gsl/
 - Package: gst-libav
-  Version: 1.28.7
+  Version: 1.28.8
   Description: GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code
   Homepage: https://gstreamer.freedesktop.org/modules/gst-libav.html
 - Package: gst-plugins-bad
-  Version: 1.28.7
+  Version: 1.28.8
   Description: GStreamer Bad Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-base
-  Version: 1.28.7
+  Version: 1.28.8
   Description: GStreamer base plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-good
-  Version: 1.28.7
+  Version: 1.28.8
   Description: GStreamer Good Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-plugins-ugly
-  Version: 1.28.7
+  Version: 1.28.8
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.28.7
+  Version: 1.28.8
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
-  Version: 1.28.7
+  Version: 1.28.8
   Description: Open source multimedia framework
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gtrash
@@ -7403,7 +7403,7 @@
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
-  Version: 1.21.1
+  Version: 1.21.2
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
@@ -7599,7 +7599,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://www.seehuhn.de/programs/moon-buggy
 - Package: moor
-  Version: 2.19.2
+  Version: 2.19.3
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -7907,7 +7907,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1824+g27ee55c09d-0
+  Version: 0.13.0~dev-1825+g402a494f47-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8343,11 +8343,11 @@
   Description: The programmers solid 3D CAD modeller (headless build)
   Homepage: https://openscad.org/
 - Package: openssh
-  Version: 10.6p1
+  Version: 10.6p1-1
   Description: Secure shell for logging into a remote machine
   Homepage: https://www.openssh.com/
 - Package: openssh-sftp-server
-  Version: 10.6p1
+  Version: 10.6p1-1
   Description: OpenSSH SFTP server subsystem
   Homepage: https://www.openssh.com/
 - Package: openssl
@@ -8639,7 +8639,7 @@
   Description: Postgres CLI with autocompletion and syntax highlighting
   Homepage: https://www.pgcli.com
 - Package: pgroonga
-  Version: 4.0.9
+  Version: 4.1.0
   Description: A PostgreSQL extension to use Groonga as index
   Homepage: https://github.com/pgroonga/pgroonga
 - Package: photon-rss
@@ -8799,7 +8799,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.10.1
+  Version: 12.11.0
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -9435,7 +9435,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.64.0
+  Version: 5.64.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9895,11 +9895,11 @@
   Description: Command line utility for SeaORM, an async & dynamic ORM for Rust
   Homepage: https://github.com/SeaQL/sea-orm
 - Package: seafile-client
-  Version: 9.0.21
+  Version: 9.0.22
   Description: Seafile is a file syncing and sharing software with file encryption and group sharing
   Homepage: https://seafile.com
 - Package: seafile-client-static
-  Version: 9.0.21
+  Version: 9.0.22
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
@@ -10043,7 +10043,7 @@
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: sing-box
-  Version: 1.14.2
+  Version: 1.14.3
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skalibs
@@ -11287,7 +11287,7 @@
   Description: Cross-platform Rust rewrite of the GNU coreutils
   Homepage: https://uutils.org/
 - Package: uv
-  Version: 0.12.23
+  Version: 0.12.24
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11431,7 +11431,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.10.03
+  Version: 2026.10.05
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -11695,11 +11695,11 @@
   Description: XML-XCB protocol descriptions
   Homepage: https://xcb.freedesktop.org/
 - Package: xdelta3
-  Version: 3.2.1
+  Version: 3.2.2
   Description: xdelta3 - VCDIFF (RFC 3284) binary diff tool
   Homepage: https://github.com/jmacd/xdelta
 - Package: xdelta3-static
-  Version: 3.2.1
+  Version: 3.2.2
   Description: Static libraries for xdelta3
   Homepage: https://github.com/jmacd/xdelta
 - Package: xdg-user-dirs

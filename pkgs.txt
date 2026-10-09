@@ -387,7 +387,7 @@
  docopt  0.6.3-4  Command line arguments parser for C++11 and later  http://docopt.org 
  docopt-static  0.6.3-4  Static libraries for docopt  http://docopt.org 
  doctest  2.5.3  The fastest feature-rich C++11/14/17/20 single-header testing framework  https://github.com/doctest/doctest 
- doctl  1.179.0  The official command line interface for the DigitalOcean API  https://github.com/digitalocean/doctl 
+ doctl  1.180.0  The official command line interface for the DigitalOcean API  https://github.com/digitalocean/doctl 
  doge  0.2.9  A command-line DNS client  https://github.com/Dj-Codeman/dog_community 
  doggo  1.4.0  Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt  https://github.com/mr-karan/doggo 
  dopewars  1.6.2-1  Drug-dealing game set in streets of New York City  https://dopewars.sourceforge.io 
@@ -472,10 +472,10 @@
  elvish  0.21.0-1  A friendly and expressive Unix shell  https://github.com/elves/elvish 
  emacs  31.1-3  Extensible, customizable text editor-and more  https://www.gnu.org/software/emacs/ 
  emmylua-ls  0.25.1  Emmy Lua Language Server coded in Rust  https://github.com/EmmyLuaLs/emmylua-analyzer-rust 
- emscripten  6.0.11  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
- emscripten-binaryen  6.0.11  Emscripten-compatible Binaryen  https://emscripten.org 
- emscripten-llvm  6.0.11  Emscripten-compatible LLVM  https://emscripten.org 
- emscripten-tests-third-party  6.0.11  Emscripten third party test suite files  https://emscripten.org 
+ emscripten  6.0.12  Emscripten: An LLVM-to-WebAssembly Compiler  https://emscripten.org 
+ emscripten-binaryen  6.0.12  Emscripten-compatible Binaryen  https://emscripten.org 
+ emscripten-llvm  6.0.12  Emscripten-compatible LLVM  https://emscripten.org 
+ emscripten-tests-third-party  6.0.12  Emscripten third party test suite files  https://emscripten.org 
  enblend  4.2.0p20161007-9  A tool for compositing images using a Burt&Adelson multiresolution spline  https://enblend.sourceforge.net/ 
  enchant  2.8.21  Wraps a number of different spelling libraries and programs with a consistent interface  https://rrthomas.github.io/enchant/ 
  enchant-static  2.8.21  Static libraries for enchant  https://rrthomas.github.io/enchant/ 
@@ -544,7 +544,7 @@
  flex-static  2.6.4-5  Static libraries for flex  https://github.com/westes/flex 
  flint  3.6.0-2  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.6.1  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.114  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.115  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0-1  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.18.3  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -642,7 +642,7 @@
  gitoxide  0.60.0  Rust implementation of Git  https://github.com/GitoxideLabs/gitoxide 
  gitui  0.28.1  Blazing fast terminal-ui for git written in rust  https://github.com/gitui-org/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
- glab-cli  1.121.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
+ glab-cli  1.122.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.19.1  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.90.1  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.90.1  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
@@ -695,7 +695,7 @@
  gopass  1.17.3  The slightly more awesome standard unix password manager for teams  https://github.com/gopasspw/gopass 
  gopher  3.0.19  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
  gopls  0.23.0  The official Go language server  https://github.com/golang/tools 
- goreleaser  2.18.2  Deliver Go binaries as fast and easily as possible  https://goreleaser.com 
+ goreleaser  2.18.3  Deliver Go binaries as fast and easily as possible  https://goreleaser.com 
  goresym  3.4.1  Go symbol recovery tool  https://github.com/mandiant/GoReSym 
  gosec  2.29.0  Golang security checker  https://github.com/securego/gosec 
  gost  3.3.0  GO Simple Tunnel - a simple tunnel written in golang  https://github.com/go-gost/gost 
@@ -719,8 +719,8 @@
  grafana  1:12.3.3-1  The open-source platform for monitoring and observability  https://grafana.com/ 
  grap  1.49  Language for typesetting graphs  https://www.lunabase.org/~faber/Vault/software/grap/ 
  graphene  1.10.8-3  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
- graphicsmagick  1.3.48  Collection of image processing tools  http://www.graphicsmagick.org/ 
- graphicsmagick-static  1.3.48  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
+ graphicsmagick  1.3.49  Collection of image processing tools  http://www.graphicsmagick.org/ 
+ graphicsmagick-static  1.3.49  Static libraries for graphicsmagick  http://www.graphicsmagick.org/ 
  graphviz  16.1.0  Rich set of graph drawing tools  https://www.graphviz.org/ 
  graphviz-static  16.1.0  Static libraries for graphviz  https://www.graphviz.org/ 
  greed  5.2  Game where you try to eat as much as possible of the board before munching yourself into a corner  http://www.catb.org/~esr/greed/ 
@@ -735,13 +735,13 @@
  gsf-tools  1.14.60  Command-line tools for libgsf  https://gitlab.gnome.org/GNOME/libgsf 
  gsl  2.8-1  GNU Scientific Library (GSL) providing a wide range of mathematical routines  https://www.gnu.org/software/gsl/ 
  gsl-static  2.8-1  Static libraries for gsl  https://www.gnu.org/software/gsl/ 
- gst-libav  1.28.7  GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code  https://gstreamer.freedesktop.org/modules/gst-libav.html 
- gst-plugins-bad  1.28.7  GStreamer Bad Plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-base  1.28.7  GStreamer base plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-good  1.28.7  GStreamer Good Plug-ins  https://gstreamer.freedesktop.org/ 
- gst-plugins-ugly  1.28.7  GStreamer Ugly Plug-ins  https://gstreamer.freedesktop.org/ 
- gst-python  1.28.7  Python bindings for GStreamer  https://gstreamer.freedesktop.org/ 
- gstreamer  1.28.7  Open source multimedia framework  https://gstreamer.freedesktop.org/ 
+ gst-libav  1.28.8  GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code  https://gstreamer.freedesktop.org/modules/gst-libav.html 
+ gst-plugins-bad  1.28.8  GStreamer Bad Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-base  1.28.8  GStreamer base plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-good  1.28.8  GStreamer Good Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-plugins-ugly  1.28.8  GStreamer Ugly Plug-ins  https://gstreamer.freedesktop.org/ 
+ gst-python  1.28.8  Python bindings for GStreamer  https://gstreamer.freedesktop.org/ 
+ gstreamer  1.28.8  Open source multimedia framework  https://gstreamer.freedesktop.org/ 
  gtrash  0.0.6-1  A featureful trash CLI manager, alternative to rm and trash-cli  https://github.com/umlx5h/gtrash 
  gtypist  2.10.1-1  Universal typing tutor  https://www.gnu.org/software/gtypist/ 
  guile  3.0.11-1  Portable, embeddable Scheme implementation written in C  http://www.gnu.org/software/guile/ 
@@ -1849,7 +1849,7 @@
  mdp  1.0.19  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  14.0.0  List of standard media types and their usual file extension  https://pagure.io/mailcap 
  mediainfo  26.10  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
- mediamtx  1.21.1  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
+ mediamtx  1.21.2  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
  megacmd  2.6.0-1  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.5.20250706-1  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://xff.cz/megatools/ 
  memcached  1.6.45  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
@@ -1898,7 +1898,7 @@
  mono-static  6.14.1-2  Static libraries for mono  https://gitlab.winehq.org/mono/mono 
  monolith  2.11.2  CLI tool for saving complete web pages as a single HTML file  https://github.com/Y2Z/monolith 
  moon-buggy  1.1.0  Simple game where you drive a car across the moon's surface  https://www.seehuhn.de/programs/moon-buggy 
- moor  2.19.2  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
+ moor  2.19.3  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
  mop  2025.12.28  Stock market tracker  https://github.com/mop-tracker/mop 
  moreutils  0.70-1  A growing collection of the unix tools that nobody thought to write thirty years ago  https://joeyh.name/code/moreutils/ 
  moria  5.7.15-7  Rogue-like game with an infinite dungeon  https://umoria.org 
@@ -1975,7 +1975,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.5-1  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-1824+g27ee55c09d-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-1825+g402a494f47-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2084,8 +2084,8 @@
  opensc  0.27.1  Open source smart card tools and middleware  https://github.com/OpenSC/OpenSC 
  opensc-static  0.27.1  Static libraries for opensc  https://github.com/OpenSC/OpenSC 
  openscad  2021.01-7  The programmers solid 3D CAD modeller (headless build)  https://openscad.org/ 
- openssh  10.6p1  Secure shell for logging into a remote machine  https://www.openssh.com/ 
- openssh-sftp-server  10.6p1  OpenSSH SFTP server subsystem  https://www.openssh.com/ 
+ openssh  10.6p1-1  Secure shell for logging into a remote machine  https://www.openssh.com/ 
+ openssh-sftp-server  10.6p1-1  OpenSSH SFTP server subsystem  https://www.openssh.com/ 
  openssl  1:3.6.5  Library implementing the SSL and TLS protocols as well as general purpose cryptography functions  https://www.openssl.org/ 
  openssl-static  1:3.6.5  Static libraries for openssl  https://www.openssl.org/ 
  openssl-tool  1:3.6.5  The openssl command line cryptographic tool  https://www.openssl.org/ 
@@ -2158,7 +2158,7 @@
  pforth  1:2.0.1-1  Portable Forth in C  https://www.softsynth.com/pforth/ 
  pgadmin4  9.18  Feature-rich web-based administration and development platform for PostgreSQL  https://www.pgadmin.org 
  pgcli  4.7.1  Postgres CLI with autocompletion and syntax highlighting  https://www.pgcli.com 
- pgroonga  4.0.9  A PostgreSQL extension to use Groonga as index  https://github.com/pgroonga/pgroonga 
+ pgroonga  4.1.0  A PostgreSQL extension to use Groonga as index  https://github.com/pgroonga/pgroonga 
  photon-rss  2023.02.02-3  An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy  https://git.sr.ht/~ghost08/photon 
  php  8.5.1  Server-side, HTML-embedded scripting language  https://php.net 
  php-apache  8.5.1  Apache 2.0 Handler module for PHP  https://php.net 
@@ -2198,7 +2198,7 @@
  plzip  1.13  A massively parallel lossless data compressor based on the lzlib compression library  https://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-2  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-2  PNG image optimising utility  https://pngquant.org 
- pnpm  12.10.1  Fast, disk space efficient package manager for JavaScript  https://pnpm.io 
+ pnpm  12.11.0  Fast, disk space efficient package manager for JavaScript  https://pnpm.io 
  pocketbase  0.40.5  An open source Go backend  https://github.com/pocketbase/pocketbase 
  podofo  1.1.2  A C++ library to work with the PDF file format  https://github.com/podofo/podofo 
  poke  5.0  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
@@ -2357,7 +2357,7 @@
  rage  0.12.1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  5.64.0  This is the command line interface for Railway  https://railway.app 
+ railway-cli  5.64.1  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0-1  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-2  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2472,8 +2472,8 @@
  sd  1.1.0  An intuitive find & replace CLI  https://github.com/chmln/sd 
  sdcv  0.5.5-2  StarDict Console Version  http://dushistov.github.io/sdcv/ 
  sea-orm-cli  2.0.4  Command line utility for SeaORM, an async & dynamic ORM for Rust  https://github.com/SeaQL/sea-orm 
- seafile-client  9.0.21  Seafile is a file syncing and sharing software with file encryption and group sharing  https://seafile.com 
- seafile-client-static  9.0.21  Static libraries for seafile-client  https://seafile.com 
+ seafile-client  9.0.22  Seafile is a file syncing and sharing software with file encryption and group sharing  https://seafile.com 
+ seafile-client-static  9.0.22  Static libraries for seafile-client  https://seafile.com 
  seanime  3.10.3  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
  seccure  0.5-8  SECCURE Elliptic Curve Crypto Utility for Reliable Encryption  http://point-at-infinity.org/seccure/ 
  secure-delete  3.1-6  Secure file, disk, swap, memory erasure utilities  https://www.thc.org/ 
@@ -2509,7 +2509,7 @@
  simdjson  5.0.3  A C++ library to see how fast we can parse JSON with complete validation  https://simdjson.org/ 
  simh  1:3.12.5-1  A collection of simulators for computer hardware and software from the past  http://simh.trailing-edge.com/ 
  simulavr  1:1.1.0-3  Simulator for Microchip AVR (formerly Atmel) microcontrollers  https://www.nongnu.org/simulavr 
- sing-box  1.14.2  The universal proxy platform  https://sing-box.sagernet.org 
+ sing-box  1.14.3  The universal proxy platform  https://sing-box.sagernet.org 
  skalibs  2.15.1.0  A set of general-purpose C programming libraries  https://skarnet.org/software/skalibs/ 
  skalibs-static  2.15.1.0  Static libraries for skalibs  https://skarnet.org/software/skalibs/ 
  skate  1.1.0  A personal key-value store  https://github.com/charmbracelet/skate 
@@ -2820,7 +2820,7 @@
  uucp  1.07-2  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.42.4  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
  uutils-coreutils  0.12.0  Cross-platform Rust rewrite of the GNU coreutils  https://uutils.org/ 
- uv  0.12.23  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.12.24  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.31-2  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.53.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.19  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
@@ -2856,7 +2856,7 @@
  vlc  3.0.24  A popular libre and open source media player and multimedia engine  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-4  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3-1  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  2026.10.03  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
+ vtm  2026.10.05  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20251205  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vulkan-extension-layer  1.4.363  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
  vulkan-headers  1.4.365  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
@@ -2922,8 +2922,8 @@
  x265  4.3  H.265/HEVC video stream encoder tool  https://www.x265.org/ 
  xapian-tools  2.1.0  Basic tools for the Xapian search engine  https://xapian.org 
  xcb-proto  1.17.0-3  XML-XCB protocol descriptions  https://xcb.freedesktop.org/ 
- xdelta3  3.2.1  xdelta3 - VCDIFF (RFC 3284) binary diff tool  https://github.com/jmacd/xdelta 
- xdelta3-static  3.2.1  Static libraries for xdelta3  https://github.com/jmacd/xdelta 
+ xdelta3  3.2.2  xdelta3 - VCDIFF (RFC 3284) binary diff tool  https://github.com/jmacd/xdelta 
+ xdelta3-static  3.2.2  Static libraries for xdelta3  https://github.com/jmacd/xdelta 
  xdg-user-dirs  0.20  Manage user directories like ~/Desktop and ~/Music  https://www.freedesktop.org/wiki/Software/xdg-user-dirs 
  xerces-c  3.3.0  Validating XML parser library for C++.  https://xerces.apache.org/ 
  xerces-c-static  3.3.0  Static libraries for xerces-c  https://xerces.apache.org/ 
