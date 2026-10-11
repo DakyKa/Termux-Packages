@@ -3118,6 +3118,10 @@
   Version: 1:2.3.4-1
   Description: The Moon-powered shell! A comfy and extensible shell for Lua fans!
   Homepage: https://rosettea.github.io/Hilbish/
+- Package: hk
+  Version: 2.5.0
+  Description: A tool for managing git hooks
+  Homepage: https://hk.jdx.dev/
 - Package: hledger
   Version: 1.52.4
   Description: Robust, friendly, fast plain text accounting software. (CLI only)
@@ -3679,7 +3683,7 @@
   Description: LastPass command line interface tool
   Homepage: https://lastpass.com/
 - Package: lazygit
-  Version: 0.66.0
+  Version: 0.66.1
   Description: Simple terminal UI for git commands
   Homepage: https://github.com/jesseduffield/lazygit
 - Package: lcal
@@ -4835,19 +4839,19 @@
   Description: Static libraries for libimagequant
   Homepage: https://pngquant.org/lib/
 - Package: libimobiledevice
-  Version: 1.4.0
+  Version: 1.4.0-1
   Description: A library to communicate with services on iOS devices using native protocols
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-glue
-  Version: 1.3.3
+  Version: 1.3.3-1
   Description: Library with common code used by the libraries and tools around the libimobiledevice project
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-glue-static
-  Version: 1.3.3
+  Version: 1.3.3-1
   Description: Static libraries for libimobiledevice-glue
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-static
-  Version: 1.4.0
+  Version: 1.4.0-1
   Description: Static libraries for libimobiledevice
   Homepage: https://libimobiledevice.org/
 - Package: libimtui
@@ -5679,11 +5683,11 @@
   Description: Reusable library for GPU-accelerated video/image rendering
   Homepage: http://libplacebo.org/
 - Package: libplist
-  Version: 2.7.0-1
+  Version: 2.8.0
   Description: A small portable C library to handle Apple Property List files in binary or XML format
   Homepage: https://libimobiledevice.org
 - Package: libplist-static
-  Version: 2.7.0-1
+  Version: 2.8.0
   Description: Static libraries for libplist
   Homepage: https://libimobiledevice.org
 - Package: libpluto
@@ -6183,11 +6187,11 @@
   Description: Static libraries for libtasn1
   Homepage: https://www.gnu.org/software/libtasn1/
 - Package: libtatsu
-  Version: 1.0.5-1
+  Version: 1.0.5-2
   Description: Library handling the communication with Apples Tatsu Signing Server (TSS)
   Homepage: https://libimobiledevice.org/
 - Package: libtatsu-static
-  Version: 1.0.5-1
+  Version: 1.0.5-2
   Description: Static libraries for libtatsu
   Homepage: https://libimobiledevice.org/
 - Package: libtbb
@@ -6407,11 +6411,11 @@
   Description: Static libraries for libusb
   Homepage: https://libusb.info/
 - Package: libusbmuxd
-  Version: 2.1.1-2
+  Version: 2.1.1-3
   Description: A client library for applications to handle usbmux protocol connections with iOS devices
   Homepage: https://libimobiledevice.org
 - Package: libusbmuxd-static
-  Version: 2.1.1-2
+  Version: 2.1.1-3
   Description: Static libraries for libusbmuxd
   Homepage: https://libimobiledevice.org
 - Package: libusbredir
@@ -7751,7 +7755,7 @@
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: mycli
-  Version: 2.29.1
+  Version: 2.29.4
   Description: CLI for MySQL/MariaDB with auto-completion and syntax highlighting
   Homepage: https://mycli.net
 - Package: myman
@@ -7759,7 +7763,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 26.0.0
+  Version: 26.1.0
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -8799,7 +8803,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.12.0
+  Version: 12.12.1
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -8927,7 +8931,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 5.9.0
+  Version: 5.10.0
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
@@ -9287,83 +9291,83 @@
   Description: Static libraries for qalc
   Homepage: https://qalculate.github.io/
 - Package: qemu-common
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: A set common files used by the QEMU emulators
   Homepage: https://www.qemu.org
 - Package: qemu-system-aarch64-headless
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-arm-headless
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-i386-headless
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-m68k-headless
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-ppc-headless
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-ppc64-headless
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-riscv32-headless
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-riscv64-headless
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-system-x86-64-headless
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: A generic and open source machine emulator and virtualizer (headless)
   Homepage: https://www.qemu.org
 - Package: qemu-user-aarch64
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-arm
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-i386
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-m68k
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-ppc
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-ppc64
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-riscv32
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-riscv64
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-user-x86-64
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: QEMU Linux user mode emulator
   Homepage: https://www.qemu.org
 - Package: qemu-utils
-  Version: 1:11.0.3
+  Version: 1:11.1.2
   Description: A set of utilities for working with the QEMU emulators
   Homepage: https://www.qemu.org
 - Package: qhull
@@ -10011,7 +10015,7 @@
   Description: compilation of small but very stable and portable shell scripts into a single shell tool
   Homepage: http://www.gnu.org/software/shtool/
 - Package: sideloader
-  Version: 1.0~pre4.2026.9.18
+  Version: 1.0~pre4.2026.9.18-1
   Description: Open-source cross-platform iOS app sideloader. Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…
   Homepage: https://github.com/Dadoum/Sideloader
 - Package: signify
@@ -10203,7 +10207,7 @@
   Description: C library for finding and handling crystal symmetries
   Homepage: https://spglib.github.io/spglib/index.html
 - Package: spidermonkey
-  Version: 128.10.0-2
+  Version: 140.17.0
   Description: Mozillas JavaScript engine
   Homepage: https://spidermonkey.dev
 - Package: spiped
@@ -11243,7 +11247,7 @@
   Description: Headers for URDF parsers
   Homepage: https://github.com/ros/urdfdom_headers
 - Package: usbmuxd
-  Version: 1.1.1-p20250201-2
+  Version: 1.1.1-p20250201-3
   Description: A socket daemon to multiplex connections from and to iOS devices
   Homepage: https://libimobiledevice.org
 - Package: usql
