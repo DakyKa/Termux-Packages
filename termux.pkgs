@@ -188,7 +188,7 @@
 | **busybox** | 1.38.0-1 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
 | **byacc** | 20260126 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
-| **byobu** | 7.20 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
+| **byobu** | 7.21 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
 | **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
 | **c-ares** | 1.34.8 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
 | **c-toxcore** | 0.2.23 | Backend library for the Tox protocol | https://tox.chat |
@@ -243,7 +243,7 @@
 | **chafa-static** | 1.18.3 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-3 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-3 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.73.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.73.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 6.0.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 6.0.0 | Static libraries for chicken | https://www.call-cc.org |
 | **chntpw** | 140201 | Offline Windows NT Password & Registry Editor | https://pogostick.net/~pnh/ntpasswd/ |
@@ -291,7 +291,7 @@
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
 | **cookcli** | 0.38.1 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
-| **coreutils** | 9.11-1 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
+| **coreutils** | 9.12 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-6 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
 | **corrosion** | 0.6.1 | Tool for integrating Rust into an existing CMake project | https://github.com/corrosion-rs/corrosion |
@@ -387,7 +387,7 @@
 | **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
 | **docopt-static** | 0.6.3-4 | Static libraries for docopt | http://docopt.org |
 | **doctest** | 2.5.3 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
-| **doctl** | 1.181.0 | The official command line interface for the DigitalOcean API | https://github.com/digitalocean/doctl |
+| **doctl** | 1.182.0 | The official command line interface for the DigitalOcean API | https://github.com/digitalocean/doctl |
 | **doge** | 0.2.9 | A command-line DNS client | https://github.com/Dj-Codeman/dog_community |
 | **doggo** | 1.4.0 | Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt | https://github.com/mr-karan/doggo |
 | **dopewars** | 1.6.2-1 | Drug-dealing game set in streets of New York City | https://dopewars.sourceforge.io |
@@ -691,7 +691,7 @@
 | **gomuks** | 26.09 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.18.0 | Google C++ testing framework | https://github.com/google/googletest |
-| **goose** | 3.28.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
+| **goose** | 3.29.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
 | **gopass** | 1.17.4 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.19 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
 | **gopls** | 0.23.0 | The official Go language server | https://github.com/golang/tools |
@@ -1062,7 +1062,7 @@
 | **libczmq-static** | 4.2.1-4 | Static libraries for libczmq | https://zeromq.org/ |
 | **libdaemon** | 0.14-1 | A lightweight C library that eases the writing of UNIX daemons | https://0pointer.de/lennart/projects/libdaemon/ |
 | **libdaemon-static** | 0.14-1 | Static libraries for libdaemon | https://0pointer.de/lennart/projects/libdaemon/ |
-| **libdart** | 6.19.5 | Dynamic Animation and Robotics Toolkit | https://dartsim.github.io/ |
+| **libdart** | 6.20.0 | Dynamic Animation and Robotics Toolkit | https://dartsim.github.io/ |
 | **libdav1d** | 1.5.4 | AV1 cross-platform decoder focused on speed and correctness | https://code.videolan.org/videolan/dav1d/ |
 | **libdb** | 18.1.40-6 | The Berkeley DB embedded database system (library) | https://www.oracle.com/database/berkeley-db |
 | **libdb-static** | 18.1.40-6 | Static libraries for libdb | https://www.oracle.com/database/berkeley-db |
@@ -1123,8 +1123,8 @@
 | **libfann** | 2.2.0-2 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
 | **libfcl** | 0.7.0-4 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
 | **libfdisk** | 2.42.4 | Library for manipulating disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
-| **libfdk-aac** | 2.0.3-1 | Fraunhofer FDK AAC Codec Library | https://github.com/mstorsjo/fdk-aac |
-| **libfdk-aac-static** | 2.0.3-1 | Static libraries for libfdk-aac | https://github.com/mstorsjo/fdk-aac |
+| **libfdk-aac** | 3.0.0 | Fraunhofer FDK AAC Codec Library | https://github.com/mstorsjo/fdk-aac |
+| **libfdk-aac-static** | 3.0.0 | Static libraries for libfdk-aac | https://github.com/mstorsjo/fdk-aac |
 | **libffi** | 3.8.0 | Library providing a portable, high level programming interface to various calling conventions | https://sourceware.org/libffi/ |
 | **libffi-static** | 3.8.0 | Static libraries for libffi | https://sourceware.org/libffi/ |
 | **libfixposix** | 0.5.1-1 | Thin wrapper over POSIX syscalls | https://github.com/sionescu/libfixposix/ |
@@ -1881,7 +1881,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.10.4 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.10.8 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkcert** | 1.4.4 | A simple zero-config tool to make locally trusted development certificates | https://github.com/FiloSottile/mkcert |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
@@ -2036,7 +2036,7 @@
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
 | **oh-my-posh** | 31.7.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oha** | 1.16.0 | HTTP load generator with realtime tui, inspired by rakyll/hey | https://github.com/hatoo/oha |
-| **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
+| **oidn** | 2.5.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **oils-for-unix** | 0.38.0-1 | Bash-compatible Unix shell with more consistent syntax and semantics | https://oils.pub/ |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2175,12 +2175,12 @@
 | **php-psr** | 1.2.0-4 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
 | **php-redis** | 6.3.0RC1+really6.3.0 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
 | **php-sodium** | 8.5.1 | Sodium module for PHP | https://php.net |
-| **php-zephir-parser** | 2.9.0 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
+| **php-zephir-parser** | 2.9.1 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
 | **phpmyadmin** | 5.2.3-1 | A PHP tool for administering MySQL and MariaDB databases | https://www.phpmyadmin.net |
 | **pianobar** | 2024.12.21-2 | pianobar is a free/open-source, console-based client for the personalized online radio Pandora. | https://6xq.net/pianobar/ |
 | **pick** | 4.0.0-4 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
 | **picocom** | 2018.04.12-1 | A minimal dumb-terminal emulation program | https://github.com/npat-efault/picocom |
-| **picolisp** | 26.6-1 | Lisp interpreter and application server framework | https://picolisp.com/wiki/?home |
+| **picolisp** | 26.9 | Lisp interpreter and application server framework | https://picolisp.com/wiki/?home |
 | **pigz** | 2.8-1 | Parallel implementation of the gzip file compressor | https://www.zlib.net/pigz |
 | **pikiwidb** | 3.5.6-3 | Redis-Compatible database developed by Qihoo's infrastructure team | https://github.com/OpenAtomFoundation/pikiwidb |
 | **pikiwidb-static** | 3.5.6-3 | Static libraries for pikiwidb | https://github.com/OpenAtomFoundation/pikiwidb |
@@ -2635,7 +2635,7 @@
 | **taglib** | 2.3.2 | A Library for reading and editing the meta-data of several popular audio formats. | http://taglib.github.io/ |
 | **taplo** | 0.10.0-1 | A TOML LSP and toolkit | https://taplo.tamasfe.dev/ |
 | **tar** | 1.35-3 | GNU tar for manipulating tar archives | https://www.gnu.org/software/tar/ |
-| **task-spooler** | 1:1.0.3-1 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
+| **task-spooler** | 1:1.0.4 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
 | **tasksh** | 1.2.0-11 | Shell command wrapping Taskwarrior commands | https://taskwarrior.org |
 | **taskwarrior** | 3.5.0 | Utility for managing your TODO list | https://taskwarrior.org |
 | **tcc** | 1:0.9.27-p20230415-2 | Tiny C Compiler | https://bellard.org/tcc/ |
@@ -2846,7 +2846,7 @@
 | **viddy** | 1.3.1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14.4-1 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z-1 | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.2.1150 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.2.1150-2 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.3.0 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.3.0-1 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.3.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
@@ -2890,7 +2890,7 @@
 | **webp-pixbuf-loader** | 0.2.7-1 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
 | **websocat** | 1.14.1 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-4 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
-| **webtunnel** | 0.0.5 | Pluggable Transport based on HTTP Upgrade(HTTPT) | https://torproject.org/ |
+| **webtunnel** | 0.0.7 | Pluggable Transport based on HTTP Upgrade(HTTPT) | https://torproject.org/ |
 | **weechat** | 4.10.1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
 | **weechat-lua-plugin** | 4.10.1 | WeeChat Lua Plugin | https://weechat.org/ |
 | **weechat-matrix-rs** | 2022.10.04-2 | Rust rewrite of the python weechat-matrix script | https://github.com/poljar/weechat-matrix-rs |
@@ -2943,7 +2943,7 @@
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7-1 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7-1 | Static libraries for xvidcore | https://www.xvid.com/ |
-| **xxd** | 9.2.1150 | Hexdump utility from vim | https://www.vim.org |
+| **xxd** | 9.2.1150-2 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.4 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.4 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.8.4 | XZ-format compression tools | https://tukaani.org/xz/ |
@@ -2963,12 +2963,12 @@
 | **yt-dlp-ejs** | 0.8.0-1 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-5 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
-| **yuma123** | 2.13-5 | Provides an opensource YANG API in C | https://yuma123.org/ |
-| **yuma123-static** | 2.13-5 | Static libraries for yuma123 | https://yuma123.org/ |
+| **yuma123** | 2.14 | Provides an opensource YANG API in C | https://yuma123.org/ |
+| **yuma123-static** | 2.14 | Static libraries for yuma123 | https://yuma123.org/ |
 | **z-push** | 2.7.6-1 | An open-source application to synchronize ActiveSync compatible devices and Outlook | https://z-push.org/ |
 | **z3** | 5.1.0 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
-| **zbar** | 0.23.93-2 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
-| **zbar-static** | 0.23.93-2 | Static libraries for zbar | https://github.com/mchehab/zbar |
+| **zbar** | 0.23.94 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
+| **zbar-static** | 0.23.94 | Static libraries for zbar | https://github.com/mchehab/zbar |
 | **zellij** | 0.45.1 | A terminal workspace with batteries included | https://zellij.dev/ |
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
 | **zig** | 0.16.0 | General-purpose programming language and toolchain | https://ziglang.org |

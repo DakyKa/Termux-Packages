@@ -1141,7 +1141,7 @@
   },
   {
     "Package": "byobu",
-    "Version": "7.20",
+    "Version": "7.21",
     "Description": "Byobu is a GPLv3 open source text-based window manager and terminal multiplexer",
     "Homepage": "https://www.byobu.org/"
   },
@@ -1471,7 +1471,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.73.0",
+    "Version": "2.73.1",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -1759,7 +1759,7 @@
   },
   {
     "Package": "coreutils",
-    "Version": "9.11-1",
+    "Version": "9.12",
     "Description": "Basic file, shell and text manipulation utilities from the GNU project",
     "Homepage": "https://www.gnu.org/software/coreutils/"
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.181.0",
+    "Version": "1.182.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -4159,7 +4159,7 @@
   },
   {
     "Package": "goose",
-    "Version": "3.28.0",
+    "Version": "3.29.0",
     "Description": "A database migration tool. Supports SQL migrations and Go functions.",
     "Homepage": "https://pressly.github.io/goose"
   },
@@ -6385,7 +6385,7 @@
   },
   {
     "Package": "libdart",
-    "Version": "6.19.5",
+    "Version": "6.20.0",
     "Description": "Dynamic Animation and Robotics Toolkit",
     "Homepage": "https://dartsim.github.io/"
   },
@@ -6751,13 +6751,13 @@
   },
   {
     "Package": "libfdk-aac",
-    "Version": "2.0.3-1",
+    "Version": "3.0.0",
     "Description": "Fraunhofer FDK AAC Codec Library",
     "Homepage": "https://github.com/mstorsjo/fdk-aac"
   },
   {
     "Package": "libfdk-aac-static",
-    "Version": "2.0.3-1",
+    "Version": "3.0.0",
     "Description": "Static libraries for libfdk-aac",
     "Homepage": "https://github.com/mstorsjo/fdk-aac"
   },
@@ -11299,7 +11299,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.10.4",
+    "Version": "2026.10.8",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -12229,7 +12229,7 @@
   },
   {
     "Package": "oidn",
-    "Version": "2.4.1",
+    "Version": "2.5.1",
     "Description": "Intel® Open Image Denoise library",
     "Homepage": "https://www.openimagedenoise.org"
   },
@@ -13063,7 +13063,7 @@
   },
   {
     "Package": "php-zephir-parser",
-    "Version": "2.9.0",
+    "Version": "2.9.1",
     "Description": "The Zephir Parser delivered as a C extension for the PHP language",
     "Homepage": "https://github.com/phalcon/php-zephir-parser"
   },
@@ -13093,7 +13093,7 @@
   },
   {
     "Package": "picolisp",
-    "Version": "26.6-1",
+    "Version": "26.9",
     "Description": "Lisp interpreter and application server framework",
     "Homepage": "https://picolisp.com/wiki/?home"
   },
@@ -15823,7 +15823,7 @@
   },
   {
     "Package": "task-spooler",
-    "Version": "1:1.0.3-1",
+    "Version": "1:1.0.4",
     "Description": "Task spooler is a Unix batch system where the tasks spooled run one after the other",
     "Homepage": "https://vicerveza.homeunix.net/~viric/soft/ts/"
   },
@@ -17089,7 +17089,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.1150",
+    "Version": "9.2.1150-2",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -17353,7 +17353,7 @@
   },
   {
     "Package": "webtunnel",
-    "Version": "0.0.5",
+    "Version": "0.0.7",
     "Description": "Pluggable Transport based on HTTP Upgrade(HTTPT)",
     "Homepage": "https://torproject.org/"
   },
@@ -17671,7 +17671,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.1150",
+    "Version": "9.2.1150-2",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
@@ -17791,13 +17791,13 @@
   },
   {
     "Package": "yuma123",
-    "Version": "2.13-5",
+    "Version": "2.14",
     "Description": "Provides an opensource YANG API in C",
     "Homepage": "https://yuma123.org/"
   },
   {
     "Package": "yuma123-static",
-    "Version": "2.13-5",
+    "Version": "2.14",
     "Description": "Static libraries for yuma123",
     "Homepage": "https://yuma123.org/"
   },
@@ -17815,13 +17815,13 @@
   },
   {
     "Package": "zbar",
-    "Version": "0.23.93-2",
+    "Version": "0.23.94",
     "Description": "Software suite for reading bar codes from various sources",
     "Homepage": "https://github.com/mchehab/zbar"
   },
   {
     "Package": "zbar-static",
-    "Version": "0.23.93-2",
+    "Version": "0.23.94",
     "Description": "Static libraries for zbar",
     "Homepage": "https://github.com/mchehab/zbar"
   },
