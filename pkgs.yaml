@@ -1563,7 +1563,7 @@
   Description: A command-line DNS client
   Homepage: https://github.com/Dj-Codeman/dog_community
 - Package: doggo
-  Version: 1.4.0
+  Version: 1.4.1
   Description: Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt
   Homepage: https://github.com/mr-karan/doggo
 - Package: dopewars
@@ -7911,7 +7911,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1828+g7e1ae5115f-0
+  Version: 0.13.0~dev-1830+g89370c06d7-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8143,7 +8143,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 31.7.0
+  Version: 31.8.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oha
@@ -9755,7 +9755,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20261005"
+  Version: "20261012"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen

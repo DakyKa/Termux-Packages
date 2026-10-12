@@ -389,7 +389,7 @@
  doctest  2.5.3  The fastest feature-rich C++11/14/17/20 single-header testing framework  https://github.com/doctest/doctest 
  doctl  1.182.0  The official command line interface for the DigitalOcean API  https://github.com/digitalocean/doctl 
  doge  0.2.9  A command-line DNS client  https://github.com/Dj-Codeman/dog_community 
- doggo  1.4.0  Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt  https://github.com/mr-karan/doggo 
+ doggo  1.4.1  Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt  https://github.com/mr-karan/doggo 
  dopewars  1.6.2-1  Drug-dealing game set in streets of New York City  https://dopewars.sourceforge.io 
  dos2unix  7.5.7  Converts between DOS and Unix text files  https://waterlander.net/dos2unix/ 
  dosfstools  4.2-1  DOS file system utilities  https://github.com/dosfstools/dosfstools 
@@ -1976,7 +1976,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.6  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-1828+g7e1ae5115f-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-1830+g89370c06d7-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2034,7 +2034,7 @@
  octomap  1.10.1  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.1  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-5  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  31.7.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  31.8.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  oha  1.16.0  HTTP load generator with realtime tui, inspired by rakyll/hey  https://github.com/hatoo/oha 
  oidn  2.5.1  Intel® Open Image Denoise library  https://www.openimagedenoise.org 
  oils-for-unix  0.38.0-1  Bash-compatible Unix shell with more consistent syntax and semantics  https://oils.pub/ 
@@ -2437,7 +2437,7 @@
  runit-static  2.3.1  Static libraries for runit  http://smarden.org/runit 
  rush  0.11.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.99.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20261005  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20261012  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.73.2  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.99.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.99.0  Rust source code files  https://www.rust-lang.org/ 
