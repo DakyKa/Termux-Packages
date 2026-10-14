@@ -517,7 +517,7 @@
   },
   {
     "Package": "aspnetcore-runtime-10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": "ASP.NET Core 10.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -535,7 +535,7 @@
   },
   {
     "Package": "aspnetcore-runtime-dbg-10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": "ASP.NET Core 10.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -553,7 +553,7 @@
   },
   {
     "Package": "aspnetcore-targeting-pack-10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": "ASP.NET Core 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -1909,7 +1909,7 @@
   },
   {
     "Package": "ctranslate2",
-    "Version": "4.8.3",
+    "Version": "4.8.3-1",
     "Description": "A fast inference engine for Transformer models",
     "Homepage": "https://github.com/OpenNMT/CTranslate2"
   },
@@ -2383,7 +2383,7 @@
   },
   {
     "Package": "dotnet-apphost-pack-10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": ".NET 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2407,7 +2407,7 @@
   },
   {
     "Package": "dotnet-host-10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": ".NET 10.0 Host",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2425,7 +2425,7 @@
   },
   {
     "Package": "dotnet-hostfxr-10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": ".NET 10.0 Host Resolver",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2443,7 +2443,7 @@
   },
   {
     "Package": "dotnet-runtime-10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": ".NET 10.0 Runtime",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2461,7 +2461,7 @@
   },
   {
     "Package": "dotnet-runtime-dbg-10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": ".NET 10.0 Runtime Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2479,7 +2479,7 @@
   },
   {
     "Package": "dotnet-sdk-10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": ".NET 10.0 SDK",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2497,7 +2497,7 @@
   },
   {
     "Package": "dotnet-sdk-dbg-10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": ".NET 10.0 SDK Managed Debug Symbols",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2515,7 +2515,7 @@
   },
   {
     "Package": "dotnet-targeting-pack-10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": ".NET 10.0 Targeting Pack",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2533,7 +2533,7 @@
   },
   {
     "Package": "dotnet-templates-10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": ".NET 10.0 Templates",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -2551,7 +2551,7 @@
   },
   {
     "Package": "dotnet10.0",
-    "Version": "10.0.12",
+    "Version": "10.0.13",
     "Description": ".NET 10.0",
     "Homepage": "https://dotnet.microsoft.com/en-us/"
   },
@@ -5893,7 +5893,7 @@
   },
   {
     "Package": "libarrow-cpp",
-    "Version": "26.0.0-1",
+    "Version": "26.0.0-2",
     "Description": "C++ libraries for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -10831,7 +10831,7 @@
   },
   {
     "Package": "manim",
-    "Version": "0.22.0",
+    "Version": "0.22.0-1",
     "Description": "A community-maintained Python framework for creating mathematical animations",
     "Homepage": "https://manim.community"
   },
@@ -10885,7 +10885,7 @@
   },
   {
     "Package": "matplotlib",
-    "Version": "3.11.2-1",
+    "Version": "3.11.2-2",
     "Description": "A comprehensive library for creating static, animated, and interactive visualizations in Python",
     "Homepage": "https://matplotlib.org/"
   },
@@ -13621,7 +13621,7 @@
   },
   {
     "Package": "python-contourpy",
-    "Version": "1.4.0",
+    "Version": "1.4.0-1",
     "Description": "Python library for calculating contours in 2D quadrilateral grids",
     "Homepage": "https://contourpy.readthedocs.io/"
   },
@@ -13639,7 +13639,7 @@
   },
   {
     "Package": "python-ctranslate2",
-    "Version": "4.8.3",
+    "Version": "4.8.3-1",
     "Description": "Python bindings for CTranslate2",
     "Homepage": "https://github.com/OpenNMT/CTranslate2"
   },
@@ -13717,13 +13717,13 @@
   },
   {
     "Package": "python-numpy",
-    "Version": "2.4.4-1",
+    "Version": "2.5.4",
     "Description": "The fundamental package for scientific computing with Python",
     "Homepage": "https://numpy.org/"
   },
   {
     "Package": "python-numpy-static",
-    "Version": "2.4.4-1",
+    "Version": "2.5.4",
     "Description": "Static libraries for python-numpy",
     "Homepage": "https://numpy.org/"
   },
@@ -13759,7 +13759,7 @@
   },
   {
     "Package": "python-pyarrow",
-    "Version": "26.0.0-1",
+    "Version": "26.0.0-2",
     "Description": "Python bindings for Apache Arrow",
     "Homepage": "https://github.com/apache/arrow"
   },
@@ -13813,7 +13813,7 @@
   },
   {
     "Package": "python-scipy",
-    "Version": "1.18.1",
+    "Version": "1.18.1-1",
     "Description": "Fundamental algorithms for scientific computing in Python",
     "Homepage": "https://scipy.org/"
   },
@@ -13825,7 +13825,7 @@
   },
   {
     "Package": "python-soxr",
-    "Version": "1.1.0-1",
+    "Version": "1.1.0-2",
     "Description": "Fast and high quality sample-rate conversion library for Python",
     "Homepage": "https://github.com/dofuuz/python-soxr"
   },
@@ -13837,7 +13837,7 @@
   },
   {
     "Package": "python-tflite-runtime",
-    "Version": "2.21.0",
+    "Version": "2.21.0-1",
     "Description": "TensorFlow Lite Python bindings",
     "Homepage": "https://www.tensorflow.org/lite"
   },
@@ -13855,13 +13855,13 @@
   },
   {
     "Package": "python-torch",
-    "Version": "2.14.1-1",
+    "Version": "2.14.1-2",
     "Description": "Tensors and Dynamic neural networks in Python",
     "Homepage": "https://pytorch.org/"
   },
   {
     "Package": "python-torch-static",
-    "Version": "2.14.1-1",
+    "Version": "2.14.1-2",
     "Description": "Static libraries for python-torch",
     "Homepage": "https://pytorch.org/"
   },
@@ -13879,7 +13879,7 @@
   },
   {
     "Package": "python-torchvision",
-    "Version": "0.29.1-1",
+    "Version": "0.29.1-2",
     "Description": "Datasets, Transforms and Models specific to Computer Vision",
     "Homepage": "https://github.com/pytorch/vision"
   },
